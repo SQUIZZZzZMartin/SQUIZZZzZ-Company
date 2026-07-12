@@ -1,0 +1,4 @@
+
+**Verknüpfungen
+[[Academy]]
+[[SQUIZZZzZ]]
