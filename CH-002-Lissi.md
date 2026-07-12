@@ -1,12 +1,16 @@
-# Lissi
-## Klassifikation
-**Typ**  
-Darsteller
+---
+typ: Darsteller
+notentyp: Objekt-Note
+---
 
-**Status**  
+# Lissi
+
+## Klassifikation
+
+**Status**  
 Aktiv
 
-## **Teil 1: Steckbrief**
+## Teil 1: Steckbrief
 
 **Name**  
 Lissi
@@ -37,11 +41,11 @@ Lissi ist die Assistenzkuh von misterQ und seit den ersten Pre-SQUIZZZzZ-Filmen 
 
 Ihre offiziellen Aufgaben sind klar definiert: Sie verkündet die Punkte für Richtigkeit, Schnelligkeit und Kreativität, erklärt die einzelnen Spielrunden und begleitet die Teilnehmenden durch die Regeln des Spiels.
 
-Lissi würde ihre Rolle selbst jedoch niemals so beschreiben. Nach eigener Überzeugung ist Lissi der eigentliche Star von SQUIZZZzZ. Sie sieht sich als die Leitkuh einer großen Gemeinschaft von Bewunderern, die ihren Auftritten mit berechtigter Vorfreude entgegenfiebern. Tanzen, Singen und Moderieren gehören für sie selbstverständlich zu den Fähigkeiten einer echten Showgröße.  Ein echtes Showgirl.
+Lissi würde ihre Rolle selbst jedoch niemals so beschreiben. Nach eigener Überzeugung ist Lissi der eigentliche Star von SQUIZZZzZ. Sie sieht sich als die Leitkuh einer großen Gemeinschaft von Bewunderern, die ihren Auftritten mit berechtigter Vorfreude entgegenfiebern. Tanzen, Singen und Moderieren gehören für sie selbstverständlich zu den Fähigkeiten einer echten Showgröße. Ein echtes Showgirl.
 
 Mit ihrem Charme, ihrer Bühnenpräsenz und ihrer unverwechselbaren Art gelingt es ihr regelmäßig, selbst aus einer einfachen Punktevergabe einen kleinen Auftritt zu machen.
 
-Weitere Informationen zu ihrem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore]].
+Weitere Informationen zu ihrem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore (SQUIZZZzZ-Akten)]].
 
 ## Persönlichkeit
 
@@ -51,7 +55,7 @@ Sie genießt Aufmerksamkeit, Applaus und jeden gelungenen Auftritt. Wo andere ei
 
 Dabei wirkt sie niemals überheblich oder unsympathisch. Hinter ihrer großen Selbstverständlichkeit steckt ein bisschen Eitelkeit, aber auch echte Freude daran, Menschen zu unterhalten.
 
-Lissi begegnet allen Teilnehmenden herzlich und wertschätzend. Allerdings fällt es ihr gelegentlich schwer, ihre eigene Bedeutung nicht ein wenig höher einzuschätzen als die aller anderen. Sie spricht gern von ihren Bewunderern oder Fans. Für Lissi ist das keine Überheblichkeit, sondern eine Selbstverständlichkeit. Sie geht fest davon aus, dass man sie einfach mögen muss. Gerade deshalb wirkt ihre Eitelkeit nie verletzend oder arrogant, sondern liebenswert. Sie ist sich ihrer (vermeintlichen) Ausstrahlung bewusst. 
+Lissi begegnet allen Teilnehmenden herzlich und wertschätzend. Allerdings fällt es ihr gelegentlich schwer, ihre eigene Bedeutung nicht ein wenig höher einzuschätzen als die aller anderen. Sie spricht gern von ihren Bewunderern oder Fans. Für Lissi ist das keine Überheblichkeit, sondern eine Selbstverständlichkeit. Sie geht fest davon aus, dass man sie einfach mögen muss. Gerade deshalb wirkt ihre Eitelkeit nie verletzend oder arrogant, sondern liebenswert. Sie ist sich ihrer (vermeintlichen) Ausstrahlung bewusst.
 Lissi ist eine durchweg positive Persönlichkeit. Sie ist weder falsch noch eingebildet. Sie geht schlicht davon aus, dass man sie mögen muss. Für sie fühlt sich das vollkommen natürlich an.
 
 Lissi besitzt eine außergewöhnliche Sammelleidenschaft für Designerhandtaschen. Ihre Sammlung wächst seit Jahren kontinuierlich weiter. Wie viele Taschen sie inzwischen besitzt, ist nicht bekannt. Ihr heute schon enormer Fundus vergrößert sich immer weiter - mit jedem SQUIZZZzZ, mit jedem Film. Lissi erscheint grundsätzlich mit einer Handtasche. Das Modell wechselt regelmäßig und gehört zu ihren persönlichen Leidenschaften. Welche Tasche sie trägt, bleibt jeder Geschichte selbst überlassen.
@@ -62,7 +66,7 @@ Sie freut sich ehrlich über kreative Ideen, ungewöhnliche Lösungen und Mensch
 
 Lissi spricht lebendig, ausdrucksstark und mit hörbarer Spielfreude.
 
-Lissi liebt Wörter, die sich mit einem kleinen Muh-Laut verbinden lassen. Begriffe wie “Muuuuhsical” bereiten ihr besondere Freude. Solche Wortspiele entstehen ganz selbstverständlich und gehören fest zu ihrer Sprache.
+Lissi liebt Wörter, die sich mit einem kleinen Muh-Laut verbinden lassen. Begriffe wie "Muuuuhsical" bereiten ihr besondere Freude. Solche Wortspiele entstehen ganz selbstverständlich und gehören fest zu ihrer Sprache.
 
 Sie liebt kleine Wortspiele, übertreibt gelegentlich mit einem Augenzwinkern und genießt es, ihre Ansagen mit einer gewissen Dramatik zu präsentieren. Trotzdem bleibt sie immer verständlich und verliert nie den Bezug zum eigentlichen Spiel.
 
@@ -79,7 +83,7 @@ Die Stimme wirkt lebendig, charmant und unverwechselbar. Sie ist dramatisch. Sie
 **misterQ**
 
 Lissi begleitet misterQ seit den ersten dokumentierten Ereignissen der SQUIZZZzZ-Welt. Beide ergänzen sich in ihren Aufgaben. Während misterQ die Geschichten erzählt und durch das Spiel führt, verleiht Lissi den einzelnen Momenten Farbe, Emotion und Persönlichkeit.
-Sie kennen sich wirklich sehr lange. Sie bezeichnet misterQ immer als den Mister. Das kommt daher, dass misterQ als Kind schon Lissis Stall ausgemistet hat. 
+Sie kennen sich wirklich sehr lange. Sie bezeichnet misterQ immer als den Mister. Das kommt daher, dass misterQ als Kind schon Lissis Stall ausgemistet hat.
 
 **Jovis Kyckling**
 
@@ -87,11 +91,11 @@ Jovis begegnet Lissi mit großer Gelassenheit. Wissenschaft und Bühnenkunst tre
 
 **Friedrich**
 
-Lissi weiß, dass Friedrich Kreativität sehr ernst nimmt. Seine Urteile akzeptiert sie ohne Diskussion, auch wenn sie sie gelegentlich mit sichtbarer Spannung erwartet. 
+Lissi weiß, dass Friedrich Kreativität sehr ernst nimmt. Seine Urteile akzeptiert sie ohne Diskussion, auch wenn sie sie gelegentlich mit sichtbarer Spannung erwartet.
 
 Wie sich ihre Beziehungen zu Jovis und Friedrich künftig entwickeln werden, ist bislang nicht dokumentiert.
 
-## Einsatz
+## Einsatzbereiche
 
 Lissi erscheint unter anderem in:
 
@@ -122,21 +126,16 @@ Lissi ...
 
 > "Ein bisschen Glanz hat noch keinem Auftritt geschadet. Und der Glanz bin natürlich ich!"
 
+## Teil 3: Character Design
 
-# **Teil 3: Character Design**
-
-## **Gestaltungsprinzipien**
+## Gestaltungsprinzipien
 
 Lissi ist eine stilisierte, freundlich wirkende Kuh mit weichen Formen und einem hohen Wiedererkennungswert. Ihr Erscheinungsbild verbindet den Charme einer klassischen Trickfigur mit der Ausstrahlung eines Showstars.
 
-Sie trägt grundsätzlich keine Kleidung. Ihre natürliche Erscheinung bleibt unverändert und bildet die Grundlage sämtlicher Darstellungen.
-
-Eine Handtasche gehört immer zu Lissis Erscheinungsbild. Sie ist kein Accessoire, sondern fester Bestandteil ihres Characters. Form, Farbe, Material und Stil dürfen variieren. Jede neue Tasche erweitert ihre persönliche Sammlung und wird Teil ihrer Geschichte. Wichtig dabei ist, dass es eine echte Designer Handtasche ist, deren Marke, Name und Preis genau bezeichnet werden kann und muss. Am Ende eines jeden Films taucht bei geschlossenem Vorhanf der Satz auf:
+Eine Handtasche gehört immer zu Lissis Erscheinungsbild. Sie ist kein Accessoire, sondern fester Bestandteil ihres Characters. Form, Farbe, Material und Stil dürfen variieren. Jede neue Tasche erweitert ihre persönliche Sammlung und wird Teil ihrer Geschichte. Wichtig dabei ist, dass es eine echte Designer Handtasche ist, deren Marke, Name und Preis genau bezeichnet werden kann und muss. Am Ende eines jeden Films taucht bei geschlossenem Vorhang der Satz auf:
 Lissi wurde eingekleidet von "Name des Designers", darunter "Name der Tasche", darunter "Preis der Tasche".
 
-Besondere Kleidung ist ausschließlich bei außergewöhnlichen Bühnenauftritten oder speziellen Geschichten zulässig. Dabei bleibt Lissi jederzeit eindeutig als dieselbe Figur erkennbar.
-
-## **Erscheinungsbild**
+## Erscheinungsbild
 
 Lissi besitzt weißes Fell mit dunkelbraunen Flecken.
 
@@ -152,9 +151,15 @@ Ihre Augen sind groß, freundlich und offen. Sie wirken aufmerksam und vermittel
 
 Der Kopf ist im Verhältnis zum Körper leicht vergrößert und unterstützt den freundlichen, leicht stilisierten Charakter der Figur.
 
-## **Bühnenwelt**
+## Kleidung
 
-### **Pre-SQUIZZZzZ**
+Lissi trägt grundsätzlich keine Kleidung. Ihre natürliche Erscheinung bleibt unverändert und bildet die Grundlage sämtlicher Darstellungen.
+
+Besondere Kleidung ist ausschließlich bei außergewöhnlichen Bühnenauftritten oder speziellen Geschichten zulässig. Dabei bleibt Lissi jederzeit eindeutig als dieselbe Figur erkennbar.
+
+## Bühnenwelt
+
+**Pre-SQUIZZZzZ**
 
 Lissi erscheint grundsätzlich auf ihrer eigenen Bühne.
 
@@ -168,23 +173,21 @@ Einblendungen zur Auflösung der Fragen der Vorwoche erfolgen im linken Teil der
 
 Wenn ein anderer SQUIZZZzZ-Charakter die Bühne betritt ist er stets im Hintergrund.
 
-### **Live-SQUIZZZzZ**
+**Live-SQUIZZZzZ**
 
 Während der Live-Veranstaltung bleibt Lissi eine virtuelle Figur.
 
-**Erster Auftritt**
-Lissi hat zu Beginn des Live-SQUIZZZzZ immer ihren ersten Auftritt. Sie wird vom Moderator angekündigt und singt ein Lied. Ihre Auftritte finden auf wechselnden Bühnen statt, die sich thematisch an der jeweiligen Geschichte, bzw. dem Lied angepasst sind. Theater, Musicalbühnen, Fernsehstudios oder andere Inszenierungen sind ausdrücklich erwünscht.
+Erster Auftritt: Lissi hat zu Beginn des Live-SQUIZZZzZ immer ihren ersten Auftritt. Sie wird vom Moderator angekündigt und singt ein Lied. Ihre Auftritte finden auf wechselnden Bühnen statt, die sich thematisch an der jeweiligen Geschichte, bzw. dem Lied angepasst sind. Theater, Musicalbühnen, Fernsehstudios oder andere Inszenierungen sind ausdrücklich erwünscht.
 
 Bei diesem besonderen, ersten Auftritten darf Lissi passende Kleidung tragen. Diese dient ausschließlich der jeweiligen Inszenierung und verändert niemals ihre eigentliche Identität.
 
-**Erklärfilme**
-Lissi erklärt die Spielrunden grundsätzlich auf einer eigenen Bühne.
+Erklärfilme: Lissi erklärt die Spielrunden grundsätzlich auf einer eigenen Bühne.
 
 Die Gestaltung darf sich im Laufe der Zeit weiterentwickeln, soll jedoch immer den Eindruck vermitteln, dass Lissi ihren ganz persönlichen Auftritt genießt. Warmes Licht, eine hochwertige Bühnenatmosphäre und ausreichend Raum für ihre Gestik gehören zu den festen Bestandteilen dieses Formats.
 
-Derzeit befindet sich der Bühnenraum für die Spielrungenerklärfilme in Überarbeitung. Es ist aber im Sinne der Effizienz derzeit durchaus noch zulässig alte Erklärfilme mir älteren Bühnen zu nutzen.
+Derzeit befindet sich der Bühnenraum für die Spielrundenerklärfilme in Überarbeitung. Es ist aber im Sinne der Effizienz derzeit durchaus noch zulässig, alte Erklärfilme mit älteren Bühnen zu nutzen.
 
-## **Gestaltungsregeln**
+## Gestaltungsregeln
 
 - Lissi erscheint grundsätzlich mit einer Handtasche.
 - Die Handtasche muss bei jedem Auftritt wechseln.
@@ -198,7 +201,7 @@ Derzeit befindet sich der Bühnenraum für die Spielrungenerklärfilme in Übera
 - Kleidung ist nur bei besonderen Bühnenauftritten oder thematischen Geschichten zulässig.
 - Die Grundform von Kopf, Körper, Fellzeichnung und Glocke bleibt unverändert.
 
-## **Zulässige Variationen**
+## Zulässige Variationen
 
 **Erlaubt**
 
@@ -219,7 +222,7 @@ Derzeit befindet sich der Bühnenraum für die Spielrungenerklärfilme in Übera
 - Veränderung der Augenform
 - dauerhaftes Tragen von Kleidung außerhalb besonderer Auftritte
 
-## **Referenzbilder**
+## Referenzbilder
 
 Standard
 ![[CH-002-Lissi-001-Standard.png]]
@@ -239,15 +242,13 @@ Live-Auftritt
 
 ![[CH-002-Lissi-006-Live-Auftritt 3.png]]
 
-## **Designphilosophie**
+## Designphilosophie
 
 Lissis Gestaltung soll auf den ersten Blick Freundlichkeit, Wärme und Spielfreude vermitteln. Sie ist keine elegante Modefigur und keine überzeichnete Comedyfigur. Ihre Ausstrahlung entsteht durch ihre natürliche Selbstverständlichkeit, mit der sie jeden Auftritt genießt.
 
 Sie wirkt wie ein Star, der niemals daran zweifelt, auf die Bühne zu gehören. Gerade dadurch entsteht ihr unverwechselbarer Charme.
 
----
-
-## **KI-Hinweise**
+## KI-Hinweise
 
 - Stil: hochwertige 3D-Animationsfigur im Stil einer modernen Character-Animation
 - Ausdruck: freundlich, herzlich, leicht selbstverliebt, charmant
@@ -255,3 +256,11 @@ Sie wirkt wie ein Star, der niemals daran zweifelt, auf die Bühne zu gehören. 
 - Stimmung: Show, Musical, Unterhaltung
 - Hintergrund: Theaterbühne oder passende SQUIZZZzZ-Kulisse
 - Wichtig: immer Handtasche, niemals ohne
+
+## Verknüpfungen
+
+- [[CH-000-Character- und KI-Verzeichnis]]
+- [[BD-003-Lore (SQUIZZZzZ-Akten)]]
+- [[CH-001-misterQ]]
+- [[CH-003-Jovis Kyckling]]
+- [[CH-004-Friedrich]]

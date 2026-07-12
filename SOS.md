@@ -1,5 +1,6 @@
-## Typ
-Kern-Note
+---
+typ: Kern-Note
+---
 
 ## Zweck
 

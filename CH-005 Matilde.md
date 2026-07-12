@@ -1,8 +1,10 @@
+---
+typ: Company-KI
+notentyp: Objekt-Note
+---
+
 
 ## **Klassifikation**
-
-**Typ**  
-Company-KI
 
 **Status**  
 in Entwicklung
@@ -12,7 +14,7 @@ in Entwicklung
 **Name**  
 Matilde Anställningar
 
-![[CH-005-Matilde.png]]]
+![[CH-005-Matilde.png]]
 
 **Erster dokumentierter Auftritt**  
 11.06.2026

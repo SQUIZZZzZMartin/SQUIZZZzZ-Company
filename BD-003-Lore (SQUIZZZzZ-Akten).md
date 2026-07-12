@@ -1,7 +1,9 @@
+---
+typ: Objekt-Note
+---
 
 ***Hinweis für Menschen und KI-Assistenten***
 *Die Lore beschreibt den offiziellen Kanon der SQUIZZZzZ-Welt. Ereignisse werden bewusst aus der Perspektive dieser Welt erzählt. Für gestalterische, technische und organisatorische Vorgaben sind die jeweiligen Fachdokumente (Brand Design, Characters, Motion Design usw.) maßgeblich.*
-
 ## Die Geschichte der SQUIZZZzZ-Welt
 Die Lore (SQUIZZZzZ-Akten) dokumentiert den offiziellen Kanon der SQUIZZZzZ-Welt. Sie beschreibt die Entstehung ihrer Characters, ihrer Geschichten und jener kleinen Begebenheiten, die im Laufe der Zeit zu festen Bestandteilen der Welt geworden sind.
 
@@ -105,3 +107,7 @@ Und manchmal geschieht etwas, womit niemand gerechnet hat. Dann tritt irgendwo a
 - [[CH-003-Jovis Kyckling]]
 
 - [[CH-004-Friedrich]]
+
+## Verknüpfungen
+
+- [[SQUIZZZzZ Welt]]

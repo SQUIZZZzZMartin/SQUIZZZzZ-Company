@@ -1,5 +1,6 @@
-## Typ
-Konzept-Note
+---
+typ: Konzept-Note
+---
 
 ## Zweck
 Das Corporate Design definiert das einheitliche Erscheinungsbild von SQUIZZZzZ. Es stellt sicher, dass alle visuellen Elemente des Unternehmens konsistent gestaltet werden und als zusammengehörig erkennbar sind.
@@ -27,12 +28,7 @@ Die einzelnen Bereiche werden in eigenen Notes beschrieben.
 ## Verzeichnis
 
 - [[CD-001-Corporate Logo]]
-- [[DES-001-Farbwelt]]
-- [[DES-002-Typografie]]
 - [[CD-006-Grafische Standards]]
-- [[CD-007-Icons]]
-- [[CD-008-Diagrammstil]]
-- [[CD-009-Bildsprache]]
 
 ## Beispiele
 Beispiele für die Anwendung des Corporate Designs sind:
@@ -48,5 +44,7 @@ Beispiele für die Anwendung des Corporate Designs sind:
 
 - [[SOS]]
 - [[Orange Codex]]
--  [[CH-000-Character- und KI-Verzeichnis]]
-- 
+- [[CH-000-Character- und KI-Verzeichnis]]
+- [[DES-000-Design System]]
+- [[DES-001-Farbwelt]]
+- [[DES-002-Typografie]]

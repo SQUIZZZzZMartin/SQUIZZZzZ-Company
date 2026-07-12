@@ -1,3 +1,6 @@
+---
+typ: Modell-Note
+---
 
 ## Zweck
 

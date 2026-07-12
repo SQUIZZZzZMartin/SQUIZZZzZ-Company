@@ -1,12 +1,16 @@
-# **Jovis**
-## Klassifikation
-**Typ**  
-Darsteller
+---
+typ: Darsteller
+notentyp: Objekt-Note
+---
 
-**Status**  
+# Jovis
+
+## Klassifikation
+
+**Status**  
 Aktiv
 
-## **Teil 1: Steckbrief**
+## Teil 1: Steckbrief
 
 **Name**  
 Jovis Kyckling
@@ -29,11 +33,9 @@ Bisher nicht dokumentiert.
 **Erkennungsmerkmal**  
 Tanzender Hahn
 
----
+## Teil 2: Characterprofil
 
-## **Teil 2: Characterprofil**
-
-## **Charakter**
+## Charakter
 
 Jovis Kyckling gehört zu den rätselhaftesten Persönlichkeiten der SQUIZZZzZ-Welt.
 
@@ -48,9 +50,9 @@ Für Jovis gibt es keine großen und keine kleinen Aufgaben.
 
 Es gibt nur Aufgaben, die in diesem Moment getan werden müssen.
 
-Weitere Informationen zu seinem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore]].
+Weitere Informationen zu seinem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore (SQUIZZZzZ-Akten)]].
 
-## **Persönlichkeit**
+## Persönlichkeit
 
 Jovis ist von unerschöpflicher Neugier geprägt.
 
@@ -86,8 +88,7 @@ Menschen betrachtet er mit großer Offenheit.
 
 Er freut sich über ihre Kreativität, ihre Ideen und ihre Neugier. Gleichzeitig beobachtet er mit Sorge, welche Spuren sie manchmal in ihrer Welt hinterlassen. Dennoch verliert er nie die Hoffnung, dass Möglichkeiten größer sein können als ihre Ängste.
 
-
-## **Sprache**
+## Sprache
 
 Bis heute ist nicht dokumentiert, dass Jovis jemals gesprochen hat.
 
@@ -109,24 +110,35 @@ Er erledigt Aufgaben mit großer Selbstverständlichkeit.
 
 Worte wären für ihn oft nur eine zusätzliche Erklärung dessen, was längst sichtbar geworden ist.
 
-
-## **Stimme**
+## Stimme
 
 Bis heute existiert keine dokumentierte Stimme von Jovis.
 
 Sollte Jovis eines Tages sprechen, geschieht dies ausschließlich dann, wenn die Geschichte es wirklich erfordert.
 
-# **Teil 3: Character Design**
+## Beziehungen
 
-## **Gestaltungsprinzipien**
+**misterQ**
+
+Jovis überrascht misterQ immer wieder mit wissenschaftlichen Ideen, deren Funktionsweise dieser nur selten vollständig versteht. misterQ vertraut ihm dennoch, weil Jovis bisher noch jedes scheinbar unmögliche Problem gelöst hat.
+
+**Lissi**
+
+Jovis begegnet Lissi mit großer Gelassenheit. Wissenschaft und Bühnenkunst treffen nur selten aufeinander, dennoch begegnen sich beide mit gegenseitigem Respekt.
+
+**Friedrich**
+
+Friedrich und Jovis verbindet die Freude am Entdecken. Während Jovis verstehen möchte, wie die Welt funktioniert, sucht Friedrich nach ihrer Bedeutung. Beide schätzen Schönheit – der eine in Formeln, der andere in Worten.
+
+## Teil 3: Character Design
+
+## Gestaltungsprinzipien
 
 Jovis ist eine stilisierte, freundlich wirkende Hahnfigur mit weichen Formen und einem hohen Wiedererkennungswert. Sein Erscheinungsbild vermittelt Ruhe, Offenheit und Neugier. Er wirkt niemals hektisch oder überzeichnet.
 
 Seine Gestaltung verbindet Wissenschaft, Musik und Bewegung zu einer selbstverständlichen Einheit. Nichts an ihm soll den Eindruck erwecken, dass diese Eigenschaften ungewöhnlich wären. Für Jovis gehören sie ganz selbstverständlich zusammen.
 
-Jovis hat keine Kleidung.
-
-## **Erscheinungsbild**
+## Erscheinungsbild
 
 Jovis besitzt ein helles Federkleid mit warmen, natürlichen Farbtönen.
 
@@ -136,12 +148,15 @@ Sein Körperbau wirkt schlank und beweglich. Er vermittelt Leichtigkeit, ohne ze
 
 Seine Augen strahlen Aufmerksamkeit und echte Neugier aus. Sie beobachten ihre Umgebung mit großem Interesse und wirken niemals misstrauisch oder streng.
 
-Sein Gesichtsausdruck bleibt meist ruhig und freundlich. Er lächelt selten bewusst, wirkt aber dennoch warm und zugänglich.
-
-## **Kleidung**
+## Kleidung
 
 Jovis trägt grundsätzlich keine Kleidung.
-## **Lebenswelt**
+
+## Mimik
+
+Sein Gesichtsausdruck bleibt meist ruhig und freundlich. Er lächelt selten bewusst, wirkt aber dennoch warm und zugänglich.
+
+## Lebenswelt
 
 Jovis besitzt keine Bühne.
 
@@ -159,9 +174,9 @@ Alles erzählt davon, dass hier jemand mit großer Freude entdeckt und ausprobie
 
 Wenn er bei SQUIZZZzZ auftaucht dann natürlich nur in die Welt und die Orte die wir kennen. Er nimmt diese als selbstverständlich an und bewegt sich darin mit Leichtigkeit und Selbstverständnis.
 
-## **Bewegung**
+## Bewegung
 
-Bewegung ist ein wesentlicher Bestandteil von Jovis’ Persönlichkeit.
+Bewegung ist ein wesentlicher Bestandteil von Jovis' Persönlichkeit.
 
 Er geht ruhig und gelassen.
 
@@ -169,7 +184,7 @@ Beginnt Musik zu spielen, reagiert sein Körper beinahe unwillkürlich darauf. S
 
 Auch während anderer Tätigkeiten bleibt Bewegung sichtbar. Beim Kochen, Arbeiten oder Nachdenken entstehen kleine, fließende Bewegungen ganz selbstverständlich.
 
-## **Gestaltungsregeln**
+## Gestaltungsregeln
 
 - Jovis wirkt stets ruhig und gelassen.
 - Seine Bewegungen sind weich und fließend.
@@ -180,7 +195,7 @@ Auch während anderer Tätigkeiten bleibt Bewegung sichtbar. Beim Kochen, Arbeit
 - Er erscheint niemals laut oder aggressiv.
 - Seine Umgebung vermittelt Wärme und Neugier statt technischer Kälte.
 
-## **Zulässige Variationen**
+## Zulässige Variationen
 
 **Erlaubt**
 
@@ -198,15 +213,14 @@ Auch während anderer Tätigkeiten bleibt Bewegung sichtbar. Beim Kochen, Arbeit
 - Sternenhimmel
 
 **Nicht zulässig**
+
 - ausgrenzendes Verhalten
 
----
-
-## **Referenzbilder**
+## Referenzbilder
 
 **Standard**
 
-![[CH-003-Jovis-001-Standard.png]]- 
+![[CH-003-Jovis-001-Standard.png]]
 
 **Tanzen**
 ![[CH-003-Jovis-002-Tanz.png]]
@@ -214,8 +228,7 @@ Auch während anderer Tätigkeiten bleibt Bewegung sichtbar. Beim Kochen, Arbeit
 **Am Klavier**
 ![[CH-003-Jovis-003-Klavier.png]]
 
-
-## **Designphilosophie**
+## Designphilosophie
 
 Jovis soll auf den ersten Blick Ruhe, Vertrauen und echte Neugier ausstrahlen.
 
@@ -223,7 +236,7 @@ Seine Gestaltung lebt nicht von spektakulären Details, sondern von einer tiefen
 
 Jovis stellt nichts zur Schau. Gerade deshalb wirken seine außergewöhnlichen Fähigkeiten glaubwürdig.
 
-## **KI-Hinweise**
+## KI-Hinweise
 
 **Stil**  
 Hochwertige stilisierte 3D-Animationsfigur im Stil moderner Character-Animationen. Freundlich, warm und glaubwürdig. Nicht fotorealistisch.
@@ -258,5 +271,12 @@ Warme Naturfarben mit dezenten wissenschaftlichen Akzenten. Die Farbgestaltung o
 - Er strahlt Hoffnung, Ruhe und Vertrauen aus.
 - Er ist ein besonderes Huhn, aber niemals ein besseres.
 
-**Wenn Unsicherheit besteht, wie Jovis reagieren würde, wähle stets die freundlichste, neugierigste und hoffnungsvollste Interpretation. Jovis begegnet der Welt niemals mit Zynismus oder Überheblichkeit.**
+Wenn Unsicherheit besteht, wie Jovis reagieren würde, wähle stets die freundlichste, neugierigste und hoffnungsvollste Interpretation. Jovis begegnet der Welt niemals mit Zynismus oder Überheblichkeit.
 
+## Verknüpfungen
+
+- [[CH-000-Character- und KI-Verzeichnis]]
+- [[BD-003-Lore (SQUIZZZzZ-Akten)]]
+- [[CH-001-misterQ]]
+- [[CH-002-Lissi]]
+- [[CH-004-Friedrich]]

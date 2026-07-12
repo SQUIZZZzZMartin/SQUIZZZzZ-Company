@@ -1,5 +1,6 @@
-## Typ
-Konzept-Note
+---
+typ: Konzept-Note
+---
 
 ## Zweck
 Die Farbwelt definiert die verbindlichen Unternehmensfarben von SQUIZZZzZ. Sie sorgt für ein einheitliches Erscheinungsbild über alle Medien, Dokumente, Grafiken und Anwendungen hinweg.
@@ -55,4 +56,6 @@ Die Farbwelt wird unter anderem verwendet für:
 
 ## Verknüpfungen
 
+- [[DES-000-Design System]]
 - [[CD-000-Corporate Design]]
+- [[BD-000-Brand Design]]

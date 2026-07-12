@@ -1,10 +1,14 @@
-## **Zweck**
+---
+typ: Kern-Note
+---
+
+## Zweck
 
 Diese Note vermittelt die Grundlagen eines modernen Wissensmanagements. Ziel ist es, Wissen dauerhaft verfügbar, nachvollziehbar und kontinuierlich weiterentwickelbar zu machen.
 
 Ein gutes Wissensmanagement stellt sicher, dass Wissen nicht an einzelne Personen gebunden ist, sondern dem gesamten Unternehmen dauerhaft zur Verfügung steht.
 
-## **Leitfragen**
+## Leitfragen
 
 - Was ist Wissensmanagement?
 - Warum ist Wissensmanagement für Unternehmen wichtig?
@@ -13,7 +17,7 @@ Ein gutes Wissensmanagement stellt sicher, dass Wissen nicht an einzelne Persone
 - Wie unterscheidet sich Wissen von Informationen und Dokumenten?
 - Wie unterstützt KI ein modernes Wissensmanagement?
 
-## **Grundlagen**
+## Grundlagen
 
 Wissensmanagement umfasst alle Methoden und Werkzeuge, mit denen Wissen erfasst, organisiert, weiterentwickelt und langfristig verfügbar gemacht wird.
 
@@ -27,7 +31,7 @@ Ein modernes Wissensmanagement zeichnet sich unter anderem dadurch aus, dass:
 - Wissen kontinuierlich erweitert werden kann.
 - Menschen und KI auf dieselbe Wissensbasis zugreifen.
 
-## **Erkenntnisse**
+## Erkenntnisse
 
 Während des Aufbaus des SQUIZZZzZ Operating Systems wurden bisher folgende Erkenntnisse gewonnen:
 
@@ -38,6 +42,7 @@ Während des Aufbaus des SQUIZZZzZ Operating Systems wurden bisher folgende Erke
 - Ein Unternehmensgedächtnis entsteht durch konsistente Dokumentation und klare Strukturen.
 - Academy vermittelt Wissen. SQUIZZZzZ Knowledge bewahrt Unternehmenswissen.
 
-## **Verknüpfungen**
+## Verknüpfungen
 
 - [[Academy]]
+- [[Altdokumentation]]

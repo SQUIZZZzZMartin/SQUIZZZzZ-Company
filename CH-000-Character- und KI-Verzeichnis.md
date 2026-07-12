@@ -1,3 +1,7 @@
+---
+typ: Konzept-Note
+---
+
 ## Zweck
 Dieses Verzeichnis enthält alle Character Books des SQUIZZZzZ-Systems.
 
@@ -54,3 +58,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 - Änderungen erfolgen immer in der jeweiligen Character-Book-Note.
 - Company-KIs verwenden dieses Verzeichnis zur Identifikation vorhandener Rollen und Verantwortlichkeiten.
 - Dieses Verzeichnis ersetzt keine Character Books oder Personalakten.
+
+## Verknüpfungen
+
+- [[SQUIZZZzZ Welt]]

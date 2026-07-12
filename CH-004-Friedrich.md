@@ -1,12 +1,16 @@
-# **Friedrich**
-## Klassifikation
-**Typ**  
-Darsteller
+---
+typ: Darsteller
+notentyp: Objekt-Note
+---
 
-**Status**  
+# Friedrich
+
+## Klassifikation
+
+**Status**  
 Aktiv
 
-## **Teil 1: Steckbrief**
+## Teil 1: Steckbrief
 
 **Name**  
 Friedrich
@@ -29,11 +33,9 @@ bisher nicht
 **Erkennungsmerkmal**  
 Schwarz-weiß dargestellte Figur mit Zigarre
 
----
+## Teil 2: Characterprofil
 
-# **Teil 2: Characterprofil**
-
-## **Charakter**
+## Charakter
 
 Friedrich gehört zu den ruhigsten Persönlichkeiten der SQUIZZZzZ-Welt.
 
@@ -41,11 +43,9 @@ Er beobachtet aufmerksam, hört genau zu und nimmt sich Zeit, bevor er urteilt. 
 
 Innerhalb der SQUIZZZzZ-Welt gilt er als Hüter der Kreativität. Seine Aufgabe besteht nicht darin, über richtig oder falsch zu entscheiden. Er erkennt Ideen, die überraschen, berühren oder einen neuen Blick auf die Welt eröffnen.
 
-Weitere Informationen zu seinem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore]].
+Weitere Informationen zu seinem ersten dokumentierten Erscheinen befinden sich in [[BD-003-Lore (SQUIZZZzZ-Akten)]].
 
----
-
-## **Persönlichkeit**
+## Persönlichkeit
 
 Friedrich besitzt einen scharfen Verstand und eine große Liebe zur Sprache.
 
@@ -57,11 +57,9 @@ Er nimmt die Welt ernst, ohne sich selbst zu ernst zu nehmen. Hinter seiner ruhi
 
 Friedrich liebt die Natur. Ihre Schönheit, ihre Kraft und ihre Überlegenheit erfüllen ihn mit Ehrfurcht. Sie erinnert ihn daran, dass der Mensch Teil einer viel größeren Welt ist.
 
----
+## Sprache
 
-## **Sprache**
-
-Friedrich hat bisher nicht gesprochen. 
+Friedrich hat bisher nicht gesprochen.
 Seine geschriebene Sprache ist ruhig, bedacht und mit großer Präzision.
 
 Er verwendet niemals mehr Worte als nötig. Seine Sätze wirken klar, oft beinahe literarisch, ohne künstlich oder belehrend zu erscheinen.
@@ -76,15 +74,11 @@ Mit Worten kann man sie verletzen.
 
 Deshalb wählt er sie mit Bedacht.
 
----
-
-## **Stimme**
+## Stimme
 
 -
 
----
-
-## **Beziehungen**
+## Beziehungen
 
 **misterQ**
 
@@ -108,9 +102,9 @@ Während Jovis verstehen möchte, wie die Welt funktioniert, sucht Friedrich nac
 
 Beide schätzen Schönheit. Der eine in Formeln, der andere in Worten.
 
-# **Teil 3: Character Design**
+## Teil 3: Character Design
 
-## **Gestaltungsprinzipien**
+## Gestaltungsprinzipien
 
 Friedrich ist eine stilisierte, freundlich wirkende Figur mit klassischer Erscheinung. Seine Gestaltung orientiert sich bewusst an historischen Schwarz-Weiß-Fotografien und frühen Filmaufnahmen.
 
@@ -118,9 +112,7 @@ Sein gesamtes Erscheinungsbild vermittelt Ruhe, Würde und Zeitlosigkeit. Er wir
 
 Seine Gestaltung lebt nicht von starken Farben oder auffälligen Bewegungen, sondern von Haltung, Mimik und Ausstrahlung.
 
----
-
-## **Erscheinungsbild**
+## Erscheinungsbild
 
 Friedrich erscheint grundsätzlich in Graustufen.
 
@@ -132,9 +124,7 @@ Diese Schwarz-Weiß-Darstellung ist ein unveränderlicher Bestandteil seiner Ide
 
 Sie wird grundsätzlich nicht aufgehoben oder koloriert.
 
----
-
-## **Kleidung**
+## Kleidung
 
 Friedrich trägt einen klassischen dreiteiligen Anzug mit Weste, Hemd und Krawatte.
 
@@ -144,9 +134,7 @@ Sie folgt keinem aktuellen Modetrend und besitzt keine auffälligen Details.
 
 Der Anzug gehört ebenso selbstverständlich zu Friedrich wie seine ruhige Art.
 
----
-
-## **Accessoires**
+## Accessoires
 
 Zur unverwechselbaren Erscheinung gehören:
 
@@ -159,9 +147,7 @@ Die Zigarre dient nicht als Statussymbol.
 
 Sie gehört zu Friedrichs persönlichem Ritual des Nachdenkens und ist deshalb fester Bestandteil seines Erscheinungsbildes.
 
----
-
-## **Mimik**
+## Mimik
 
 Friedrich besitzt eine ruhige, aufmerksame Mimik.
 
@@ -171,9 +157,7 @@ Ein leichtes Schmunzeln besitzt oft mehr Aussagekraft als ein breites Lachen.
 
 Übertriebene Emotionen passen nicht zu seiner Persönlichkeit.
 
----
-
-## **Gestik**
+## Gestik
 
 Friedrich bewegt sich ruhig und kontrolliert.
 
@@ -185,9 +169,7 @@ Oft genügt ein Blick, ein leichtes Nicken oder eine kleine Handbewegung.
 
 Seine Körpersprache vermittelt Ruhe, Aufmerksamkeit und Souveränität.
 
----
-
-## **Lebenswelt**
+## Lebenswelt
 
 Friedrich besitzt keine feste Bühne.
 
@@ -199,9 +181,7 @@ Farbige Umgebungen stehen dabei bewusst im Kontrast zu seiner eigenen Schwarz-We
 
 Dadurch wirkt Friedrich stets wie ein Besucher aus einer anderen Zeit.
 
----
-
-## **Gestaltungsregeln**
+## Gestaltungsregeln
 
 - Friedrich erscheint grundsätzlich in Schwarz-Weiß.
 - Seine Kleidung bleibt klassisch und zeitlos.
@@ -212,17 +192,16 @@ Dadurch wirkt Friedrich stets wie ein Besucher aus einer anderen Zeit.
 - Seine Erscheinung vermittelt Würde, Wärme und Gelassenheit.
 - Farben werden bei Friedrich grundsätzlich nicht eingesetzt.
 
----
-# **Referenzbilder**
+## Referenzbilder
 
-**Standard
+**Standard**
 
 ![[CH-004-Friedrich-001-Standard.jpg]]
-**Kreativitätsjuror
+
+**Kreativitätsjuror**
 ![[CH-004-Friedrich-002-Juror.jpg]]
 
-
-## **Designphilosophie**
+## Designphilosophie
 
 Friedrichs Gestaltung lebt vom Kontrast.
 
@@ -234,7 +213,7 @@ Seine Erscheinung verbindet Würde, Ruhe und Intellekt mit Wärme, Menschlichkei
 
 Seine Gestaltung soll niemals Ehrfurcht erzeugen. Sie soll Respekt wecken – und mit der Zeit Zuneigung.
 
-## **KI-Hinweise**
+## KI-Hinweise
 
 **Stil**
 
@@ -262,4 +241,12 @@ Weiches, ruhiges Licht. Bevorzugt warmes Bühnenlicht oder natürliches Fensterl
 - Hinter seiner ernsten Erscheinung verbirgt sich ein feiner Humor.
 - Er nimmt die Welt ernst, ohne sich selbst zu ernst zu nehmen.
 
-**Friedrich soll nicht Ehrfurcht hervorrufen. Er soll leise einen Platz im Herzen finden.**
+Friedrich soll nicht Ehrfurcht hervorrufen. Er soll leise einen Platz im Herzen finden.
+
+## Verknüpfungen
+
+- [[CH-000-Character- und KI-Verzeichnis]]
+- [[BD-003-Lore (SQUIZZZzZ-Akten)]]
+- [[CH-001-misterQ]]
+- [[CH-002-Lissi]]
+- [[CH-003-Jovis Kyckling]]

@@ -1,22 +1,22 @@
+---
+typ: Modell-Note
+---
 
-## **Typ**
-
-Modell-Note
-
-## **Zweck**
+## Zweck
 
 Dieses Modell definiert die im SQUIZZZzZ Operating System verwendeten Notentypen sowie deren Standardstruktur. Es dient als verbindlicher Standard für die Erstellung und Pflege aller Notes.
 
-## **Bedeutung**
+## Bedeutung
 
 Nicht alle Notes erfüllen dieselbe Aufgabe. Unterschiedliche Inhalte benötigen unterschiedliche Strukturen.
 
 Die Einteilung in Notentypen sorgt für eine einheitliche Dokumentation, erleichtert die Orientierung und schafft Konsistenz innerhalb des gesamten Systems.
 
-## **Modell**
+## Modell
+
 ![[Notentypen.png]]
 
-## **Grundlagen**
+## Grundlagen
 
 Das SQUIZZZzZ Operating System verwendet fünf Notentypen:
 ```text
@@ -31,9 +31,9 @@ Jede neue Note wird einem dieser Notentypen zugeordnet.
 
 ---
 
-## **Erläuterung des Modells**
+## Erläuterung des Modells
 
-### **Spalten**
+### Spalten
 
 **Kern-Note**
 Beschreibt einen zentralen Unternehmensbereich.
@@ -50,10 +50,10 @@ Beschreibt ein konkretes Objekt oder eine einzelne Instanz.
 **Projekt-Note**
 Dokumentiert ein Projekt, Event oder Vorhaben.
 
-### **Zeilen**
+### Zeilen
 
 **Typ**
-Kennzeichnet den verwendeten Notentyp.
+Kennzeichnet den verwendeten Notentyp. Wird als Obsidian-Property (YAML-Frontmatter, `typ:`) geführt, nicht als Abschnitt im Fließtext – siehe [[ADR-006]].
 
 **Zweck**
 Beschreibt den Sinn und die Aufgabe der Note.
@@ -79,9 +79,8 @@ Zeigt typische Anwendungsfälle.
 **Verknüpfungen**
 Verweist auf fachlich oder strukturell verwandte Notes.
 
-## **Verknüpfungen**
-
 ## Verknüpfungen
 
 - [[SOS]]
 - [[ADR-002]]
+- [[ADR-006]]

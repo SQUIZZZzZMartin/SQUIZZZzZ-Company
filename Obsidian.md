@@ -1,9 +1,12 @@
+---
+typ: Konzept-Note
+---
 
-## **Zweck**
+## Zweck
 
 Obsidian ist das zentrale Werkzeug zur Dokumentation und Vernetzung des Wissens innerhalb des SQUIZZZzZ Operating Systems. Ziel ist es, Informationen nicht als einzelne Dokumente, sondern als miteinander verknüpftes Wissensnetz zu organisieren.
 
-## **Leitfragen**
+## Leitfragen
 
 - Was ist Obsidian?
 - Warum eignet sich Obsidian für Wissensmanagement?
@@ -13,19 +16,19 @@ Obsidian ist das zentrale Werkzeug zur Dokumentation und Vernetzung des Wissens 
 - Wie werden Bilder und andere Dateien eingebunden?
 - Wie entwickelt sich aus einzelnen Notes ein Wissensnetz?
 
-## **Grundlagen**
+## Grundlagen
 
-### **Vault**
+### Vault
 
 Ein Vault ist der gesamte Wissensspeicher eines Obsidian-Projekts. Er enthält alle Notes, Bilder und sonstigen Dateien.
 
-### **Notes**
+### Notes
 
 Eine Note ist die kleinste eigenständige Wissenseinheit in Obsidian.
 
 Der Name einer Note ist gleichzeitig ihr Titel und der Name der Datei im Vault.
 
-### **Verknüpfungen**
+### Verknüpfungen
 
 Verknüpfungen verbinden Notes miteinander und bilden das Wissensnetz.
 
@@ -37,7 +40,7 @@ Beispiel:
 ```
 Existiert die verlinkte Note noch nicht, kann Obsidian sie automatisch anlegen.
 
-### **Eingebundene Dateien**
+### Eingebundene Dateien
 
 Bilder und andere Dateien können direkt in Notes eingebunden werden.
 
@@ -47,13 +50,13 @@ Beispiel:
 
 ![[Unternehmenslandkarte.png]]
 
-### **Ordner**
+### Ordner
 
 Ordner dienen ausschließlich der organisatorischen Ablage von Dateien.
 
 Die eigentliche Wissensstruktur entsteht durch Notes und deren Verknüpfungen, nicht durch eine tiefe Ordnerhierarchie.
 
-### **Inhaltsverzeichnisse**
+### Inhaltsverzeichnisse
 
 Kern-Noten beginnen mit einem Inhaltsverzeichnis ihrer wichtigsten Unterthemen.
 
@@ -70,13 +73,13 @@ Das Inhaltsverzeichnis dient der strukturierten Navigation.
 
 Innerhalb der einzelnen Notes entstehen zusätzliche Verknüpfungen zu verwandten Themen. Dadurch bildet sich ein semantisches Wissensnetz.
 
-### **Automatisches Speichern**
+### Automatisches Speichern
 
 Obsidian speichert jede Änderung automatisch.
 
 Ein manuelles Speichern wie in klassischen Textverarbeitungsprogrammen ist nicht erforderlich.
 
-## **Erkenntnisse**
+## Erkenntnisse
 
 Während des Aufbaus des SQUIZZZzZ Operating Systems wurden bisher folgende Erkenntnisse gewonnen:
 
@@ -86,6 +89,6 @@ Während des Aufbaus des SQUIZZZzZ Operating Systems wurden bisher folgende Erke
 - Bilder, Modelle und Diagramme können direkt in Notes eingebunden werden.
 - Obsidian eignet sich hervorragend zum Aufbau eines langfristigen Unternehmensgedächtnisses.
 
-## **Verknüpfungen**
+## Verknüpfungen
 
 - [[Academy]]

@@ -1,3 +1,6 @@
+---
+typ: Kern-Note
+---
 
 ## Zweck
 

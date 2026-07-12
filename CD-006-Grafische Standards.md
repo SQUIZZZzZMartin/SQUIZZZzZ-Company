@@ -1,5 +1,6 @@
-## Typ
-Konzept-Note
+---
+typ: Konzept-Note
+---
 
 ## Zweck
 Die Grafischen Standards definieren den verbindlichen Gestaltungsrahmen für alle Grafiken innerhalb von SQUIZZZzZ. Ziel ist ein einheitlicher, wiedererkennbarer und langfristig konsistenter visueller Auftritt.
@@ -22,19 +23,7 @@ Dazu gehören insbesondere:
 - Farbtafeln
 - Legenden
 
-Die einzelnen Gestaltungsregeln werden in den zugehörigen Unter-Notes beschrieben.
-
-## Verzeichnis
-
-- [[SVG-Standard]]
-- [[Raster]]
-- [[Typografie in Grafiken]]
-- [[Farbverwendung]]
-- [[Kasten und Formen]]
-- [[Linien und Pfeile]]
-- [[Icons]]
-- [[Legenden]]
-- [[Exportformate]]
+Die einzelnen Gestaltungsregeln werden, sobald angelegt, in den zugehörigen Unter-Notes beschrieben (u. a. SVG-Standard, Raster, Typografie in Grafiken, Farbverwendung, Kasten und Formen, Linien und Pfeile, Icons, Legenden, Exportformate).
 
 ## Verknüpfungen
 

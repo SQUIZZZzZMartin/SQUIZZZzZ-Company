@@ -1,6 +1,6 @@
-
-## Typ
-Konzept-Note
+---
+typ: Konzept-Note
+---
 
 ## Zweck
 Das Corporate Logo definiert die verbindliche Wortmarke für die Unternehmenskommunikation von SQUIZZZzZ. Es wird in Dokumentationen, Grafiken, Präsentationen und sonstigen Unternehmensunterlagen verwendet.
@@ -50,8 +50,7 @@ Präsentationen
 
 ## Verknüpfungen
 
-- [[CD-001-Logos]]
 - [[BD-002-Brand Logo]]
 - [[CD-000-Corporate Design]]
-- [[Grafische Standards]]
+- [[CD-006-Grafische Standards]]
 - [[DES-001-Farbwelt]]

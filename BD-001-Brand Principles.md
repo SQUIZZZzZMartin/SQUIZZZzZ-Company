@@ -1,5 +1,8 @@
-## Die Identität von SQUIZZZzZ
+---
+typ: Konzept-Note
+---
 
+## Die Identität von SQUIZZZzZ
 Das Brand Design von SQUIZZZzZ basiert auf einer klar definierten Markenidentität. Alle visuellen, akustischen und gestalterischen Entscheidungen folgen gemeinsamen Prinzipien und schaffen eine konsistente Markenwelt.
 
 Die Brand Principles bilden die Grundlage aller markenbildenden Anwendungen und dienen als verbindliche Referenz für Designer, Entwickler und KI-Assistenten.

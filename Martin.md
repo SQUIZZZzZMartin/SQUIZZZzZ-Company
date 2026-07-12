@@ -1,4 +1,8 @@
+---
+typ: Objekt-Note
+---
 
-**Verknüpfungen
-[[Academy]]
-[[SQUIZZZzZ]]
+## Verzeichnis
+
+- [[SQUIZZZzZ]]
+- [[Academy]]
