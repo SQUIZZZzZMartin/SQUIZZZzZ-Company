@@ -121,12 +121,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQUIZZZZzZ Dokumentation.md",
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQUIZZZZzZ Dokumentation"
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-01"
+            }
+          },
+          {
+            "id": "45a35058c711f491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-02"
+            }
+          },
+          {
+            "id": "64be0248e78ca2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-03"
+            }
+          },
+          {
+            "id": "4fbad93d4dbabbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-04"
+            }
+          },
+          {
+            "id": "8748e6bf980c9f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-05"
+            }
+          },
+          {
+            "id": "f940b1d8525f8e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-06"
+            }
+          },
+          {
+            "id": "da2e1360e703df2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-07"
+            }
+          },
+          {
+            "id": "03ea172461b99db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-Move-SQUIZZZZzZ Dokumentation-08"
             }
           },
           {
@@ -214,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -306,12 +404,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQUIZZZZzZ Dokumentation.md",
+                "file": "000-Move-SQUIZZZZzZ Dokumentation-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von SQUIZZZZzZ Dokumentation öffnen"
+              "title": "Ausgehende Links von 000-Move-SQUIZZZZzZ Dokumentation-08 öffnen"
             }
           },
           {
@@ -388,9 +486,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d72da5c755d4ae8",
+  "active": "03ea172461b99db8",
   "lastOpenFiles": [
-    "SQUIZZZZzZ Dokumentation.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-07.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-06.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-05.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-08.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-04.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-03.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-02.md",
+    "000-Move-SQUIZZZZzZ Dokumentation-01.md",
     "Google Drive Test.md",
     "Grafische Standards.md",
     "CH-005 Matilde.md",
@@ -429,13 +534,6 @@
     "Grafiken/DES-002-Typografie.pdf",
     "Grafiken/DES-002-Typografie.indd",
     "CH-004-Friedrich.md",
-    "CH-003-Jovis Kyckling.md",
-    "CH-002-Lissi.md",
-    "ADR-001.md",
-    "Characters/CH-005 Matilde.md",
-    "Characters/CH-004-Friedrich.md",
-    "Characters/CH-003-Jovis Kyckling.md",
-    "Characters/CH-002-Lissi.md",
     "Unbenannt.canvas"
   ]
 }
