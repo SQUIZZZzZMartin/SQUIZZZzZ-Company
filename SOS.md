@@ -25,21 +25,20 @@ Das SOS wird von Martin verantwortet.
 ## Verzeichnis
 
 ### Standards
-- [[Notentypen]]
-- [[CD-000-Corporate Design]]
-- [[Vorlagen]]
+- [[DES-000-Design System]]
+- ⏳ [[Vorlagen]]
 
 ### Organisation
-- [[Rollen]]
-- [[KI-Mitarbeiter]]
+- ⏳ [[Rollen]]
+- ⏳ [[KI-Mitarbeiter]]
 
 ### Arbeitsweise
-- [[Workflows]]
-- [[Qualitätsmanagement]]
+- ⏳ [[Workflows]]
+- ⏳ [[Qualitätsmanagement]]
 
 ### Technik
-- [[Tools]]
-- [[Schnittstellen]]
+- ⏳ [[Tools]]
+- ⏳ [[Schnittstellen]]
 
 ## Leitfragen
 
@@ -61,4 +60,5 @@ Es beschreibt keine Projekte und speichert kein Fachwissen. Stattdessen definier
 - [[Martin]]
 - [[Orange Codex]]
 - [[SQUIZZZzZ Knowledge]]
+- [[Notentypen]]
 - [[CH-005 Matilde]]
