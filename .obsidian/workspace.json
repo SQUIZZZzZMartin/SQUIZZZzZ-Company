@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orange Codex.md",
+                "file": "CH-005 Matilde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orange Codex"
+              "title": "CH-005 Matilde"
             }
           },
           {
@@ -487,6 +487,9 @@
   },
   "active": "3626cdaf53e6f05f",
   "lastOpenFiles": [
+    "smakfullt!.md",
+    "ADR-007.md",
+    "Orange Codex.md",
     "BD-002-Brand Logo.md",
     "CH-001-misterQ.md",
     "CH-002-Lissi.md",
@@ -510,9 +513,6 @@
     "Trevligt att träffas.md",
     "Unternehmenslandkarte.md",
     "Unternehmensarchitektur.md",
-    "SQUIZZZzZ Welt.md",
-    "smakfullt!.md",
-    "Projekte.md",
     "Archiv",
     "Grafiken/CH-005-Matilde/CH-005-000-Systemprompt.txt",
     "Grafiken/CH-005-Matilde/MAT-Systemprompt.txt",
