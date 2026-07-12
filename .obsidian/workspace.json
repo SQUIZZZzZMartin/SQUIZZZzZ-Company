@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Drive Test.md",
+                "file": "SQUIZZZZzZ Dokumentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Drive Test"
+              "title": "SQUIZZZZzZ Dokumentation"
             }
           },
           {
@@ -306,12 +306,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Drive Test.md",
+                "file": "SQUIZZZZzZ Dokumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Google Drive Test öffnen"
+              "title": "Ausgehende Links von SQUIZZZZzZ Dokumentation öffnen"
             }
           },
           {
@@ -384,13 +384,16 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6d72da5c755d4ae8",
   "lastOpenFiles": [
-    "CH-005 Matilde.md",
+    "SQUIZZZZzZ Dokumentation.md",
     "Google Drive Test.md",
+    "Grafische Standards.md",
+    "CH-005 Matilde.md",
     "CH-000-Character- und KI-Verzeichnis.md",
     "CD-000-Corporate Design.md",
     "Grafiken/CH-005-Matilde/CH-005-004-SQUIZZZzZ-Standards-v1.0.md",
@@ -433,8 +436,6 @@
     "Characters/CH-004-Friedrich.md",
     "Characters/CH-003-Jovis Kyckling.md",
     "Characters/CH-002-Lissi.md",
-    "Characters/CH-001-misterQ.md",
-    "SOS.md",
     "Unbenannt.canvas"
   ]
 }
