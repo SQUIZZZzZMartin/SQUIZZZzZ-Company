@@ -19,6 +19,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 | CH-004 | Darsteller | Friedrich | 🟢 Aktiv | v1.0 | v1.0 | Hüter der Kreativität |
 | CH-005 | Company-KI | Matilde | 🟢 Aktiv | v1.0 | v1.0 | KI-Architektin und Leiterin der Personalabteilung für KI-Mitarbeiter |
 | CH-006 | Company-KI | Konstantin | 🟢 Aktiv | v1.0 | v1.0 | Chronist – recherchiert historische Ereignisse für die Pre-SQUIZZZzZ-Produktion |
+| CH-007 | Company-KI | Hulda | 🟡 Entwicklung | v1.0 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events |
 
 ---
 
