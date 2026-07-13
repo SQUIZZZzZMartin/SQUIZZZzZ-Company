@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH-009 Alva.md",
+                "file": "CH-010 Ingrid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH-009 Alva"
+              "title": "CH-010 Ingrid"
             }
           },
           {
@@ -487,10 +487,13 @@
   },
   "active": "3626cdaf53e6f05f",
   "lastOpenFiles": [
-    "CH-000-Character- und KI-Verzeichnis.md",
-    "CH-005 Matilde.md",
+    "Grafiken/CH-010-Ingrid.jpg",
+    "CH-010 Ingrid.md",
     "CH-009 Alva.md",
     "CH-008 Arthur.md",
+    "CH-006 Konstantin.md",
+    "CH-000-Character- und KI-Verzeichnis.md",
+    "CH-005 Matilde.md",
     "CH-007 Hulda.md",
     "CH-004-Friedrich.md",
     "Alva-Stilnotizen.md",
@@ -500,7 +503,6 @@
     "Grafiken/CH-009-Alva.jpg",
     "CH-003-Jovis Kyckling.md",
     "CH-002-Lissi.md",
-    "CH-006 Konstantin.md",
     "ADR-010.md",
     "Grafiken/CH-008-Arthur.jpg",
     "smakfullt!.md",
@@ -520,8 +522,6 @@
     "ADR-004.md",
     "ADR-003.md",
     "ADR-002.md",
-    "ADR-001.md",
-    "ADR-000.md",
     "Archiv/CH-005-000-Systemprompt.txt",
     "Archiv",
     "Grafiken/CH-005-Matilde/CH-005-000-Systemprompt.txt",

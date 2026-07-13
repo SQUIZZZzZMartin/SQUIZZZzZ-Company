@@ -13,7 +13,7 @@ notentyp: Objekt-Note
 
 **Name**
 Alva Ordsmed
-
+![[CH-009-Alva.jpg]]
 **Erster dokumentierter Auftritt**
 13.07.2026
 
