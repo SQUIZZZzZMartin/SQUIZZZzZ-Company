@@ -58,6 +58,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 - Änderungen erfolgen immer in der jeweiligen Character-Book-Note.
 - Company-KIs verwenden dieses Verzeichnis zur Identifikation vorhandener Rollen und Verantwortlichkeiten.
 - Dieses Verzeichnis ersetzt keine Character Books oder Personalakten.
+- Formatkonvention: Company-KI-Notes sind sachlich und knapp gehalten, Darsteller-Notes dürfen erzählerisch sein.
 
 ## Verknüpfungen
 

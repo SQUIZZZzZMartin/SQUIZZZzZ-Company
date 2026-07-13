@@ -33,7 +33,9 @@ Die Pre-SQUIZZZzZ-Filme sind keine bloßen Ankündigungen, sondern eigenständig
 
 **Redaktioneller Grundsatz**
 
-Fragen und Mitmachaufgaben wechseln sich ab (Frage → Mitmachen → Frage → Mitmachen …). Dadurch entsteht Rhythmus und Abwechslung.
+Rätselfragen und Mitmachaufgaben wechseln sich ab (Frage → Mitmachen → Frage → Mitmachen …). Dadurch entsteht Rhythmus und Abwechslung.
+
+Die Einsende-Adresse unterscheidet sich je nach Aufgabentyp: Lösungen zu Rätselfragen gehen immer direkt an Martin, damit die Lösung nicht vorzeitig verraten wird. Beiträge zu Mitmachaufgaben gehen dagegen in die Gruppe, damit Gruppendynamik und Teambuilding entstehen.
 
 **Grafische Neuerung**
 
@@ -78,9 +80,11 @@ Mitmachaufgabe: Historische Ereignisse chronologisch ordnen.
 **26.06. – Einblicke**
 Mitmachaufgabe: Zeig mit einem Bild, was Dich charakterisiert.
 
-Bewertung: 55 % Umsetzung der Aufgabe, 15 % Kreativität, 15 % Künstlerische Qualität, 15 % Überraschung.
+Bewertung: 55 % Umsetzung der Aufgabe, 15 % Kreativität, 15 % Künstlerische Qualität, 15 % Überraschung. Für Friedrich wurde eine Jurybegründung im Feuilleton-Stil geschrieben.
 
-Sieger: 🥇 Marc, 🥈 Micha, 🥉 Jeff. Für Friedrich wurde eine Jurybegründung im Feuilleton-Stil geschrieben.
+Kreativpunkte: 15 Marc, 10 Micha, 5 Jeff. Zusätzlich eigene Punkte für die schnellste Einsendung an Andreas und Matthias. Uwe war bei der ersten Punktevergabe versehentlich übersehen worden und bekam seine 5 Punkte nachträglich plus 3 Sonderpunkte als Ausgleich gutgeschrieben.
+
+Zusätzlich zu Lissis Auflösung im Film postete Friedrich eine eigene Jurybegründung als Grafik in die Gruppe – im Stil eines Ausstellungskatalogs ("Einblicke – Ausstellungskatalog"), mit Platzierung, Kreativpunkten, Foto und individueller Feuilleton-Kritik pro Platz 1 bis 3. Format ist bei kreativ bewerteten Mitmachaufgaben wiederholbar.
 
 **03.07. – Rückblicke**
 Fünf historische Ereignisse, vier davon fanden am 03.07. statt.
@@ -92,7 +96,7 @@ Korrektur: Die Vorstellung des VW Käfers fand in Stuttgart statt, nicht Berlin 
 Schnellste richtige Lösung: Marc.
 
 **10.07. – Ausblicke** *(aktuelle Folge)*
-Mitmachaufgabe: "Worauf blickst Du? Was möchtest Du als Nächstes erleben, erreichen oder entdecken?" Freie Form (Foto, Zeichnung, kurzes Video, Musik, Selbstgebautes oder etwas völlig anderes). Beiträge gehen diesmal direkt an Martin statt in die Gruppe, damit sich alle bis zur Auflösung überraschen lassen können. Einsendeschluss: Mittwoch, 18:22 Uhr.
+Mitmachaufgabe: "Worauf blickst Du? Was möchtest Du als Nächstes erleben, erreichen oder entdecken?" Freie Form (Foto, Zeichnung, kurzes Video, Musik, Selbstgebautes oder etwas völlig anderes). Beiträge gehen in die Gruppe (Mitmachaufgabe-Regel). Einsendeschluss: Mittwoch, 18:22 Uhr.
 
 ## Ziel der Pre-SQUIZZZzZ-Filme
 
