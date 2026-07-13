@@ -34,7 +34,7 @@ Das SOS wird von Martin verantwortet.
 
 ### Arbeitsweise
 - ⏳ [[Workflows]]
-- ⏳ [[Qualitätsmanagement]]
+- [[Qualitätsstandard]]
 
 ### Technik
 - ⏳ [[Tools]]

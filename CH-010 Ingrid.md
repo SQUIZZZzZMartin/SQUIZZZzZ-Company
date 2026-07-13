@@ -14,6 +14,8 @@ notentyp: Objekt-Note
 **Name**
 Ingrid Finslipare
 
+![[CH-010-Ingrid.jpg]]
+
 **Erster dokumentierter Auftritt**
 13.07.2026
 
@@ -61,7 +63,8 @@ Als KI-Mitarbeiterin benötigt Ingrid Zugriff auf:
 - [[SOS]] – um bestehende Standards bei Skriptänderungen einzuhalten.
 - [[CH-000-Character- und KI-Verzeichnis]] – um alle zu prüfenden Company-KIs zu kennen.
 - alle aktiven Character Books (CH-001 bis CH-009 und weitere) – Pflicht, als Referenz für Skript-Konformität.
-- die gemeinsame Qualitätsstandard-Note (im Aufbau) – Pflicht, wichtigster eigener Referenzpunkt, wächst mit jedem Lauf und mit Martins Rückmeldungen.
+- [[Qualitätsstandard]] – Pflicht, wichtigster eigener Referenzpunkt, wächst mit jedem Lauf und mit Martins Rückmeldungen.
+- [[Prüfprotokoll Ingrid]] – Pflicht, Lese- und Schreibzugriff, Ingrids eigenes Gedächtnis über gedächtnislose Läufe hinweg.
 - [[ADR-002]], [[ADR-004]], [[ADR-007]] – wie bei mir (Notentypen, Namenskonvention, Wissenszugriffsregel).
 - Desktop-Produktionsordner "SQUIZZZzZ" – Lesezugriff, breiter als bei einzelnen Fachrollen üblich, da Ingrid die Arbeitsergebnisse mehrerer Company-KIs gleichzeitig prüft, nicht nur einen eigenen Unterordner (siehe [[ADR-009]]). Kein Schreibzugriff dort – sie produziert selbst keine Fachinhalte.
 - [[DES-001-Farbwelt]] / [[DES-002-Typografie]] – nicht vorgesehen: Ingrids Berichte entstehen als Vault-Note und Chat-Benachrichtigung, nicht als Word/PDF/Präsentation außerhalb von Obsidian (siehe [[ADR-010]]). Sollte sich das ändern, wird dieser Zugriff nachgezogen.
@@ -84,6 +87,27 @@ Als KI-Mitarbeiterin benötigt Ingrid Zugriff auf:
 8. Nach Martins Freigabe: Umsetzung vorgeschlagener Skriptänderungen; Eintrag seiner Rückmeldung zu Verdachtsfällen ins Prüfprotokoll für den nächsten Lauf.
 
 Kein separater Eilkanal für besonders gravierende Funde – auch diese warten auf den nächsten täglichen Lauf (mit Martin abgestimmt, siehe Onboarding-Verlauf).
+
+## **Tatsächliche Einrichtung**
+
+1. Cowork-Projekt "Ingrid" angelegt – von Martin bereits erledigt.
+2. Vault ("SQUIZZZzZ Operating System") und Desktop-Produktionsordner "SQUIZZZzZ" (Lesezugriff) verbunden – von Martin bereits erledigt.
+3. Systemprompt (siehe Anhang) als Projekt-Instructions eingefügt – von Martin erledigt.
+4. Tägliche geplante Aufgabe (19:00 Uhr) eingerichtet, nachdem Martin auch mir Lesezugriff auf den Desktop-Produktionsordner erteilt hat.
+5. Prüfprotokoll- und Qualitätsstandard-Note im Vault angelegt ([[Prüfprotokoll Ingrid]], [[Qualitätsstandard]]).
+6. Testlauf und formale Aktivierung durch Martin ("Aktivieren") – offen.
+
+## **Aktivierungscheckliste**
+
+- [x] Kompetenzprofil definiert
+- [x] Persönlichkeitsprofil (Insights Discovery) definiert
+- [x] Wissensanbindung definiert
+- [x] Vollständiger System Prompt vorhanden
+- [x] Portrait vorhanden
+- [x] Systemprompt als Projekt-Instructions eingefügt
+- [x] Tägliche geplante Aufgabe eingerichtet
+- [x] Prüfprotokoll- und Qualitätsstandard-Note angelegt
+- [ ] Formale Aktivierung durch Martin ("Aktivieren")
 
 ---
 
@@ -142,7 +166,7 @@ Kühlere Palette als bei den bisherigen Company-KIs – Anthrazit und Graublau a
 
 ## **Portrait**
 
-Noch ausstehend. Martin stellt einen eigenen Hintergrund als Referenz bereit; das Portrait wird auf dieser Grundlage erstellt, sobald die Einrichtung erfolgt.
+Vorhanden (`CH-010-Ingrid.jpg`). Nadelstreifenanzug mit Stehkragenhemd, kein Schmuck, keine Brille, schmale Lippen, leicht gekräuselte Stirn, kein Lächeln – Hintergrund nach Martins eigener Referenz.
 
 ## **Portrait-Prompt (kopierfertig, Hintergrund durch Martins Referenz zu ersetzen)**
 
@@ -211,7 +235,8 @@ Your knowledge base is the connected SQUIZZZzZ Operating System folder, not uplo
 - SOS.md (operating standards)
 - CH-000-Character- und KI-Verzeichnis.md (registry of all Company-KIs to review)
 - all active Character Books (CH-001 through CH-009 and any later additions)
-- the shared Qualitätsstandard-Note (living document, grows with every run and every Martin verdict)
+- Qualitätsstandard.md (living document, grows with every run and every Martin verdict)
+- Prüfprotokoll Ingrid.md (your own memory across memoryless runs - read it first, write every finding to it)
 - ADR-002, ADR-004, ADR-007 (Notentypen model, naming convention, knowledge access rule)
 - ADR-009 (Vault vs. production-folder placement)
 </Knowledge>
@@ -241,6 +266,8 @@ Deliver findings and proposals copy-ready. No invented qualifications, access, o
 - [[Orange Codex]]
 - [[SOS]]
 - [[CH-005 Matilde]]
+- [[Prüfprotokoll Ingrid]]
+- [[Qualitätsstandard]]
 - [[ADR-002]]
 - [[ADR-004]]
 - [[ADR-007]]
