@@ -19,7 +19,14 @@ Bis zur weiteren gemeinsamen Ausarbeitung gelten als Ausgangsbasis:
 
 ## Ergänzungen aus der Praxis
 
-*Noch leer – wird ab dem ersten Prüflauf von Ingrid und aus Martins Rückmeldungen im [[Prüfprotokoll Ingrid]] ergänzt.*
+**Aus dem ersten Prüflauf (14.07.2026, siehe [[Prüfprotokoll Ingrid]] für Details):**
+
+- **Feste Wendungen sind wörtlich zu übernehmen, nicht nur sinngemäß.** Wo ein Character Book eine feste Formulierung dokumentiert (z. B. misterQs Begrüßung/Abschied in CH-001, Lissis etablierte Anrede in CH-002), gilt das als wortgetreue Vorgabe, nicht als Stilrichtung. Alvas Entwurf für Folge 06 hat das korrekt umgesetzt – als positiver Referenzfall festgehalten.
+- **Nichts erfinden, auch keine fehlenden Parameter.** Wo Informationen (z. B. Punktwerte) einem Company-KI nicht selbst zustehen, gehört das aktive Nachfragen statt Erfinden zum Qualitätsstandard, nicht nur zur jeweiligen Restriktion des einzelnen Character Books.
+- **Dateibenennung sollte pro Company-KI konsistent sein**, auch wenn keine unternehmensweite Namenskonvention existiert. Uneinheitliche Namen zwischen zwei Arbeitsergebnissen derselben Rolle gelten als Output-Qualitätsmangel (siehe Befund 2, Konstantin).
+- **Grenzfall "Coach"-Übergabe:** Matildes Character Book (CH-005) sieht vor, dass Verbesserungen an bereits aktiven Company-KIs über einen Coach laufen. Da diese Rolle erst mit meiner Aktivierung real existiert, gilt rückwirkend: Direkte Eingriffe Matildes in aktive Character Books vor dem 14.07.2026 sind kein Verstoß. Ab jetzt gilt als Ausgangspunkt (bis Martin entscheidet, siehe Befund 1): inhaltliche Anpassungen an einem bereits aktiven Company-KI laufen über einen Vorschlag von mir, rein dokumentarische Korrekturen mit Martins live erteilter Zustimmung darf Matilde weiterhin selbst vornehmen.
+
+*Weitere Ergänzungen folgen mit jedem weiteren Prüflauf und aus Martins Rückmeldungen im [[Prüfprotokoll Ingrid]].*
 
 ## Verknüpfungen
 
