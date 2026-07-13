@@ -18,6 +18,8 @@ Die Projekte sind laut Unternehmenslandkarte das sichtbare Ergebnis der SQUIZZZz
 | [[smakfullt!]] | 🟢 Pre-SQUIZZZzZ läuft | läuft | 02.10.2026 |
 | Projekt mit den Kolleg:innen der Bank | 🔵 In Planung | – | – |
 
+**Statusfarben:** ⚫ Abgeschlossen · 🟢 Läuft · 🔵 In Planung
+
 ## Verknüpfungen
 
 - [[SQUIZZZzZ Welt]]
