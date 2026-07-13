@@ -59,3 +59,9 @@ Das Design System folgt dem Prinzip:
 **Standards werden einmal definiert und anschließend überall konsistent angewendet.**
 
 Dadurch bleibt das Erscheinungsbild von SQUIZZZzZ über alle Medien, Projekte und zukünftigen Entwicklungen hinweg einheitlich und langfristig wartbar.
+
+Für alle Dokumente, die KI-Mitarbeiter außerhalb von Obsidian erzeugen (Word, PDF, Präsentationen, Grafiken usw.), ist die Anwendung von Farben und Schrift dieses Design Systems verbindlich – für jede Rolle, nicht nur für design-nahe (siehe [[ADR-010]]).
+
+## Verknüpfungen
+
+- [[ADR-010]]

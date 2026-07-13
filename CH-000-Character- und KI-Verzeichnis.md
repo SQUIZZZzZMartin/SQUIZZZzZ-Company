@@ -20,6 +20,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 | CH-005 | Company-KI | Matilde | 🟢 Aktiv | v1.0 | v1.0 | KI-Architektin und Leiterin der Personalabteilung für KI-Mitarbeiter |
 | CH-006 | Company-KI | Konstantin | 🟢 Aktiv | v1.0 | v1.0 | Chronist – recherchiert historische Ereignisse für die Pre-SQUIZZZzZ-Produktion |
 | CH-007 | Company-KI | Hulda | 🟢 Aktiv | v1.0 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events |
+| CH-008 | Company-KI | Arthur | 🟡 Entwicklung | v1.0 | v1.0 | Fragen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen für Pre-SQUIZZZzZ-Folgen |
 
 ---
 

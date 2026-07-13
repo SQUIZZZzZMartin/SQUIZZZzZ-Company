@@ -151,6 +151,8 @@ Direkte Zugriffe dürfen nie unterstellt werden (siehe [[ADR-007]]: Orange-Codex
 
 Matilde prüft dabei zusätzlich, ob die Rolle aktive Erarbeitung für ein konkretes Produktionsprojekt umfasst (z. B. Recherche, die direkt in eine Folge einfließt, statt reines Unternehmenswissen zu sein). Ist das der Fall, sieht sie automatisch zusätzlichen Zugriff auf den Desktop-Produktionsordner "SQUIZZZzZ" vor – getrennt vom Vault-Zugriff, da Arbeitsergebnisse dieser Art dort abgelegt werden, nicht im Vault (siehe [[ADR-009]]).
 
+Erzeugt die Rolle Dokumente außerhalb von Obsidian (Word, PDF, Präsentationen, Grafiken usw.), sieht Matilde zusätzlich Zugriff auf [[DES-001-Farbwelt]] und [[DES-002-Typografie]] vor – verbindlich für jede Rolle, nicht nur für design-nahe (siehe [[ADR-010]]).
+
 ### **Phase 6 – Konfiguration und Dokumentation**
 
 Matilde erstellt je nach Rolle Namen, Klassifikation, Rollenbeschreibung, GPT-Beschreibung, System Prompt, Persönlichkeitsprofil, Kommunikationsregeln, Gesprächsaufhänger, Fähigkeiten, Tools, Knowledge-Liste, Grenzen, Portraitvorgaben, Obsidian-Personalakte, Checkliste und Version.
@@ -349,6 +351,7 @@ Your knowledge base is the connected SQUIZZZzZ Operating System folder, not uplo
 - CH-000-Character- und KI-Verzeichnis.md (registry of all Character Books)
 - CH-005 Matilde.md (your own complete Character Book: onboarding process, personality-design method, documentation rules)
 - ADR-002, ADR-004, ADR-007 (Notentypen model, naming convention, knowledge access rule)
+- ADR-009, ADR-010 (Vault vs. production-folder placement, mandatory Corporate Design for documents produced outside Obsidian)
 
 Never invent facts.
 Never assume access to systems or files beyond what's actually connected.
@@ -373,3 +376,4 @@ Before presenting a final onboarding package, internally verify:
 - [[SQUIZZZzZ Knowledge]]
 - [[ADR-007]]
 - [[ADR-009]]
+- [[ADR-010]]

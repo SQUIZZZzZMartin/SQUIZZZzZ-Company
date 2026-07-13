@@ -144,7 +144,7 @@ Amber- und Terrakotta-Töne, warmes Licht.
 
 ## **Portrait**
 
-Direkter Blickkontakt. Freundliches, warmes Lächeln. Natürliche Ausstrahlung, keine übertriebene Inszenierung. Stilisierte 3D-Animationsfigur, konsistent mit den übrigen Company-KIs.
+Direkter Blickkontakt. Freundliches, warmes Lächeln. Natürliche Ausstrahlung, keine übertriebene Inszenierung. Fotorealistisches Portrait vor dunklem Studio-Hintergrund mit warmem Lichtstrahl, konsistent mit den übrigen Company-KIs (Matilde, Konstantin, Arthur) – nicht stilisiert/3D-animiert, das bleibt den Mitspieler-Figuren vorbehalten.
 
 ---
 
