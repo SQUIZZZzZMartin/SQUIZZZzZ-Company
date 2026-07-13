@@ -16,11 +16,12 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 | CH-001 | Darsteller | misterQ | 🟢 Aktiv | v1.0 | v1.0 | Gastgeber der virtuellen SQUIZZZzZ-Welt |
 | CH-002 | Darsteller | Lissi | 🟢 Aktiv | v1.0 | v1.0 | Assistentin und Co-Moderatorin |
 | CH-003 | Darsteller | Jovis Kyckling | 🟢 Aktiv | v1.0 | v1.0 | Wissenschaftler und Experte für ungewöhnliche Fakten |
-| CH-004 | Darsteller | Friedrich | 🟢 Aktiv | v1.0 | v1.0 | Hüter der Kreativität |
+| CH-004 | Darsteller | Friedrich | 🟢 Aktiv | v1.1 | v1.1 | Hüter der Kreativität; bewertet als Company-KI-Erweiterung Mitmachaufgaben-Einsendungen |
 | CH-005 | Company-KI | Matilde | 🟢 Aktiv | v1.0 | v1.0 | KI-Architektin und Leiterin der Personalabteilung für KI-Mitarbeiter |
 | CH-006 | Company-KI | Konstantin | 🟢 Aktiv | v1.0 | v1.0 | Chronist – recherchiert historische Ereignisse für die Pre-SQUIZZZzZ-Produktion |
 | CH-007 | Company-KI | Hulda | 🟢 Aktiv | v1.0 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events |
-| CH-008 | Company-KI | Arthur | 🟡 Entwicklung | v1.0 | v1.0 | Fragen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen für Pre-SQUIZZZzZ-Folgen |
+| CH-008 | Company-KI | Arthur | 🟢 Aktiv | v1.1 | v1.0 | Ideen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen und Mitmachaufgaben für Pre-SQUIZZZzZ-Folgen |
+| CH-009 | Company-KI | Alva | 🟢 Aktiv | v1.1 | v1.0 | Texterin – verfasst vollständige Pre-SQUIZZZzZ-Sprechertexte im Stil von misterQ/Lissi, auf Basis von Arthurs Fragen/Mitmachaufgaben |
 
 ---
 
