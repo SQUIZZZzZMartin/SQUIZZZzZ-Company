@@ -19,6 +19,8 @@ Die Erfahrungen aus SQUIZZZzZ Welt und Projekten fließen zurück in [[SQUIZZZzZ
 - [[CH-000-Character- und KI-Verzeichnis]]
 - [[BD-003-Lore (SQUIZZZzZ-Akten)]]
 - [[Projekte]]
+- [[Pre-SQUIZZZzZ]]
+- [[Live-SQUIZZZzZ]]
 
 ## Grundlagen
 
@@ -26,12 +28,12 @@ Die SQUIZZZzZ Welt umfasst insbesondere:
 
 - die Figuren (misterQ, Lissi, Jovis Kyckling, Friedrich, und Company-KIs wie Matilde)
 - den offiziellen Kanon der Welt (die SQUIZZZzZ-Akten)
-- die Bühnenwelten und den Ablauf von Pre-SQUIZZZzZ und Live-SQUIZZZzZ
+- die Bühnenwelten und den Ablauf von Pre-SQUIZZZzZ (siehe [[Pre-SQUIZZZzZ]]) und Live-SQUIZZZzZ (siehe [[Live-SQUIZZZzZ]])
 - die Spielmechanik und Teamlogik
 - den Produktionsworkflow
 - die ungeschriebenen Stilregeln, Running Gags und Weltgesetze
 
-Die letzten drei Punkte sind bislang nur im Archiv (den ursprünglichen "000-Move"-Dokumenten) beschrieben und noch nicht als eigene Notes ausgearbeitet.
+Pre-SQUIZZZzZ ist als eigene Note ausgearbeitet, Live-SQUIZZZzZ bislang nur als Stub. Produktionsworkflow sowie Stilregeln/Running Gags/Weltgesetze sind weiterhin nur im Archiv (den ursprünglichen "000-Move"-Dokumenten) beschrieben und noch nicht als eigene Notes ausgearbeitet.
 
 ## Spielmechanik
 

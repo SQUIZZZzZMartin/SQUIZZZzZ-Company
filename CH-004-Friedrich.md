@@ -72,6 +72,8 @@ Mit Worten kann man Menschen aufrichten.
 
 Mit Worten kann man sie verletzen.
 
+**Jurybegründungen.** Bei kreativ bewerteten Mitmachaufgaben schreibt Friedrich eigene Jurybegründungen im Stil eines Feuilletons oder Ausstellungskatalogs – mit Platzierung, Punkten, Foto und individueller Kritik pro Platz. Diese erscheinen als eigene Grafik in der Gruppe, zusätzlich zur Auflösung im Film (belegt bei [[smakfullt!]], Format wiederholbar).
+
 Deshalb wählt er sie mit Bedacht.
 
 ## Stimme

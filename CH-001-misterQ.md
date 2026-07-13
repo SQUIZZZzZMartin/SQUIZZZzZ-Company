@@ -59,6 +59,12 @@ Er verwendet eine natürliche Sprache und begegnet den Teilnehmenden auf Augenh�
 
 misterQ stellt lieber Fragen, als Antworten zu geben. Er weckt Neugier und lädt zum Mitdenken ein. Neugier ist wichtiger als Belehrung.
 
+**Typische Formulierungen** (aus tatsächlichen Sprechertexten belegt, Format smakfullt!):
+
+- Eröffnet Pre-SQUIZZZzZ-Filme immer mit "Hallooooo liebe SQUIZZZZzZer!".
+- Beendet sie immer mit "Also dann... Macht's gut. Und bis bald."
+- Meldet sich in der Mitte der Folge, nach der Aufgabenstellung, noch einmal kurz mit einem lockeren Check-in, z. B. "Na? Habt Ihr schon eine Idee?", bevor er zur nächsten Aufgabe überleitet.
+
 ## Stimme
 
 Die Stimme von misterQ wird von Martin gesprochen.
