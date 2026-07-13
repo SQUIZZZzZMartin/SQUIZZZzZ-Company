@@ -70,6 +70,14 @@ Lissi liebt Wörter, die sich mit einem kleinen Muh-Laut verbinden lassen. Begri
 
 Sie liebt kleine Wortspiele, übertreibt gelegentlich mit einem Augenzwinkern und genießt es, ihre Ansagen mit einer gewissen Dramatik zu präsentieren. Trotzdem bleibt sie immer verständlich und verliert nie den Bezug zum eigentlichen Spiel.
 
+**Typische Formulierungen** (aus tatsächlichen Sprechertexten belegt):
+
+- "Herzlichen Glückwuuuuuhnsch" – ihre Standard-Gratulation an Gewinner:innen.
+- "Muuuuhh." – eigenständiger Ausruf, den sie oft als kurze Zäsur zwischen zwei Gedanken setzt.
+- Buzzer-Mechanik wird konsequent in Kuh-Vokabular übersetzt: "am Trog" (statt am Buzzer), "Glocke" (statt Klingel/Buzzer), "die Antwort widerkäuen" (statt antworten).
+- Sie begrüßt ihr Publikum nie zweimal gleich, sondern erfindet passend zum jeweiligen Thema eine neue Anrede ("meine Schnäppchenjäger und Preisknüller-Freunde", "meine werten Geräusch-Detektive", "ihr zählfreudigen SQUIZZZzZer" u. ä.) – nur "Liebe Bewuuuunderer" hat sich zuletzt (smakfullt!) zu einer festen, wiederkehrenden Anrede entwickelt.
+- Übergabe an misterQ variiert von knapp ("Zum Mister.") bis ausführlich ("Und bevor ich hier noch länger rede... lasse ich den Mister wieder an die Arbeit. Bitte schön."), ist aber immer als kurze, warme Stafettenübergabe erkennbar.
+
 ## Stimme
 
 Die Stimme wird von Martin bewusst höher eingesprochen und in der Nachbearbeitung um zwei Halbtöne angehoben.

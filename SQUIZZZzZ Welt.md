@@ -31,7 +31,14 @@ Die SQUIZZZzZ Welt umfasst insbesondere:
 - den Produktionsworkflow
 - die ungeschriebenen Stilregeln, Running Gags und Weltgesetze
 
-Die letzten vier Punkte sind bislang nur im Archiv (den ursprünglichen "000-Move"-Dokumenten) beschrieben und noch nicht als eigene Notes ausgearbeitet.
+Die letzten drei Punkte sind bislang nur im Archiv (den ursprünglichen "000-Move"-Dokumenten) beschrieben und noch nicht als eigene Notes ausgearbeitet.
+
+## Spielmechanik
+
+- **Punkte-Startpolster-Prinzip**: Punkte aus den wöchentlichen Pre-SQUIZZZzZ-Fragen werden den Teilnehmenden am Live-Abend als Startguthaben gutgeschrieben. Pre-SQUIZZZzZ zahlt damit direkt in die Live-Wertung ein, statt eine separate Nebensache zu sein (belegt bei [[Trevligt att träffas]]).
+- **Einsende-Regel**: Lösungen zu Rätselfragen gehen immer direkt an Martin (Spoiler-Schutz), Beiträge zu Mitmachaufgaben in die Gruppe (Teambuilding/Gruppendynamik) – siehe [[smakfullt!]].
+- **Buzzer-Spieltypen**: "Buzzin" (wer zuerst drückt, darf antworten; falsche Antwort sperrt für aktuelle und nächste Runde) und "Keypad" (Antwort wird direkt per Tastatur eingegeben, z. B. Anfangsbuchstabe).
+- Vollständige Spielmechanik/Teamlogik jenseits dieser Punkte ist weiterhin nur im Archiv beschrieben.
 
 ## Verknüpfungen
 
