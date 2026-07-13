@@ -15,7 +15,7 @@ Die Projekte sind laut Unternehmenslandkarte das sichtbare Ergebnis der SQUIZZZz
 | Projekt | Status | Pre-SQUIZZZzZ | Live-SQUIZZZzZ |
 |---|---|---|---|
 | [[Trevligt att träffas]] | ⚫ Abgeschlossen | abgeschlossen | abgeschlossen |
-| [[smakfullt!]] | 🟡 Pre-SQUIZZZzZ läuft | läuft | 02.10.2026 |
+| [[smakfullt!]] | 🟢 Pre-SQUIZZZzZ läuft | läuft | 02.10.2026 |
 | Projekt mit den Kolleg:innen der Bank | 🔵 In Planung | – | – |
 
 ## Verknüpfungen
