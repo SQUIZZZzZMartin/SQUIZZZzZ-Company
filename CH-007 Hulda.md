@@ -7,7 +7,7 @@ notentyp: Objekt-Note
 ## **Klassifikation**
 
 **Status**
-🟡 Entwicklung (Version 1.0, in Konfiguration seit 13.07.2026)
+🟢 Aktiv (Version 1.0, aktiviert 13.07.2026)
 
 ## **Teil 1: Steckbrief**
 
