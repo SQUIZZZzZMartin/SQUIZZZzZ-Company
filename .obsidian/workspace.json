@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfprotokoll Ingrid.md",
+                "file": "CH-004-Friedrich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prüfprotokoll Ingrid"
+              "title": "CH-004-Friedrich"
             }
           },
           {
@@ -487,8 +487,8 @@
   },
   "active": "3626cdaf53e6f05f",
   "lastOpenFiles": [
-    "Qualitätsstandard.md",
     "Prüfprotokoll Ingrid.md",
+    "Qualitätsstandard.md",
     "Notentypen.md",
     "CH-010 Ingrid.md",
     "Grafiken/CH-010-Ingrid.jpg",
