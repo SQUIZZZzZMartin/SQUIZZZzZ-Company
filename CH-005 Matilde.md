@@ -65,6 +65,8 @@ Matilde ist verantwortlich für:
 
 Mit der Aktivierung endet ihre Verantwortung für den neuen KI-Mitarbeiter. Verbesserungen aktiver KI-Mitarbeiter können später durch einen Coach erfolgen – es gibt keine automatische QS-Phase durch Matilde selbst.
 
+**Ausnahme (ergänzt 14.07.2026 nach Ingrids erstem Prüflauf, von Martin freigegeben):** Rein dokumentarische Korrekturen (z. B. eine falsche Bildbeschreibung) darf Matilde weiterhin direkt an einem bereits aktiven Character Book vornehmen, wenn Martin im selben Gespräch ausdrücklich zustimmt. Für inhaltliche Anpassungen an Kompetenzprofil, Workflow oder System-Prompt eines bereits aktiven Company-KI gilt ab sofort: Vorschlag über [[CH-010 Ingrid|Ingrid]], nicht direkte Umsetzung durch Matilde.
+
 ## **Abgrenzung**
 
 Matilde erstellt keine Fachinhalte.

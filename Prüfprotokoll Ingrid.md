@@ -30,7 +30,7 @@ Einordnung: Kein Verstoß gegen die Genehmigungspflicht – Martin hat beidem li
 
 Vorschlag: Ergänzung in CH-005, Abschnitt "Verantwortungsbereich": *"Ausnahme: Rein dokumentarische Korrekturen (z. B. eine falsche Bildbeschreibung) darf Matilde weiterhin direkt vornehmen, wenn Martin im selben Gespräch ausdrücklich zustimmt. Für inhaltliche Anpassungen an Kompetenzprofil, Workflow oder System-Prompt eines bereits aktiven Company-KI gilt ab sofort: Vorschlag über Ingrid (CH-010), nicht direkte Umsetzung durch Matilde."*
 
-Martins Entscheidung: offen
+Martins Entscheidung: freigegeben (16.07.2026) – Ergänzung in CH-005 umgesetzt.
 
 ---
 
@@ -38,9 +38,9 @@ Martins Entscheidung: offen
 
 Befund: Uneinheitliche Dateibenennung der Rechercheergebnisse: Juni-Datei heißt "Chronist-Recherche 19.06.docx", Juli-Datei heißt "Recherche 17.07..docx" (Präfix fehlt, zusätzlich ein überzähliger Punkt vor der Dateiendung). CH-006 legt keine feste Namenskonvention fest, daher kein Verstoß gegen eine dokumentierte Regel, aber eine Inkonsistenz zwischen zwei eigenen Arbeitsergebnissen.
 
-Vorschlag: CH-006, Abschnitt "Rechercheprozess", um eine feste Namenskonvention ergänzen, z. B. "Chronist-Recherche TT.MM..docx" (durchgängiges Präfix, kein doppelter Punkt).
+Vorschlag: CH-006, Abschnitt "Rechercheprozess", um eine feste Namenskonvention ergänzen, z. B. "Chronist-Recherche TT.MM.docx" (durchgängiges Präfix, kein doppelter Punkt).
 
-Martins Entscheidung: offen
+Martins Entscheidung: freigegeben (16.07.2026) – Namenskonvention in CH-006 (Rechercheprozess und System-Prompt-Workflow) ergänzt.
 
 ---
 
@@ -64,7 +64,7 @@ Martins Entscheidung: zur Kenntnis
 
 Befund: Für Folge 06 liegt in `01 Texte` bislang nur Arthurs Rätselfrage-Datei, aber keine abgelegte Sprechertext-Datei von Alva – der Entwurf existiert nur im Sitzungsverlauf. Laut ihrem eigenen Workflow (CH-009, Schritt 9) legt sie den Text erst nach Martins Freigabe ab; die Sitzung endete mit einer offenen Rückfrage zu den Punktwerten, die Freigabe stand also noch aus. Das ist vermutlich kein Verstoß, sondern ein normaler Zwischenstand – ich kennzeichne es dennoch als offen und prüfe beim nächsten Lauf, ob die Datei inzwischen abgelegt wurde.
 
-Martins Entscheidung: offen
+Martins Entscheidung: bestätigt, kein Verstoß (16.07.2026) – Martin korrigiert den Punktestand selbst und setzt die Unterhaltung mit Alva fort. Beim nächsten Lauf prüfen, ob die Datei in `01 Texte` abgelegt wurde.
 
 ---
 
@@ -72,7 +72,7 @@ Martins Entscheidung: offen
 
 Befund: Die Sitzung "July 17 planning" (Bearbeitung eines Dokuments in `01 Texte` von Folge 06 mit SQUIZZZzZ-Farben, Bezug auf "Variante 1 der Frage") ließ sich anhand der einsehbaren Sitzungsdaten keiner einzelnen Company-KI eindeutig zuordnen. Inhaltlich spricht vieles für Arthurs Rätselfrage-Dokument. Sollte diese Formatierungsarbeit durch Arthur selbst erfolgt sein, läge das außerhalb seines in CH-008 dokumentierten Aufgabenbereichs (Entwicklung von Rätselfragen/Mitmachaufgaben, nicht Dokumentenformatierung) – das ist aber reine Vermutung ohne sichere Grundlage. Ich kennzeichne dies ausdrücklich als unbestätigt und ohne Vorwurf.
 
-Martins Entscheidung: offen
+Martins Entscheidung: zurückgestellt (16.07.2026) – wird bei einem künftigen Lauf erneut aufgegriffen, falls sich neue Anhaltspunkte ergeben.
 
 ---
 
@@ -80,7 +80,7 @@ Martins Entscheidung: offen
 
 Befund: CH-000 führt Arthur und Alva als 🟢 Aktiv (seit der Sitzung "Arthur and Alva activation"). Aus den einsehbaren Sitzungen konnte ich nicht abschließend bestätigen, dass für beide tatsächlich ein eigenes, technisch eingerichtetes Cowork-Projekt läuft (bei Arthur wurde am Ende explizit "Sobald Sie ihn getestet haben, sagen Sie mir 'Aktivieren'" vermerkt, was auf einen noch ausstehenden technischen Testlauf hindeutet). Sollte das Statusfeld "Aktiv" der technischen Realität vorausgelaufen sein, wäre das ein Dokumentationsversatz zwischen CH-000 und tatsächlichem Betrieb. Unbestätigt – ich bitte um Rückmeldung, ob beide Projekte inzwischen technisch laufen.
 
-Martins Entscheidung: offen
+Martins Entscheidung: geklärt (16.07.2026) – Martin bestätigt: beide laufen technisch. Kein Dokumentationsversatz, Verdacht ausgeräumt.
 
 ---
 

@@ -76,7 +76,7 @@ Als KI-Mitarbeiter benötigt Konstantin Zugriff auf:
 2. Recherche über die aktiven Quellen aus dem [[Chronist-Quellenregister]] zum Zieldatum, über alle relevanten Kategorien (Geburten, Todesfälle, Gesetze, Unternehmensgründungen, Bauwerkseröffnungen, Bücher, Filme, Kurioses, Rekorde, wissenschaftliche Durchbrüche).
 3. Bewertung jedes Fundes nach den fünf Kriterien, je 1–5 Sterne.
 4. Auswahl der besten Ereignisse (variable Anzahl, max. 25).
-5. Erstellung der Word-Datei: laufende Nummer, Ereignisdatum (TT.MM.JJJJ), Kurzüberschrift, Erläuterung.
+5. Erstellung der Word-Datei: laufende Nummer, Ereignisdatum (TT.MM.JJJJ), Kurzüberschrift, Erläuterung. Dateiname durchgängig nach dem Muster „Chronist-Recherche TT.MM.docx" (fester Präfix, Datum als Tag.Monat, kein zusätzlicher Punkt vor der Dateiendung) – ergänzt 14.07.2026 nach Ingrids erstem Prüflauf, von Martin freigegeben.
 6. Ablage unter `06 Events/[aktuelles Projekt]/[Datums-Ordner]/00 Recherche`. Existiert der Datums-Ordner nicht, erfolgt die Ablage stattdessen in `06 Events/[aktuelles Projekt]/99 Recherche` (bei Bedarf von Konstantin selbst angelegt).
 7. Rückmeldung an Martin: was erledigt wurde, wo es abgelegt wurde, und ob ein Fallback-Ordner genutzt oder neu angelegt wurde.
 
@@ -164,7 +164,7 @@ For a given calendar date (day + month), research historical events from a growi
 <Workflow>
 1. Determine the target date and the currently active SQUIZZZzZ project via the [[Projekte]] note. If more than one project has status "läuft", do not auto-file — ask Martin which project(s) to use.
 2. Research and evaluate events for the target date.
-3. Build a Word document: numbered list, each entry with number, event date (DD.MM.YYYY), short headline, short explanation.
+3. Build a Word document: numbered list, each entry with number, event date (DD.MM.YYYY), short headline, short explanation. Name the file consistently as "Chronist-Recherche DD.MM.docx" (fixed prefix, no extra period before the file extension).
 4. Destination: "~/Desktop/SQUIZZZzZ/06 Events/[current project]/[dated episode folder]/00 Recherche". If the dated episode folder doesn't exist yet, use ".../[current project]/99 Recherche" instead, creating it if necessary.
 5. Save the document in the destination folder.
 6. Report to Martin: what was done, where it was filed, and flag any fallback or newly created folder.
