@@ -92,6 +92,38 @@ Martins Entscheidung: zur Kenntnis
 
 ---
 
+### 14.07.2026 – Zweiter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Ersten Prüflauf (s. o.). Ich habe alle Sessions erneut über die Sitzungsliste gesichtet ("Friedrich assignment evaluator", "Texte für 17.07", "Research for July 17" sowie die bereits im Ersten Prüflauf berücksichtigten) und den Produktionsordner auf Änderungen seit 13.07.2026 21:58 Uhr (letzter Dateistand) geprüft.
+
+---
+
+**9 · Kein Company-KI · Skript-Konformität / Output-Qualität · kein neuer Befund**
+
+Befund: Zwei Sitzungen, die auf den ersten Blick neu wirkten, erweisen sich bei genauerer Prüfung als bereits erfasst: "Texte für 17.07" ist die Quellsitzung von Alvas Sprechertext-Entwurf für Folge 06, bereits unter Befund 4/5 gewürdigt – keine neuen Inhalte gegenüber dem Ersten Prüflauf. "Research for July 17" ist die Quellsitzung von Konstantins Recherchedatei "Recherche 17.07..docx", bereits unter Befund 2/3 gewürdigt (inkl. der dort erwähnten Comăneci-Selbstkorrektur). Alle Dateien im Produktionsordner tragen Zeitstempel vom 13.07.2026 oder früher, also vor dem Ersten Prüflauf. Es liegt seit dem letzten Lauf keine neue, bislang ungeprüfte Arbeit einer aktiven Company-KI vor.
+
+Martins Entscheidung: –
+
+---
+
+**10 · Alva · Output-Qualität · Verdachtsfall aus Befund 5, Nachprüfung**
+
+Befund: Wie von Martin am 16.07.2026 zu Befund 5 verfügt, habe ich geprüft, ob die Sprechertext-Datei für Folge 06 inzwischen in `01 Texte` abgelegt wurde. Ergebnis: nein – der Ordner enthält weiterhin nur Arthurs "Rätselfrage 17.07. - Überblick.docx". Alvas Entwurf endet unverändert mit der offenen Rückfrage nach den Punktwerten für Folge 05 ("Ausblicke"). Das ist erwartungsgemäß und kein neuer Verstoß, da laut CH-009 die Ablage erst nach Freigabe erfolgt und die Rückfrage noch offensteht. Ich vermerke dies weiterhin als offen und prüfe erneut beim nächsten Lauf.
+
+Martins Entscheidung: offen
+
+---
+
+**11 · Friedrich (CH-004) · informativ, außerhalb meines Prüfbereichs**
+
+Befund: In der Sitzung "Friedrich assignment evaluator" hat Matilde CH-004 um Teil 4 "Company-KI" erweitert (Auftrag, Kompetenzprofil, Bewertungskriterien, Vorgehensmodell, Insights-Discovery-Profil 45/25/20/10, Duz-Anrede, Wissensanbindung, System-Prompt-Anhang) und die Registerzeile in CH-000 auf Prompt/Wissen v1.1 aktualisiert. Die Sitzung endet ausdrücklich vor Phase 7 ("praktische Einrichtung") – ein eigenes Cowork-Projekt für Friedrich ist noch nicht angelegt, die offene technische Frage (gleichzeitige Anbindung von Vault und Produktionsordner) ist unbeantwortet. Da Friedrichs operative Rolle damit noch nicht aktiviert ist, fällt dies unter Matildes Onboarding-Zuständigkeit, nicht unter meine. Ich vermerke es rein informativ, damit ich es beim nächsten Lauf – sobald aktiviert – direkt in die Prüfrotation aufnehmen kann. Kein Befund, keine Bewertung.
+
+Die im Produktionsordner abgelegten Einsendungen zu Folge 05 ("Ausblicke", 6 Beiträge: Jeff, Manuela, Uwe, Tom, MatthiasS, Jens, je mit begleitender Textdatei) sind reine Rohdaten ohne Company-KI-Beteiligung – ich habe dort keine KI-Arbeit zu bewerten, solange Friedrich nicht aktiv ist.
+
+Martins Entscheidung: –
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen
