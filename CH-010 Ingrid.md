@@ -7,7 +7,7 @@ notentyp: Objekt-Note
 ## **Klassifikation**
 
 **Status**
-🟡 Entwicklung (Version 1.0, in Konfiguration seit 13.07.2026)
+🟢 Aktiv (Version 1.0, aktiviert 14.07.2026)
 
 ## **Teil 1: Steckbrief**
 
@@ -107,7 +107,7 @@ Kein separater Eilkanal für besonders gravierende Funde – auch diese warten a
 - [x] Systemprompt als Projekt-Instructions eingefügt
 - [x] Tägliche geplante Aufgabe eingerichtet
 - [x] Prüfprotokoll- und Qualitätsstandard-Note angelegt
-- [ ] Formale Aktivierung durch Martin ("Aktivieren")
+- [x] Formale Aktivierung durch Martin ("Aktivieren") – aktiviert 14.07.2026
 
 ---
 

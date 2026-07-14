@@ -22,7 +22,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 | CH-007 | Company-KI | Hulda | 🟢 Aktiv | v1.0 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events |
 | CH-008 | Company-KI | Arthur | 🟢 Aktiv | v1.1 | v1.0 | Ideen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen und Mitmachaufgaben für Pre-SQUIZZZzZ-Folgen |
 | CH-009 | Company-KI | Alva | 🟢 Aktiv | v1.1 | v1.0 | Texterin – verfasst vollständige Pre-SQUIZZZzZ-Sprechertexte im Stil von misterQ/Lissi, auf Basis von Arthurs Fragen/Mitmachaufgaben |
-| CH-010 | Company-KI | Ingrid | 🟡 Entwicklung | v1.0 | v1.0 | Qualitäts-Coach – prüft täglich automatisiert Skript-Konformität und Output-Qualität aller aktiven Company-KIs, schlägt Verbesserungen inkl. Skriptänderungen zur Freigabe vor |
+| CH-010 | Company-KI | Ingrid | 🟢 Aktiv | v1.0 | v1.0 | Qualitäts-Coach – prüft täglich automatisiert Skript-Konformität und Output-Qualität aller aktiven Company-KIs, schlägt Verbesserungen inkl. Skriptänderungen zur Freigabe vor |
 | CH-011 | Company-KI | Alain | 🟡 Entwicklung | v1.0 | v1.0 | Taschenscout – recherchiert echte Designer-Handtaschen für Lissi, sichert Produktbild und pflegt die Taschensammlung |
 
 ---
