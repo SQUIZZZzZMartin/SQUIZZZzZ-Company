@@ -14,7 +14,7 @@ Alva soll aus der laufenden Zusammenarbeit mit Martin lernen und diese Lektionen
 
 | Datum | Lektion | Kontext/Beispiel | Status |
 |---|---|---|:---:|
-| | | | |
+| 21.07.2026 | Keine L/Q-Nummerierung der Sprechzeilen mehr. Entwürfe unnummeriert liefern, nur nach Sprecher (LISSI/MISTERQ) und kursiven Regieanweisungen strukturiert. | Folge 07 (24.07., „Weitblick"): Martin kopiert den Text lieber unnummeriert und trägt Änderungen selbst ein, statt über L1/Q1-Referenzen zu korrigieren. | 🟢 aktiv |
 
 ## Status
 
