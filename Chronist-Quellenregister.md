@@ -14,16 +14,16 @@ Konstantin erweitert sein Quellenspektrum laufend eigenständig. Diese Note ist 
 
 | Quelle | Schwerpunkt | Status | Zuletzt genutzt/geprüft | Hinweis |
 |---|---|:---:|---|---|
-| Journal21 ("Heute vor …") | ungewöhnliche historische Ereignisse | 🟢 aktiv | 13.07.2026 | |
-| Wikipedia ("On this day") | hohe Vollständigkeit | 🟢 aktiv | 13.07.2026 | |
-| Britannica | internationale Einordnung, Hintergrund | 🟢 aktiv | 13.07.2026 | |
-| History.com | kulturgeschichtlich, amerikanisch | 🟢 aktiv | 13.07.2026 | |
-| National Geographic History | Archäologie, Wissenschaft, Expeditionen | 🟢 aktiv | 13.07.2026 | |
-| Smithsonian Magazine | Erfindungen, Kultur, Geschichte | 🟢 aktiv | 13.07.2026 | |
-| BBC History Magazine | Europa, Weltgeschichte | 🟢 aktiv | 13.07.2026 | |
-| Deutsche Welle Geschichte | deutsche Perspektive | 🟢 aktiv | 13.07.2026 | |
-| Bundeszentrale für politische Bildung | politische Ereignisse | 🟢 aktiv | 13.07.2026 | |
-| Guinness World Records | kuriose Rekorde | 🟢 aktiv | 13.07.2026 | |
+| Journal21 ("Heute vor …") | ungewöhnliche historische Ereignisse | 🟢 aktiv | 18.07.2026 | Direktabruf der Seite lieferte keinen Inhalt (vermutlich JS-Rendering); Inhalte kamen über Suchindex-Zusammenfassung |
+| Wikipedia ("On this day") | hohe Vollständigkeit | 🟢 aktiv | 18.07.2026 | Direktzugriff auf en/de.wikipedia.org in unbeaufsichtigten Läufen technisch blockiert (Netzwerk-Allowlist); Inhalte kamen über Suchindex-Zusammenfassung |
+| Britannica | internationale Einordnung, Hintergrund | 🟢 aktiv | 18.07.2026 | Zuverlässigster Direktzugriff, inkl. Bild-URLs |
+| History.com | kulturgeschichtlich, amerikanisch | 🟢 aktiv | 18.07.2026 | Zuverlässiger Direktzugriff |
+| National Geographic History | Archäologie, Wissenschaft, Expeditionen | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue "On this day"-Rubrik auffindbar; für 24.07. keine eigenen Treffer |
+| Smithsonian Magazine | Erfindungen, Kultur, Geschichte | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue "On this day"-Rubrik auffindbar; für 24.07. keine eigenen Treffer |
+| BBC History Magazine | Europa, Weltgeschichte | 🟢 aktiv | 18.07.2026 | Für 24.07. keine eigenen Treffer gefunden |
+| Deutsche Welle Geschichte | deutsche Perspektive | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue Rubrik auffindbar; für 24.07. keine eigenen Treffer |
+| Bundeszentrale für politische Bildung | politische Ereignisse | 🟢 aktiv | 18.07.2026 | Direktabruf funktioniert gut (Deutschland-Chronik) |
+| Guinness World Records | kuriose Rekorde | 🟢 aktiv | 18.07.2026 | Für 24.07. kein historischer Rekordeintrag gefunden |
 
 ## Status
 
