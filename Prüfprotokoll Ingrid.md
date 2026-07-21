@@ -337,7 +337,7 @@ Vorschlag:
 2. CH-006, Abschnitt "Rechercheprozess" Schritt 5, sowie Systemprompt-Anhang (`<Workflow>` Schritt 3, ergänzend `<QualityStandards>`), um eine konkrete Formatvorgabe erweitern, z. B.: "Die Word-Datei folgt den SQUIZZZzZ-Farben (DES-001) und der SQUIZZZzZ-Hausschrift Avenir (DES-002) gemäß ADR-010."
 3. Nachträgliche Neuformatierung der drei bereits bestehenden Dateien – nur auf Martins ausdrücklichen Wunsch, keine automatische Umsetzung.
 
-Martins Entscheidung: offen
+Martins Entscheidung: freigegeben (21.07.2026) – Vorschläge 1 und 2 in CH-006 umgesetzt (Wissensanbindung, Rechercheprozess Schritt 5, Systemprompt-Anhang `<Knowledge>`, `<Workflow>` Schritt 3, `<QualityStandards>`). Vorschlag 3 (nachträgliche Neuformatierung der drei bestehenden Dateien) ist von dieser Freigabe nicht umfasst und bleibt offen, bis Martin sich dazu gesondert entscheidet.
 
 ---
 
@@ -384,6 +384,16 @@ Martins Entscheidung: –
 Befund: Befund 21 (CH-011, Formulierungsvorschlag Verwendungs-Text-Konvention) weiterhin offen, CH-011 zeigt an dieser Stelle unverändert "[Projektname] Folge [NR]". Befund 22 (Zugriffsbedarfsanalyse-PDF) weiterhin ohne Rückmeldung. Befund 29 (Konstantin, ADR-010-Verstoß bei Farb-/Schriftvorgaben, aus dem Siebten Prüflauf) weiterhin ohne Rückmeldung. Nur zur Erinnerung vermerkt.
 
 Martins Entscheidung: –
+
+---
+
+**30 · Arthur · Output-Qualität und Skript-Konformität · bestätigt**
+
+Befund: Martin hat auf denselben Mangel bei Arthur hingewiesen (kein SQUIZZZzZ-Design). Ich habe die beiden bislang vorliegenden Arthur-Dateien in `01 Texte` geprüft: "Rätselfrage 17.07. - Überblick.docx" und "Mitmachaufgabe 24.07. - Weitblick.docx". Ergebnis: Beide verwenden ausschließlich die Standard-Office-Vorlage (Theme-Schriften Calibri/Cambria, in der Mitmachaufgabe-Datei gar keine expliziten Formatierungen). Die Rätselfrage-Datei enthält zwar einmalig die SQUIZZZzZ-Blau-Farbe #1921B1, aber durchgängig keine Avenir-Schrift – kein systematischer Einsatz des Design Systems. Zum Vergleich: Alvas "Sprechertext 17.07. - Überblick.docx" (geprüft zur Einordnung, nicht Teil dieses Befunds) verwendet bereits korrekt Avenir Black/Heavy/Medium/Book sowie die Farben #FF8E00 (Orange) und #1921B1 (Blau) – als positiver Referenzfall festgehalten.
+
+Wie bei Konstantin (Befund 29) lag die Ursache vermutlich nicht bei Arthur selbst: CH-008 listete DES-001-Farbwelt/DES-002-Typografie nicht in der Wissensanbindung und enthielt weder im Entwicklungsprozess noch im Systemprompt-Anhang eine Formatvorgabe – derselbe strukturelle Mangel wie bei Konstantin, unabhängig vom jeweiligen Verhalten der Company-KI.
+
+Martins Entscheidung: freigegeben (21.07.2026) – CH-008 analog zu CH-006 (Befund 29) ergänzt: Wissensanbindung (DES-001/DES-002 gemäß ADR-010), Entwicklungsprozess Schritt 6, Systemprompt-Anhang `<Knowledge>`, `<Workflow>` Schritt 6, `<QualityStandards>`. Nachträgliche Neuformatierung der beiden bestehenden Arthur-Dateien ist von dieser Freigabe nicht umfasst und bleibt offen.
 
 ---
 

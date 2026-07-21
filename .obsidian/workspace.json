@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH-011 Alain.md",
+                "file": "CH-008 Arthur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH-011 Alain"
+              "title": "CH-008 Arthur"
             }
           },
           {
@@ -487,6 +487,8 @@
   },
   "active": "3626cdaf53e6f05f",
   "lastOpenFiles": [
+    "CH-006 Konstantin.md",
+    "CH-011 Alain.md",
     "DES-001-Farbwelt.md",
     "Zugriffsbedarfsanalyse.pdf",
     "CD-000-Corporate Design.md",
@@ -494,8 +496,6 @@
     "CD-006-Grafische Standards.md",
     "CH-010 Ingrid.md",
     "CH-009 Alva.md",
-    "CH-011 Alain.md",
-    "CH-006 Konstantin.md",
     "CH-005 Matilde.md",
     "CH-008 Arthur.md",
     "CH-007 Hulda.md",
