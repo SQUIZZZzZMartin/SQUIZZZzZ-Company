@@ -244,7 +244,7 @@ Martins Entscheidung: offen
 
 Wie in der Sitzung "Assistant file access permissions" zugesagt und am 16.07.2026 nochmals nachgefragt, liegt die Zugriffsbedarfsanalyse pro aktiver Company-KI (CH-005 bis CH-011, Grundlage: jeweilige "Wissensanbindung" gegen ADR-007/ADR-009) diesem Lauf als PDF bei ("Zugriffsbedarfsanalyse.pdf"). Sie beschreibt den Soll-Zustand laut Character Book, nicht die tatsächliche technische Konfiguration in Cowork – ein Abgleich mit der Ist-Einrichtung bleibt Martins Aufgabe.
 
-Martins Entscheidung: –
+Martins Entscheidung: genehmigt (21.07.2026) – Martin hat den Abgleich mit der Ist-Einrichtung versucht und dabei festgestellt, dass sich der Zugriff in Cowork technisch nicht auf einen einzelnen Unterordner begrenzen lässt (betrifft die in der Analyse empfohlenen ordnerscharfen Einschränkungen, z. B. bei Alain auf „04 Taschensammlung"). Er stuft das als nicht gravierend ein und genehmigt die Analyse trotz dieser technischen Einschränkung. Für künftige Läufe: Empfehlungen zu ordnerscharfem Zugriff in der Zugriffsbedarfsanalyse beschreiben weiterhin den fachlich wünschenswerten Soll-Zustand, sind aber technisch in der aktuellen Cowork-Umgebung nicht umsetzbar – kein Grund für einen neuen Befund, solange sich daran nichts ändert.
 
 ---
 
@@ -381,7 +381,7 @@ Martins Entscheidung: –
 
 **33 · Offene Punkte aus früheren Läufen, unverändert**
 
-Befund: Befund 21 (CH-011, Formulierungsvorschlag Verwendungs-Text-Konvention) weiterhin offen, CH-011 zeigt an dieser Stelle unverändert "[Projektname] Folge [NR]". Befund 22 (Zugriffsbedarfsanalyse-PDF) weiterhin ohne Rückmeldung. Befund 29 (Konstantin, ADR-010-Verstoß bei Farb-/Schriftvorgaben, aus dem Siebten Prüflauf) weiterhin ohne Rückmeldung. Nur zur Erinnerung vermerkt.
+Befund: Befund 21 (CH-011, Formulierungsvorschlag Verwendungs-Text-Konvention) weiterhin offen, CH-011 zeigt an dieser Stelle unverändert "[Projektname] Folge [NR]". Befund 29 (Konstantin, ADR-010-Verstoß bei Farb-/Schriftvorgaben, aus dem Siebten Prüflauf) weiterhin ohne Rückmeldung. Befund 22 (Zugriffsbedarfsanalyse-PDF) ist mit Martins Rückmeldung vom 21.07.2026 (siehe oben) erledigt. Nur zur Erinnerung an die verbleibenden Punkte vermerkt.
 
 Martins Entscheidung: –
 
