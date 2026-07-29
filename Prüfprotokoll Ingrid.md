@@ -397,6 +397,282 @@ Martins Entscheidung: freigegeben (21.07.2026) – CH-008 analog zu CH-006 (Befu
 
 ---
 
+### 24.07.2026 – Neunter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Achter Prüflauf (21.07.2026). Sitzungsliste vollständig gesichtet (43 Sitzungen). Neue, bislang ungeprüfte Company-KI-Arbeit: die Sitzungen "Tasche für Frage 07" (Alain) und "Freitag Frage 07 Texte" (Alva). Die Sitzungen "Konstantin design feedback" und "Mitmachaufgabe für Freitag" enthalten inhaltlich bereits die im Achter Prüflauf gewürdigte Arbeit (Befund 30, Arthur/CH-008) und sind keine neuen Funde. "July 17 planning" ist bereits aus früheren Läufen bekannt.
+
+Als außerhalb meines Prüfbereichs eingeordnet, da erkennbar keine SQUIZZZzZ-Company-KI-Arbeit, sondern private, ausdrücklich von SQUIZZZzZ getrennte Vorhaben Martins: "Reiseroute und Reiseführer", "WEG-Protokoll Zusammenfassung", "Juniors Day" (Bank-Nachwuchsveranstaltung), "Greeting" (Aufsetzen dreier privater Projekte: Veranstaltung, Reise, Immobilien), "Leon Privé" und "Giulia Privé" (Aufbau einer eigenständigen, bewusst von SQUIZZZzZ getrennten privaten "Personalchefin" samt eigener Company-Struktur, in der Sitzung "Greeting" von Martin selbst so verfügt: "Ich möchte es schon getrennt halten... eigentlich möchte ich auch eine andere Matilde"). Giulia erscheint entsprechend auch nicht im SQUIZZZzZ-Register [[CH-000-Character- und KI-Verzeichnis]]. Kein Befund, nur zur Vollständigkeit vermerkt.
+
+Produktionsordner geprüft: `04 Taschensammlung/000 Taschensammlung.xlsx` (neue Zeile 53) sowie `06 Events/Smakfullt!/07 - 24.07.2026 Weitblick/01 Texte/Sprechertext 24.07. - Weitblick.docx` (neu) direkt auf Dateiebene (Zellinhalte, Schriftarten, Farbwerte) geprüft, nicht nur über die Sitzungszusammenfassung.
+
+---
+
+**34 · Hinweis zur Protokollführung · informativ**
+
+Im Achter Prüflauf sind zwei Befunde versehentlich beide mit der Nummer 30 versehen ("Alain (CH-011) · Skript-Konformität · Befund 26 aufgelöst" und "Arthur · Output-Qualität und Skript-Konformität"). Ich lasse die bestehende Nummerierung unangetastet, um den Bezug in Martins bisherigen Entscheidungen nicht zu verändern, und führe die Zählung ab hier bei 34 fort.
+
+Martins Entscheidung: –
+
+---
+
+**35 · Alain (CH-011) · Skript-Konformität · bestätigt**
+
+Befund: In der Sitzung "Tasche für Frage 07" (21.07.2026) hat Alain auf Martins Bitte ("Kannst Du mir auch einen kurzen Text für die Tasche schreiben, für morgen, wenn ich den Film verschicke. An die Teilnehmer.") einen kurzen Werbetext zur JW-Anderson-Clutch verfasst, gedacht zum Versand an die Teilnehmer. CH-011 listet unter "Verantwortungsbereich" ausschließlich Recherche, Dublettenabgleich, Preisermittlung, Produktseite, Tabellenpflege und Rückmeldung an Martin – ein Begleittext für die Teilnehmer-Kommunikation ist dort nicht vorgesehen. Die "Abgrenzung" schließt zwar ausdrücklich nur "Sprechertexte" aus ("die Tasche ist reine Bild-Einblendung, kein Sprechtext"); ein an Teilnehmer gerichteter Werbetext ist zwar kein Sprechertext im engeren Sinn, fällt aber ebenso wenig unter eine dokumentierte Aufgabe Alains. Anhand der Sitzung selbst belegt, kein Verdachtsfall.
+
+Einordnung: Anders als bei Hulda (Befund 12) hat Alain die Grenzüberschreitung nicht selbst erkannt oder benannt, sondern die Aufgabe kommentarlos übernommen – vermutlich, weil Martins Anfrage direkt und im selben Gespräch erfolgte. Kein Vorwurf an Alain im Sinne einer eigenmächtigen Kompetenzüberschreitung, da die Anfrage von Ihnen kam; die Frage ist rein, ob dies künftig regulärer Bestandteil seiner Rolle werden soll.
+
+Vorschlag: Zur Entscheidung vorgelegt, keine Skriptänderung ohne Ihre Freigabe. Falls dies künftig regulär zu Alains Aufgaben gehören soll: Ergänzung in CH-011, "Verantwortungsbereich" sowie Systemprompt-Anhang `<Tasks>`, um einen Punkt wie *"Auf Zuruf: kurzer, nicht gesprochener Begleittext zur Tasche für die Teilnehmer-Kommunikation – ausdrücklich kein Sprechertext, keine Berührung mit Alvas Workflow."* Falls es ein einmaliger Sonderfall bleiben soll, ist keine Änderung nötig.
+
+Martins Entscheidung: offen
+
+---
+
+**36 · Alain (CH-011) · Output-Qualität · bestätigt (positiv, mit Bezug zu Befund 21)**
+
+Befund: Zeile 53 ("000 Taschensammlung.xlsx", JW Anderson Pigeon Clutch) verwendet in Spalte E korrekt "smakfullt! Folge 07" – exakt nach der aktuell in CH-011 dokumentierten Konvention "[Projektname] Folge [NR]". Datei-verifiziert (Spaltenwerte direkt ausgelesen). Damit stehen sich in derselben Tabelle nun zwei unterschiedlich formatierte Einträge gegenüber: Zeile 52 (Givenchy) weiterhin "smakfullt! 06 Überblick" (Regelabweichung, siehe Befund 14/21, weiterhin ungeklärt), Zeile 53 (JW Anderson) regelkonform "smakfullt! Folge 07".
+
+Einordnung: Diese Uneinheitlichkeit unterstreicht, dass die seit dem 17.07.2026 vorliegende, noch offene Entscheidung zu Befund 21 (Wechsel der Konvention auf den internen Kurznamen) nicht länger folgenlos aufgeschoben werden kann – je länger sie offenbleibt, desto mehr uneinheitliche Zeilen sammeln sich in der Tabelle an, unabhängig davon, wie Sie sich am Ende entscheiden.
+
+Martins Entscheidung: – (Bezug: Befund 21 weiterhin offen)
+
+---
+
+**37 · Alva (CH-009) · Skript-Konformität · bestätigt**
+
+Befund: Der Sprechertext für Folge 07 ("Weitblick", 24.07.2026) eröffnet mit Lissis Anrede "Meine lieben Kuhsmonauten" statt der laut CH-002 für smakfullt! ausdrücklich als fest und wiederkehrend dokumentierten Anrede "Liebe Bewuuuunderer" (siehe CH-002, "Typische Formulierungen": "nur 'Liebe Bewuuuunderer' hat sich zuletzt (smakfullt!) zu einer festen, wiederkehrenden Anrede entwickelt"). Der Text trägt den Vermerk "Status: von Martin freigegeben – copy-ready" – die Abweichung wurde also im selben Gespräch von Ihnen gebilligt. Datei-verifiziert.
+
+Einordnung: Kein Verstoß gegen die Freigabepflicht, da Ihre Zustimmung vorlag. Es bleibt aber unklar, ob "Liebe Bewuuuunderer" für smakfullt! weiterhin als feste Anrede gelten soll (Folge 07 wäre dann eine bewusste Ausnahme) oder ob CH-002 diesbezüglich korrigiert werden sollte, da die feste Anrede sich in der Praxis doch nicht durchgehalten hat.
+
+Vorschlag: Zur Entscheidung vorgelegt. Falls "Liebe Bewuuuunderer" weiterhin verbindlich bleiben soll, keine Skriptänderung nötig, nur ein Hinweis für künftige Sprechertext-Sitzungen. Falls nicht, Formulierungsänderung in CH-002 ("... hat sich zuletzt (smakfullt!) zu einer festen, wiederkehrenden Anrede entwickelt" streichen bzw. relativieren) erst nach Ihrer ausdrücklichen Freigabe.
+
+Martins Entscheidung: offen
+
+---
+
+**38 · Alva (CH-009) · Output-Qualität · bestätigt (positiv)**
+
+Befund: Der Sprechertext für Folge 07 verwendet durchgängig die SQUIZZZzZ-Hausschrift (Avenir Heavy/Book/Black/Medium) sowie ausschließlich die SQUIZZZzZ-Farben Orange #FF8E00 und Blau #1921B1 (zusätzlich neutrale Grautöne für Regieanweisungen) – datei-verifiziert, nicht nur anhand der Sitzungszusammenfassung. misterQs Begrüßung ("Hallooooo liebe SQUIZZZZzZer!") und Abschluss ("Also dann... Macht's gut. Und bis bald.") sowie Lissis Standard-Gratulation ("Herzlichen Glückwuuuuuhnsch") sind wortgetreu nach CH-001/CH-002 übernommen. Punktevergabe bleibt bewusst unspezifisch ("gibt's auch für alle anderen Einsendungen Punkte") statt konkrete Werte zu erfinden – konform zu CH-009s Grundsatz, keine Punkte selbst zu erfinden.
+
+Martins Entscheidung: zur Kenntnis
+
+---
+
+**39 · Alva (CH-009) · Skript-Konformität · präventiver Hinweis, bestätigt (Dokumentationslücke ohne bisherige Auswirkung)**
+
+Befund: CH-009 listet unter "Wissensanbindung" weder [[DES-001-Farbwelt]] noch [[DES-002-Typografie]], obwohl ADR-010 dies für jeden außerhalb von Obsidian dokumenteerzeugenden Company-KI-Mitarbeiter verbindlich vorschreibt – derselbe strukturelle Mangel, der bei Konstantin (Befund 29) und Arthur (Befund 30/Achter Prüflauf) bereits zu tatsächlich fehlerhaften Dokumenten geführt hatte. Bei Alva hat sich dieser Mangel bislang nicht ausgewirkt (siehe Befund 38, positiv), aber die Qualitätsstandard-Note hält aus dem siebten Prüflauf bereits fest, dass dieser Verweis bei jedem dokumenteerzeugenden Company-KI präventiv, nicht erst nach einem tatsächlichen Fehler, zu prüfen ist.
+
+Vorschlag: CH-009, Abschnitt "Wissensanbindung", ergänzen: *"[[DES-001-Farbwelt]] und [[DES-002-Typografie]] – Lesezugriff, verbindlich für jedes außerhalb von Obsidian erzeugte Dokument gemäß [[ADR-010]]."* Systemprompt-Anhang `<Knowledge>` entsprechend ergänzen. `<QualityStandards>` um einen Satz erweitern, analog zu CH-006/CH-008: *"Every delivered script document must use the SQUIZZZzZ colors and the Avenir typeface (ADR-010) — never the default Office template styling."*
+
+Martins Entscheidung: offen
+
+---
+
+**40 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund 21 (CH-011, Formulierungsvorschlag Verwendungs-Text-Konvention) weiterhin offen – siehe auch Befund 36 oben, der die Dringlichkeit zusätzlich unterstreicht. Befund 23/32 (Konstantin, Datei "Recherche_24-07-2026.docx" weiterhin nicht in "Chronist-Recherche 24.07.docx" umbenannt) weiterhin offen; kein neuer automatischer Lauf seit dem fünften Prüflauf, nächster planmäßiger Lauf voraussichtlich kommenden Samstag. Befund 29 (Konstantin, nachträgliche Neuformatierung der drei bestehenden Rechercheergebnisse) weiterhin ohne Rückmeldung. Nur zur Erinnerung vermerkt.
+
+Martins Entscheidung: –
+
+---
+
+### 25.07.2026 – Zehnter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Neunten Prüflauf (24.07.2026). Sitzungsliste vollständig gesichtet (47 Sitzungen). Neu seit dem letzten Lauf: "Reiseplanung Barcelona und Sitges", "Chronist freitag recherche", "EM Tag km meaning", "Nico Privé", "WEG-Protokoll Zusammenfassung", "Juniors Day", "Giulia Privé" (bei Redaktionsschluss noch laufend), "Leon Privé", "Greeting". Produktionsordner auf Dateien mit Zeitstempel nach dem 24.07.2026 geprüft: eine neue Datei, "Chronist-Recherche 31.07.docx".
+
+---
+
+**41 · Kein Company-KI · außerhalb des Prüfbereichs · informativ**
+
+Befund: Von den neun seit dem letzten Lauf neuen Sitzungen betrifft nur eine Arbeit einer registrierten SQUIZZZzZ-Company-KI (Konstantin, s. u.). "EM Tag km meaning" ist eine private Sachfrage zu einer Mietwagenrechnung, ohne jeden SQUIZZZzZ-Bezug. "Reiseplanung Barcelona und Sitges", "WEG-Protokoll Zusammenfassung", "Juniors Day", "Giulia Privé", "Leon Privé", "Nico Privé" und "Greeting" gehören zu Martins bereits im Neunten Prüflauf als getrennt eingeordnetem privaten Vorhaben (private "Personalchefin" samt eigener Assistenten-Struktur, eigene Vault, eigenes CH-Nummernschema). In "Giulia Privé" wurde die private Personalchefin in dieser Sitzung aktiviert (Status 🟢, Version 1.0, 24.07.2026), in "Leon Privé" ein weiterer privater Assistent ("CH-002 Leon Privé") neu angelegt, in "Nico Privé" ein dritter ("CH-003 Nico Privé"). Keiner dieser drei erscheint im SQUIZZZzZ-Register [[CH-000-Character- und KI-Verzeichnis]]. Gemäß dem in der Qualitätsstandard-Note aus dem Neunten Prüflauf festgehaltenen Grundsatz (maßgeblich ist die Eintragung in CH-000, nicht die strukturelle Ähnlichkeit zu einer SQUIZZZzZ-Rolle) fällt das nicht in meinen Prüfbereich. Kein Befund, nur zur Vollständigkeit und zur Bestätigung, dass die Trennung weiterhin sauber eingehalten wird.
+
+Martins Entscheidung: –
+
+---
+
+**42 · Konstantin (CH-006) · Skript-Konformität · Befund 23/32 aufgelöst, bestätigt**
+
+Befund: Der planmäßige wöchentliche automatische Lauf ("Chronist freitag recherche") hat für Freitag, 31.07.2026, ausgelöst und die Datei unter `06 Events/Smakfullt!/08 - 31.07.2026 Durchblick/00 Recherche/Chronist-Recherche 31.07.docx` abgelegt. Der Dateiname entspricht diesmal exakt der in CH-006 (Rechercheprozess Schritt 5, Systemprompt `<Workflow>` Schritt 3) vorgeschriebenen Konvention "Chronist-Recherche TT.MM.docx" – nach zwei vorherigen abweichenden Läufen (Befund 2/23/32) hält die Regel damit im dritten beobachteten automatischen Lauf zum ersten Mal durchgehend.
+
+Einordnung: Entsprechend dem in der Qualitätsstandard-Note (fünfter Prüflauf) festgehaltenen Grundsatz, dass eine korrigierte Regel bei jeder neuen automatisierten Ausführung erneut zu prüfen ist – dieser Re-Check kann auch positiv ausfallen und bestätigt hier die Wirksamkeit der am 21.07.2026 ergänzten `<QualityStandards>`-Verstärkung. Befund 23/32 ist damit aufgelöst, kein fortbestehender Mangel.
+
+Martins Entscheidung: –
+
+---
+
+**43 · Konstantin (CH-006) · Output-Qualität und Skript-Konformität · Befund 29 Fix bestätigt (positiv)**
+
+Befund: Ich habe "Chronist-Recherche 31.07.docx" direkt auf Dateiebene geprüft (Schriftarten und Farbwerte aus dem Dokument-XML ausgelesen, nicht nur die Sitzungszusammenfassung). Ergebnis: Durchgängig Avenir (Black/Book/Heavy/Medium), keine Office-Theme-Schrift. Farblich ausschließlich die verbindlichen SQUIZZZzZ-Werte gemäß [[DES-001-Farbwelt]]: Orange #FF8E00, Blau #121889/#0B106C, Grün #008A47, dazu neutrale Grautöne für Fließtext. Keine der zuvor bei Konstantin festgestellten Office-Standardfarben (Befund 29) taucht auf. Das ist der erste automatische Lauf seit der am 21.07.2026 freigegebenen CH-006-Ergänzung (Wissensanbindung DES-001/DES-002, Rechercheprozess Schritt 5, Systemprompt `<Knowledge>`/`<Workflow>`/`<QualityStandards>`) – die Korrektur hält im ersten unbeaufsichtigten Praxistest.
+
+Inhaltlich sauber: 24 Ereignisse, durchgängig mit Quelle und 5-Kriterien-Bewertung, Datumsformat TT.MM.JJJJ eingehalten. Zwei vielversprechende Funde (Priestleys Sauerstoff-Entdeckung, Erfindung des Wasserskifahrens) wurden wegen widersprüchlicher Quellenangaben bewusst weggelassen statt geraten – entspricht genau dem Qualitätsstandard-Grundsatz "Nichts erfinden, auch keine fehlenden Parameter" und ist als weiterer positiver Referenzfall festzuhalten.
+
+Martins Entscheidung: zur Kenntnis
+
+---
+
+**44 · Konstantin (CH-006) · informativ, kein Befund**
+
+Befund: Wie bereits beim Lauf zum 24.07.2026 (Befund 24) konnte auch diesmal kein Foto von den Quellseiten geladen werden (Sandbox blockiert externe Bild-Domains, web_fetch akzeptiert keine Bild-Binärdaten). Konstantin hat dies wie beim letzten Mal transparent im [[Chronist-Quellenregister]] vermerkt (Eintrag 25.07.2026), statt es zu verschweigen oder notdürftig zu umgehen. Kein Skript-Konformitäts-Mangel, sondern eine seit zwei aufeinanderfolgenden automatischen Läufen bestehende technische Grenze der verfügbaren Werkzeuge – ich vermerke es, damit die Wiederholung nicht in Vergessenheit gerät, falls Martin eine technische Lösung dafür sucht.
+
+Martins Entscheidung: –
+
+---
+
+**45 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` im Vault-Repository zeigt "Prüfprotokoll Ingrid.md" und "Qualitätsstandard.md" als geändert, aber nicht committet/gepusht (Stand seit mindestens dem Neunten Prüflauf). Erinnerung an die im Systemprompt vorgesehene Pflicht: nach Änderungen an einer Vault-Notiz an den Push nach GitHub erinnern.
+
+Martins Entscheidung: –
+
+---
+
+**46 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 21 (CH-011, Formulierungsvorschlag Verwendungs-Text-Konvention) weiterhin offen, CH-011 unverändert bei "[Projektname] Folge [NR]". Befund 30/35 (Alain, Teilnehmer-Begleittext als mögliche reguläre Aufgabe) weiterhin offen, keine neue Alain-Sitzung seit dem Neunten Prüflauf. Befund 37 (Alva/CH-002, Anrede "Liebe Bewuuuunderer" – Ausnahme oder Korrektur der Note) weiterhin offen, CH-002 unverändert. Befund 39 (Alva/CH-009, fehlender ADR-010-Verweis in der Wissensanbindung) weiterhin offen, CH-009 zeigt weiterhin keinen Verweis auf DES-001/DES-002. Keine neue Alva-Sitzung seit dem Neunten Prüflauf. Nur zur Erinnerung vermerkt, kein neuer Handlungsbedarf meinerseits.
+
+Martins Entscheidung: –
+
+---
+
+### 25.07.2026 – Nachtrag zum Zehnten Prüflauf (Martins direkte Entscheidungen im selben Gespräch)
+
+**Anlass:** Martin hat mir im Anschluss an den Zehnten Prüflauf, direkt im selben Gespräch, zu mehreren offenen Punkten explizite Entscheidungen mitgeteilt und zusätzlich zwei neue Aufträge erteilt (Prüfrhythmus, Skript-Deployment-Check). Ich werte diese direkten, im selben Gespräch erteilten Anweisungen als hinreichend explizite Freigabe im Sinne meiner eigenen Restriktion – analog zur bereits in der Qualitätsstandard-Note (achter Prüflauf, Befund 31) dokumentierten Grenzfall-Handhabung – und habe entsprechend umgesetzt, nicht nur vorgeschlagen.
+
+---
+
+**47 · Konstantin (CH-006) · Skript-Konformität · umgesetzt**
+
+Martins Entscheidung: Konstantin soll keine Fotos mehr herunterladen (dauert lange, scheitert meist). Stattdessen nur den Link zur Quellseite unter dem jeweiligen Ereignis-Eintrag.
+
+Umsetzung: CH-006 geändert – Abgrenzung, Rechercheprozess Schritt 5, Systemprompt-Anhang (`<Tasks>`, `<Workflow>` Schritt 3, `<QualityStandards>`, `<Restrictions>`). Konstantin verlinkt künftig die Quellseite statt einen Bild-Download zu versuchen. Betrifft auch das in Befund 44 vermerkte, zweimal aufgetretene technische Scheitern – damit erledigt sich das Problem durch Wegfall des Downloadversuchs selbst.
+
+Martins Entscheidung: freigegeben und umgesetzt (25.07.2026).
+
+---
+
+**48 · Alain (CH-011) · Skript-Konformität · Befund 21 umgesetzt**
+
+Martins Entscheidung: Ja, Verwendungs-Text soll künftig "[Projektname] [interner Kurzname der Folge]" lauten, z. B. „smakfullt! 06 Überblick".
+
+Umsetzung: CH-011 geändert – Rechercheprozess Schritt 2, Systemprompt-Anhang (`<Tasks>`, `<Workflow>` Schritt 2, `<QualityStandards>`) exakt nach dem am 17.07.2026 vorgelegten Formulierungsvorschlag.
+
+Hinweis: Dadurch dreht sich die in Befund 36 festgestellte Uneinheitlichkeit in "000 Taschensammlung.xlsx" um – Zeile 52 (Givenchy, „smakfullt! 06 Überblick") entspricht jetzt der neuen Regel, Zeile 53 (JW Anderson, „smakfullt! Folge 07") entspricht der alten Regel und ist unter der neuen Konvention nicht mehr konform. Martin hat keine rückwirkende Korrektur beauftragt – ich ändere Zeile 53 nicht eigenmächtig, vermerke es hier nur zur Kenntnis.
+
+Martins Entscheidung: freigegeben und umgesetzt (25.07.2026).
+
+---
+
+**49 · Alain (CH-011) · Skript-Konformität · Befund 30/35 umgesetzt**
+
+Martins Entscheidung: Der Teilnehmer-Begleittext (siehe Befund 35) soll regulär zu Alains Aufgaben gehören, aber ausdrücklich nur auf Anforderung, nicht durchgängig bei jedem Lauf.
+
+Umsetzung: CH-011 geändert – Verantwortungsbereich, Abgrenzung, Systemprompt-Anhang (`<Tasks>`, `<Restrictions>`): neuer Punkt „auf ausdrückliche Anforderung: kurzer, nicht gesprochener Begleittext zur Tasche für die Teilnehmer-Kommunikation" – ausdrücklich kein Sprechertext, keine Berührung mit Alvas Workflow, kein Standardbestandteil jedes Laufs.
+
+Martins Entscheidung: freigegeben und umgesetzt (25.07.2026).
+
+---
+
+**50 · Lissi (CH-002) · Skript-Konformität · Befund 37 umgesetzt**
+
+Martins Entscheidung: Keine feste Anrede – auch nicht für smakfullt!. Die Anrede soll durchgehend abwechseln.
+
+Umsetzung: CH-002, Abschnitt "Typische Formulierungen", geändert: Die Aussage, "Liebe Bewuuuunderer" habe sich zu einer festen, wiederkehrenden Anrede entwickelt, wurde gestrichen und durch eine ausdrückliche Klarstellung ersetzt, dass es bewusst keine feste Anrede gibt, auch nicht projektspezifisch. "Liebe Bewuuuunderer" bleibt als eine von mehreren möglichen Formulierungen im Beispiel-Set.
+
+Hinweis zur Reichweite: CH-002 ist kein eigenes Cowork-Projekt, sondern eine von Alva (CH-009) als Wissensanbindung gelesene Referenz-Note ("verbindliche Grundlage für jeden Sprechertext", CH-009-Wissensanbindung). Sofern Alvas Cowork-Projekt wie dokumentiert Lesezugriff auf die Vault-Note selbst hat (nicht nur eine eingefrorene Kopie), wirkt diese Korrektur automatisch beim nächsten Sprechertext, ohne dass Alvas eigener Systemprompt neu eingefügt werden müsste. Ob das technisch tatsächlich so eingerichtet ist, kann ich nicht mit Sicherheit bestätigen (siehe Befund 52).
+
+Martins Entscheidung: freigegeben und umgesetzt (25.07.2026).
+
+---
+
+**51 · Ingrid (CH-010, eigene Zuständigkeit) · Prüfrhythmus geändert**
+
+Martins Entscheidung: Prüfrhythmus muss nicht mehr täglich sein. Wöchentlich, mittwochs 19:00 Uhr reicht, zusätzlich auf Anforderung.
+
+Umsetzung: Geplante Aufgabe "ingrid-daily-qa-review" von täglich (0 19 * * *) auf wöchentlich mittwochs (0 19 * * 3) umgestellt. CH-010 entsprechend angepasst (Rolle, Verantwortungsbereich, Prüfzyklus, Tatsächliche Einrichtung, Aktivierungscheckliste, Systemprompt-Anhang `<Goal>`, `<Tasks>`, `<Workflow>`, `<Restrictions>`).
+
+Offener technischer Punkt: Die Änderung der geplanten Aufgabe wirkt unabhängig vom Systemprompt-Text meines eigenen Cowork-Projekts – für die volle Konsistenz sollte Martin bei Gelegenheit auch die dort hinterlegten Custom Instructions auf den aktualisierten CH-010-Systemprompt-Anhang bringen (betrifft nur die Selbstbeschreibung, nicht die tatsächliche Auslösefrequenz, die bereits über die geplante Aufgabe korrekt läuft).
+
+Martins Entscheidung: freigegeben und umgesetzt (25.07.2026).
+
+---
+
+**52 · Ingrid (eigene Zuständigkeit) · Skript-Deployment-Check, mit Grenzen der Prüfbarkeit**
+
+Martins Frage: Ob überall die richtigen Skripte in die jeweilige "Agentenbeschreibung" (Custom Instructions im jeweiligen Cowork-Projekt) kopiert wurden.
+
+Ehrliche Einordnung meiner Möglichkeiten: Ich habe kein Werkzeug, das die tatsächlich hinterlegten Custom Instructions eines fremden Cowork-Projekts direkt öffnet oder ausliest – meine Sitzungs-Einsichtstools zeigen nur den Gesprächsverlauf (Nutzer-/Assistenten-Turns), nicht die zugrunde liegende Systemprompt-Konfiguration. Ich kann daher nur indirekt über beobachtetes Verhalten in jüngeren Sitzungen prüfen, ob es zum jeweils aktuellen Character-Book-Stand passt – nicht ob der Text buchstäblich übereinstimmt.
+
+Ergebnis dieser Verhaltensprüfung, je Company-KI:
+
+- **Konstantin (CH-006):** Bestätigt aktuell. Der automatische Lauf vom heutigen Tag (31.07.-Recherche) zeigt sowohl die Namenskonvention als auch die ADR-010-Farb-/Schriftvorgabe korrekt umgesetzt (siehe Befund 42/43) – das deployte Skript entspricht dem Stand nach der Freigabe vom 21.07.2026.
+- **Alain (CH-011):** Bestätigt aktuell für die Bild-Download-Korrektur vom 21.07.2026 – die Sitzung "Tasche für Frage 07" zeigt, dass Alain kein Bild selbst herunterlädt, sondern Martin dies übernimmt. Für die drei soeben (25.07.) vorgenommenen Änderungen (Verwendungs-Text-Konvention, Begleittext auf Anforderung) liegt naturgemäß noch keine Verhaltensprobe vor.
+- **Arthur (CH-008):** Nicht erneut verifizierbar. Die ADR-010-Korrektur wurde am 21.07.2026 freigegeben, seither ist aber keine neue Arthur-Datei entstanden – ich kann nicht bestätigen, ob das deployte Skript bereits aktualisiert wurde oder ob die nächste Mitmachaufgabe/Rätselfrage erneut die alte Office-Vorlage verwendet.
+- **Alva (CH-009):** Keine ausstehende Skriptänderung außer der heutigen CH-002-Korrektur (siehe Befund 50) – dort betrifft es eine verlinkte Wissens-Note, keine eigene Systemprompt-Änderung.
+- **Matilde (CH-005), Hulda (CH-007), Ingrid (CH-010):** Keine neue Sitzung seit der letzten bestätigten Übereinstimmung – keine neue Verhaltensprobe verfügbar, aber auch kein Hinweis auf eine Abweichung.
+
+**Checkliste für Martin – wo ein manuelles Neu-Einfügen der Custom Instructions nötig sein könnte** (nur der eigentliche Systemprompt-Anhang muss manuell kopiert werden; Wissensanbindungen wie CH-002 werden, sofern der Vault-Ordner verbunden ist, live gelesen, nicht kopiert):
+- CH-006 Konstantin – heute geändert (Foto-Link), noch nicht verhaltensgeprüft
+- CH-011 Alain – heute zweimal geändert (Verwendungs-Text, Begleittext), noch nicht verhaltensgeprüft
+- CH-010 Ingrid – heute geändert (Prüfrhythmus); betrifft nur meine Selbstbeschreibung, nicht die tatsächliche Auslösung
+- CH-008 Arthur – am 21.07.2026 geändert (ADR-010), bislang nicht verhaltensbestätigt
+
+Martins Entscheidung: –
+
+---
+
+### 29.07.2026 – Elfter Prüflauf (erster regulärer Lauf im neuen wöchentlichen Rhythmus, Mittwoch)
+
+**Geprüfter Zeitraum:** Seit dem Zehnten Prüflauf inkl. Nachtrag (25.07.2026). Sitzungsliste vollständig gesichtet (51 Sitzungen). Neu seit dem letzten Lauf: "Rätsel für Freitag" (Arthur, noch laufend/nicht abgeschlossen), "Tasche für Folge 08" (Alain, abgeschlossen), "Elgato Wave Neo Mikrofon" (kein Company-KI-Bezug). Die beiden Sitzungen "Chronist freitag recherche" sind beide bereits aus früheren Läufen bekannt (24.07.- bzw. 31.07.-Recherche, siehe Befund 23/24 bzw. 42–44) – keine neue automatische Ausführung seit dem letzten Lauf, der nächste plangemäße Konstantin-Lauf ist erst wieder für Samstag, 01.08.2026, zu erwarten. "Giulia Privé" zeigt die inzwischen abgeschlossene Aktivierung von Giulia und Leon in Martins privater, von SQUIZZZzZ getrennter Struktur – weiterhin außerhalb meines Prüfbereichs (siehe Grundsatz aus dem neunten Prüflauf), nur zur Bestätigung gesichtet. Produktionsordner auf Dateien mit Zeitstempel nach dem 25.07.2026 geprüft: "000 Taschensammlung.xlsx" (neue Zeile 54/lfd. Nr. 54) sowie im Ordner "08 - 31.07.2026 Durchblick" Konstantins bereits gewürdigte Recherchedatei und von Martin selbst abgelegtes Footage-Material (Lunar-Roving-Vehicle-Bilder/Video) – Letzteres ist erkennbar Martins eigene Vorbereitung für Arthurs laufende Rätselfrage-Sitzung, keine Company-KI-Ausgabe.
+
+---
+
+**53 · Alain (CH-011) · Skript-Konformität · bestätigt (Skript-Deployment-Check aus Befund 52 beantwortet)**
+
+Befund: In der Sitzung "Tasche für Folge 08" hat Alain für Folge 08 ("Durchblick") die Judith-Leiber-"Astronaut Crystal Clutch Bag" gefunden und als Zeile 54 (lfd. Nr. 54) in "000 Taschensammlung.xlsx" abgelegt. Ich habe die Tabelle direkt auf Dateiebene geprüft: Spalte E enthält "smakfullt! Folge 08" – das ist die **alte**, bis zum 24.07.2026 gültige Konvention "[Projektname] Folge [NR]". Die seit dem 25.07.2026 in CH-011 dokumentierte und von Ihnen freigegebene neue Konvention (Befund 48) lautet "[Projektname] [interner Kurzname der Folge]" und hätte hier "smakfullt! 08 Durchblick" ergeben müssen. Datei-verifiziert, kein Verdachtsfall.
+
+Einordnung: Dies ist genau der Fall, den ich im Zehnten Prüflauf (Befund 52, Skript-Deployment-Check) als noch unbeantwortet vermerkt hatte ("für die drei soeben vorgenommenen Änderungen liegt naturgemäß noch keine Verhaltensprobe vor"). Jetzt liegt die erste Verhaltensprobe seit der Freigabe vor – und sie zeigt: Die Änderung ist zwar in CH-011 selbst korrekt dokumentiert, wirkt aber noch nicht im tatsächlich deployten Alain-Cowork-Projekt. Das ist keine Nachlässigkeit Alains, sondern der bereits in CH-010 dokumentierte technische Umstand, dass nur der Systemprompt-Anhang eines Character Books manuell in das jeweilige Cowork-Projekt kopiert werden muss, damit eine Änderung wirkt (siehe Qualitätsstandard, zehnter Prüflauf) – das war für CH-011 bei diesem Lauf offenbar noch nicht geschehen.
+
+Damit sammelt sich in "000 Taschensammlung.xlsx" jetzt eine dritte uneinheitliche Zeile: Zeile 53 (Givenchy) entspricht zufällig bereits der neuen Konvention, Zeile 54 (JW Anderson) und die neue Zeile 55/lfd. Nr. 54 (Judith Leiber) folgen beide noch der alten.
+
+Positiv vermerkt: Die Chrome-Erweiterung war in dieser Sitzung nicht verbunden, Alain konnte die Produktseite daher nicht selbst öffnen. Er hat das transparent gemeldet, statt es zu verschweigen oder zu improvisieren ("Die Chrome-Erweiterung ist gerade nicht verbunden – ich konnte die Produktseite daher nicht selbst öffnen. Öffne sie bitte manuell...") – entspricht dem Qualitätsstandard-Grundsatz "Nichts erfinden, auch keine fehlenden Parameter" (analog zu Konstantins Umgang mit dem Bildzugriffsproblem).
+
+Vorschlag: Keine weitere Skriptänderung an CH-011 nötig – der Wortlaut ist bereits korrekt. Ich schlage vor: (1) Sie prüfen bzw. aktualisieren bei Gelegenheit die in Alains Cowork-Projekt hinterlegten Custom Instructions auf den seit 25.07.2026 aktuellen CH-011-Systemprompt-Anhang. (2) Zur Entscheidung: Sollen Zeile 54 und die neue Zeile 55 (lfd. Nr. 54) rückwirkend auf die neue Konvention korrigiert werden ("smakfullt! Folge 07" → "smakfullt! 07 Weitblick", "smakfullt! Folge 08" → "smakfullt! 08 Durchblick")? Ich nehme keine eigenmächtige Korrektur vor.
+
+Martins Entscheidung: offen
+
+---
+
+**54 · Arthur (CH-008) · informativ, kein Befund (Zwischenstand)**
+
+Befund: Die Sitzung "Rätsel für Freitag" (Folge 08, "Durchblick") zeigt Arthur im laufenden, mehrstufigen Brainstorming mit Ihnen zu einer Rätselfrage rund um das Lunar Roving Vehicle (Apollo 15, Erstverwendung 31.07.1971 – passend zum Ausstrahlungsdatum 31.07.2026). Der Prozess entspricht CH-008: mehrere Gesprächsrunden statt Schnellschuss, Faktenprüfung per Websuche mit nachvollziehbaren Quellen (NASA, Smithsonian, Space Center Houston), transparente Schärfung einer eigenen Ungenauigkeit ("ein paar Jahre früher" zu "ein paar Jahrzehnte früher" korrigiert, da 55 Jahre). Die Sitzung endet offen mit Arthurs Rückfrage, ob die vorgeschlagene Fassung passt – noch keine Freigabe durch Sie, entsprechend liegt in `01 Texte` des Folgenordners erwartungsgemäß noch keine Datei vor. Kein Befund, da kein abgeschlossener Vorgang zu bewerten ist; ich prüfe im nächsten Lauf, ob die Datei inzwischen abgelegt wurde.
+
+Martins Entscheidung: –
+
+---
+
+**55 · Kein Company-KI · außerhalb des Prüfbereichs · informativ**
+
+Befund: Die Sitzung "Elgato Wave Neo Mikrofon" befasst sich mit Ihrer eigenen Ausrüstungsrecherche (Mikrofonwahl für Ihre eigenen Sprachaufnahmen von Lissi und misterQ). Es ist keine Company-KI-Persona erkennbar – die Antworten tragen keinen der dokumentierten Charakterzüge irgendeiner registrierten Rolle, es handelt sich um allgemeine Produktrecherche. Kein Befund in meinem Sinne, da keine Company-KI-Arbeit zu bewerten ist; nur zur Vollständigkeit vermerkt.
+
+Martins Entscheidung: –
+
+---
+
+**56 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 29 (Konstantin, nachträgliche Neuformatierung der drei ältesten Rechercheergebnisse) weiterhin ohne Rückmeldung. Befund 30/Achter Prüflauf (Arthur, nachträgliche Neuformatierung der beiden bestehenden Dateien) weiterhin ohne Rückmeldung. Befund 39 (Alva/CH-009, fehlender ADR-010-Verweis in der Wissensanbindung) weiterhin offen – CH-009 zeigt an der Wissensanbindung unverändert keinen Verweis auf DES-001-Farbwelt/DES-002-Typografie, keine neue Alva-Sitzung seit dem Neunten Prüflauf, um das praktisch erneut zu prüfen. Befund 37 (Lissi/CH-002, feste vs. wechselnde Anrede) ist mit der Änderung vom 25.07.2026 (Befund 50) erledigt. Nur zur Erinnerung an die verbleibenden Punkte vermerkt.
+
+Martins Entscheidung: –
+
+---
+
+**57 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt weiterhin mehrere geänderte, aber nicht committete/gepushte Dateien: "CH-002-Lissi.md", "CH-006 Konstantin.md", "CH-010 Ingrid.md", "CH-011 Alain.md", "Chronist-Quellenregister.md", "Prüfprotokoll Ingrid.md", "Qualitätsstandard.md" (Stand seit mindestens dem Zehnten Prüflauf, siehe bereits Befund 45). Erinnerung an die im Systemprompt vorgesehene Pflicht: nach Änderungen an einer Vault-Notiz an den Push nach GitHub erinnern – dieser Rückstand betrifft inzwischen mehrere Läufe.
+
+Martins Entscheidung: –
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen

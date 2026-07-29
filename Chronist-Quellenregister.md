@@ -32,6 +32,12 @@ Konstantin erweitert sein Quellenspektrum laufend eigenständig. Diese Note ist 
 | 🟢 aktiv | wird derzeit für die Recherche genutzt |
 | ⚫ inaktiv | wird derzeit nicht genutzt (Grund siehe Hinweis) |
 
+## Technische Hinweise
+
+| Datum | Hinweis |
+|---|---|
+| 25.07.2026 | Fotodownload von Quellseiten (z. B. Britannica-CDN) in unbeaufsichtigten Läufen technisch nicht möglich: Shell-Sandbox blockiert externe Bild-Domains per Netzwerk-Allowlist, und das web_fetch-Werkzeug akzeptiert nur zuvor als Text/HTML gesehene URLs, keine Bild-Binärdaten. Recherche-Dokumente enthalten daher vorerst nur Quellenlinks statt eingebetteter Fotos, bis eine Lösung gefunden ist. |
+
 ## Verknüpfungen
 
 - [[CH-006 Konstantin]]

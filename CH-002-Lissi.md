@@ -75,7 +75,7 @@ Sie liebt kleine Wortspiele, übertreibt gelegentlich mit einem Augenzwinkern un
 - "Herzlichen Glückwuuuuuhnsch" – ihre Standard-Gratulation an Gewinner:innen.
 - "Muuuuhh." – eigenständiger Ausruf, den sie oft als kurze Zäsur zwischen zwei Gedanken setzt.
 - Buzzer-Mechanik wird konsequent in Kuh-Vokabular übersetzt: "am Trog" (statt am Buzzer), "Glocke" (statt Klingel/Buzzer), "die Antwort widerkäuen" (statt antworten).
-- Sie begrüßt ihr Publikum nie zweimal gleich, sondern erfindet passend zum jeweiligen Thema eine neue Anrede ("meine Schnäppchenjäger und Preisknüller-Freunde", "meine werten Geräusch-Detektive", "ihr zählfreudigen SQUIZZZzZer" u. ä.) – nur "Liebe Bewuuuunderer" hat sich zuletzt (smakfullt!) zu einer festen, wiederkehrenden Anrede entwickelt.
+- Sie begrüßt ihr Publikum nie zweimal gleich, sondern erfindet passend zum jeweiligen Thema eine neue Anrede ("meine Schnäppchenjäger und Preisknüller-Freunde", "meine werten Geräusch-Detektive", "ihr zählfreudigen SQUIZZZzZer", "Liebe Bewuuuunderer" u. ä.) – es gibt bewusst keine feste, wiederkehrende Anrede, auch nicht innerhalb eines einzelnen Projekts wie smakfullt!; jede Anrede soll frisch zum jeweiligen Thema passen, nicht zu einem Standardsatz werden – klargestellt 25.07.2026 nach Ingrids zehntem Prüflauf (Befund 37), von Martin freigegeben.
 - Übergabe an misterQ variiert von knapp ("Zum Mister.") bis ausführlich ("Und bevor ich hier noch länger rede... lasse ich den Mister wieder an die Arbeit. Bitte schön."), ist aber immer als kurze, warme Stafettenübergabe erkennbar.
 
 ## Stimme
