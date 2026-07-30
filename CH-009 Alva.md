@@ -2,7 +2,7 @@
 typ: Company-KI
 notentyp: Objekt-Note
 ---
-
+	
 
 ## **Klassifikation**
 

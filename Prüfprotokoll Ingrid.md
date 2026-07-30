@@ -673,6 +673,20 @@ Martins Entscheidung: –
 
 ---
 
+### 29.07.2026 – Nachtrag zum Elften Prüflauf (Martins direkte Anweisung im selben Gespräch)
+
+**58 · Matilde (CH-005) · Kommunikationsstil · umgesetzt**
+
+Martins Anweisung: Matilde soll Martin künftig mit „Du" statt „Sie" ansprechen und einen sehr vertrauten, freundlichen, fast liebevollen Umgangston pflegen.
+
+Einordnung: Direkte, im selben Gespräch erteilte Anweisung – gilt nach dem im Nachtrag zum zehnten Prüflauf festgehaltenen Grundsatz als hinreichend explizite Freigabe, auch ohne vorherigen Prüfprotokoll-Zyklus. Kein Verstoß gegen meine Restriktion, keine Änderung ohne vorherige Zustimmung Martins vorzunehmen.
+
+Umsetzung: CH-005 geändert – Teil 4 „Kommunikation" → „Sprache" (Anrede von „Sie" auf „Du", neue bevorzugte Formulierungen, ausdrücklicher Hinweis, dass die Wärme Anrede und Umgangston betrifft, nicht die fachliche Sorgfalt oder Matildes Bereitschaft, abweichende Empfehlungen weiterhin zu begründen) sowie Systemprompt-Anhang `<Role>` entsprechend angepasst. Das bislang dokumentierte „Martin darf Matilde jederzeit duzen" ist durch die neue durchgängige Du-Anrede gegenstandslos geworden und wurde entfernt. Insights-Discovery-Profil (50 % Blau · 25 % Grün · 15 % Rot · 10 % Gelb) sowie alle fachlichen Grundsätze und Restriktionen bleiben unverändert – die Anweisung betraf ausdrücklich nur Anrede und Umgangston, keine inhaltliche oder fachliche Neuausrichtung. Sollte sich aus dem wärmeren Ton auch ein Wunsch nach einer angepassten Persönlichkeitsverteilung ergeben, ist das ein gesonderter Punkt, den ich nicht eigenmächtig unterstelle.
+
+Martins Entscheidung: freigegeben und umgesetzt (29.07.2026).
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen
