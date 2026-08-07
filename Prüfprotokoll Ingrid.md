@@ -687,6 +687,112 @@ Martins Entscheidung: freigegeben und umgesetzt (29.07.2026).
 
 ---
 
+### 06.08.2026 – Zwölfter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Elften Prüflauf inkl. Nachtrag (29.07.2026). Sitzungsliste vollständig gesichtet (62 Sitzungen). Neu seit dem letzten Lauf: "Herbsturlaub 2026 Planung", "Chronist freitag recherche" (neue Instanz), "Nico Beschwerdebriefe Hotel", "Text für 07.08.", "Tasche für 07.08.", "Mitmachaufgabe 07.08.", "Termin 07.08.", "Film 07 Weitblick submissions", "Text für morgen", "Präsentation grafisch verbessern", "Nano Banana prompt for IPMA certification", "Rätsel für Freitag" (seit dem Elften Prüflauf abgeschlossen), "Hallo Matilde". Produktionsordner auf Dateien mit Zeitstempel nach dem 29.07.2026 geprüft: neue Dateien in "08 - 31.07.2026 Durchblick" (Rätselfrage/Sprechertext, Jurybegründung-Export) und vollständig neu angelegter Ordner "09 - 07.08.2026 Lichtblick" (Recherche, Mitmachaufgabe, Sprechertext), außerdem Zeile 55 in "000 Taschensammlung.xlsx".
+
+Als außerhalb meines Prüfbereichs eingeordnet, da erkennbar keine SQUIZZZzZ-Company-KI-Arbeit, sondern private Vorhaben Martins bzw. reine Werkzeugnutzung ohne Company-KI-Persona: "Herbsturlaub 2026 Planung", "Nico Beschwerdebriefe Hotel", "Reiseplanung Barcelona und Sitges" (Folgeaktivität), "Präsentation grafisch verbessern", "Nano Banana prompt for IPMA certification". Kein Befund, nur zur Vollständigkeit vermerkt.
+
+---
+
+**59 · Konstantin (CH-006) · Skript-Konformität und Output-Qualität · bestätigt (positiv), plus technischer Hinweis**
+
+Befund: Zwei Sitzungen betreffen denselben automatischen Rechercheauftrag für Folge 09 (07.08., „Lichtblick"): „Termin 07.08." hat die Datei „Chronist-Recherche 07.08.docx" tatsächlich erstellt (Ablage laut Dateisystem am 30.07.2026), „Chronist freitag recherche" (später ausgelöst) fand die Datei bereits vor und hat sie inhaltlich und gestalterisch geprüft statt sie redundant neu zu bauen. Ich habe die Datei direkt auf Dateiebene geprüft: durchgängig Avenir (Black/Heavy/Medium/Book), ausschließlich SQUIZZZzZ-Farben (FF8E00, 0B106C, 1921B1, 008A47), Dateiname exakt nach der Konvention „Chronist-Recherche TT.MM.docx". 25 Ereignisse mit Quelle, Datumsformat TT.MM.JJJJ eingehalten. Ein Journal21-Fund zum 07.08.1965 wurde mangels zweiter Quelle bewusst nicht aufgenommen statt geraten – konform zum Qualitätsstandard-Grundsatz „Nichts erfinden".
+
+Einordnung: Inhaltlich und gestalterisch tadellos, dritter positiver Re-Check in Folge (nach Befund 42/43). Der technische Nebenpunkt – zwei unterschiedlich benannte Sitzungen für denselben wöchentlichen Auftrag, eine davon vier Tage vor dem planmäßigen Samstagslauf – ist kein Skript-Mangel Konstantins, sondern deutet auf eine mögliche doppelte Auslösung (zwei geplante Aufgaben oder ein manueller Anstoß zusätzlich zum automatischen Lauf) hin. Ich kann das nicht abschließend klären, da mir keine Einsicht in die Konfiguration geplanter Aufgaben vorliegt.
+
+Vorschlag: Kein Skriptänderungsvorschlag. Empfehlung, bei Gelegenheit zu prüfen, ob für Konstantin versehentlich zwei geplante Aufgaben aktiv sind – unnötig, aber ungefährlich, da die zweite Instanz korrekt erkannt hat, dass keine erneute Arbeit nötig war.
+
+Martins Entscheidung: offen
+
+---
+
+**60 · Arthur (CH-008) · Skript-Konformität · Befund 52 (Skript-Deployment-Check) für Arthur aufgelöst, bestätigt (positiv)**
+
+Befund: Die Sitzung „Rätsel für Freitag" (seit dem Elften Prüflauf abgeschlossen) hat „Rätselfrage 31.07. – Durchblick.docx" abgelegt. Datei-verifiziert: durchgängig Avenir (Black/Heavy/Medium/Book), SQUIZZZzZ-Farben (u. a. 006C38, 0B106C, 1921B1, FF8E00) – keine Office-Standardvorlage. Das ist die erste neue Arthur-Datei seit der am 21.07.2026 freigegebenen CH-008-Ergänzung (ADR-010) und damit die im zehnten Prüflauf (Befund 52) als „nicht erneut verifizierbar" offen gelassene Verhaltensprobe.
+
+Einordnung: Die Korrektur wirkt auch bei Arthur im tatsächlich deployten Skript, analog zu Konstantin (Befund 42/43). Kein fortbestehender Mangel.
+
+Martins Entscheidung: –
+
+---
+
+**61 · Alain (CH-011) · Skript-Konformität und Output-Qualität · bestätigt (positiv, Befund 53 Nachprüfung)**
+
+Befund: In der Sitzung „Tasche für 07.08." hat Alain für Folge 09 die Saint-Laurent-„Kleine Mombasa" gefunden und als Zeile 55 (lfd. Nr. 55) in „000 Taschensammlung.xlsx" abgelegt – Spalte E enthält datei-verifiziert „smakfullt! 09 Lichtblick", exakt nach der seit 25.07.2026 gültigen Konvention „[Projektname] [interner Kurzname der Folge]". Anders als bei der vorherigen Verhaltensprobe (Befund 53, Zeile 54 noch nach alter Konvention) wirkt die Regel hier korrekt. Alain hat zudem transparent nur die Produktseite geöffnet und kein Bild selbst geladen, exakt nach der seit 21.07.2026 geltenden Fassung von CH-011. Ton und Wortwahl („Schätzchen", „mein Schatz", „Vorhang auf, Liebling") entsprechen wörtlich den in CH-011, Teil 4, dokumentierten typischen Formulierungen – kein Verstoß, wie es auf den ersten Blick wirken könnte.
+
+Einordnung: Der in Befund 53 offen gelassene Skript-Deployment-Check ist damit für Alain ebenfalls positiv beantwortet. Zeile 54 (JW Anderson, alte Konvention) bleibt unverändert, da Martin bislang keine rückwirkende Korrektur beauftragt hat (siehe Befund 66).
+
+Martins Entscheidung: –
+
+---
+
+**62 · Alva (CH-009) · Skript-Konformität · bestätigt (wiederholter Fehler, jetzt im Lernmechanismus dokumentiert)**
+
+Befund: Im Mitmachaufgabe-Sprechertext für Folge 09 („Lichtblick") hat Alva erneut „Wie immer bei Mitmachaufgaben geht's diesmal in die Gruppe, nicht an mich" geschrieben (misterQ spricht von sich selbst als Empfänger). Martin korrigierte dies in der Sitzung „Text für 07.08." zu „nicht an Martin" und merkte ausdrücklich an: „das habe ich aber schon einmal gesagt: hier im PreSQUIZZZzZ ist misterQ ungleich Martin." Ich konnte die ursprüngliche, frühere Instanz dieses Fehlers in den mir einsehbaren Sitzungen nicht auffinden – die Wiederholung selbst ist durch Martins eigene Aussage in der Sitzung belegt, die genaue erste Instanz bleibt für mich unbestätigt.
+
+Die korrigierte Fassung wurde in „Sprechertext 07.08. – Lichtblick.docx" korrekt übernommen (datei-verifiziert: „…nicht an Martin"). Alva hat den Vorfall auf Nachfrage und mit Martins Zustimmung als neue Lektion in [[Alva-Stilnotizen]] festgehalten (Eintrag 30.07.2026) – ihr eigener Lernmechanismus (CH-009, Schritt 11) hat damit funktioniert, nur eben erst nach der zweiten Wiederholung.
+
+Einordnung: Bestätigter, wenn auch geringfügiger und sofort korrigierter Fehler. Da es sich um eine Verwechslung von Fiktion (misterQ) und Person (Martin) handelt – eine feststehende Tatsache, keine stilistische Vorliebe –, ist fraglich, ob eine Session-gebundene „Lektion" in Alva-Stilnotizen der richtige Ort dafür ist, oder ob die Regel besser in CH-001-misterQ selbst verankert wäre, wo sie unabhängig von Alvas Sitzungsstart-Lektüre gilt. CH-001-misterQ enthält aktuell keinerlei Hinweis auf diese Abgrenzung.
+
+Vorschlag: Ergänzung in CH-001-misterQ, Abschnitt zu misterQs Sprache/typischen Wendungen: „Innerhalb der Pre-SQUIZZZzZ-Fiktion ist misterQ nicht gleich Martin. Wo eine Einsendeadresse genannt wird, heißt es „an Martin", nie „an mich" oder „mir"." Der bestehende Eintrag in [[Alva-Stilnotizen]] bliebe zusätzlich als Kontext-Beleg erhalten, würde aber durch die Verankerung im Character Book selbst nicht mehr allein von Alvas Sitzungsstart-Lektüre abhängen.
+
+Martins Entscheidung: offen
+
+---
+
+**63 · Friedrich (CH-004) · Skript-Konformität · bestätigt**
+
+Befund: Die in der Sitzung „Film 07 Weitblick submissions" erstellte und unter „08 - 31.07.2026 Durchblick/04 Export/08 - 31.07.2026 Jurybegründung.jpg" abgelegte Jurybegründungs-Grafik zeigt Friedrichs Illustration nicht in Graustufen, sondern sichtbar koloriert (warme Hauttöne, Farbstich im Porträt). Ich habe das durch Sichtprüfung und zusätzlich rechnerisch geprüft (Sättigungsanalyse eines Bildausschnitts im Porträtbereich: rund 9 % der geprüften Pixel mit deutlich wahrnehmbarer Sättigung, bei einer echten Graustufenabbildung wäre das nahe null). Zum Vergleich: Die als Referenz hinterlegte „CH-004-Friedrich-002-Juror.jpg" ist konsequent in Graustufen gehalten (einzige Ausnahme: die rot glühende Zigarrenspitze, offenbar bewusstes, bereits etabliertes Gestaltungselement).
+
+CH-004 legt unter „Erscheinungsbild" unmissverständlich fest: „Friedrich erscheint grundsätzlich in Graustufen... Diese Schwarz-Weiß-Darstellung ist ein unveränderlicher Bestandteil seiner Identität. Sie wird grundsätzlich nicht aufgehoben oder koloriert." Unter „KI-Hinweise": „Friedrich bleibt immer vollständig in Graustufen." Die farbige Umgebung der Grafik selbst (Sterne in Orange/Blau/Grün, cremefarbener Hintergrund) ist dagegen ausdrücklich vorgesehen und korrekt („Farbige Umgebungen stehen dabei bewusst im Kontrast zu seiner eigenen Schwarz-Weiß-Darstellung") – der Befund betrifft ausschließlich Friedrichs eigene Figur.
+
+Einordnung: Anhand der Datei selbst belegt, kein Verdachtsfall. Da Friedrichs Schwarz-Weiß-Darstellung laut CH-004 ausdrücklich unveränderlich ist ("wird grundsätzlich nicht aufgehoben"), ist dies kein Ermessensspielraum, sondern eine klare Abweichung von einer wörtlich fixierten Identitätsregel.
+
+Vorschlag: Zur Entscheidung vorgelegt, keine Skriptänderung ohne Freigabe. Da CH-004 die Regel bereits eindeutig formuliert, sehe ich keinen Formulierungsbedarf am Character Book selbst – der Mangel lag in der Ausführung. Empfehlung stattdessen für den Ausgabeformat-Abschnitt (Teil 4, „Ausgabeformat"): einen expliziten Prüfschritt ergänzen, z. B. „Vor Ablage: Friedrichs Porträt auf echte Graustufen prüfen (kein Farbstich, keine Kolorierung) – bei Nutzung eines neu generierten statt des hinterlegten Referenzporträts ist das nicht automatisch gegeben." Alternativ, falls technisch einfacher: das bestehende Referenzporträt („CH-004-Friedrich-002-Juror.jpg") als Pflichtquelle für die Komposition festschreiben, statt eine neue Illustration zu erlauben.
+
+Martins Entscheidung: offen
+
+---
+
+**64 · Friedrich (CH-004) · technisch, informativ**
+
+Befund: In derselben Sitzung wurde für die Namen „Andreas", „Tobi" und „Tom" die Schriftart Poppins Kursiv-Fett statt der im Muster vorgesehenen „Above the Sky Script" verwendet, da diese Schriftart in der Sandbox nicht verfügbar war. Dies wurde transparent benannt, mit der Option zur manuellen Nachbearbeitung durch Martin, der die Ersatzlösung im selben Gespräch akzeptiert hat („Reicht legs ab"). Kein Verstoß gegen die Freigabepflicht, da Zustimmung im selben Gespräch vorlag.
+
+Einordnung: Analog zu bereits dokumentierten Sandbox-Grenzen (fehlende Avenir-Vorschau, blockierte Bild-Domains) – eine wiederkehrende Kategorie technischer Einschränkung bei der originalgetreuen Umsetzung des SQUIZZZzZ-Designs außerhalb von Obsidian. Nur zur Vollständigkeit vermerkt, kein Skriptänderungsbedarf.
+
+Martins Entscheidung: –
+
+---
+
+**65 · Alain (CH-011) · informativ, außerhalb meines Prüfbereichs**
+
+Befund: In der Sitzung „Hallo Matilde" wollte Martin Alain von 🟡 Entwicklung auf 🟢 Aktiv setzen lassen. Matilde stellte dabei fest, dass CH-011 – anders als jede andere aktive Company-KI – kein Insights-Discovery-Persönlichkeitsprofil in Teil 4 enthält, und schlug 40 % Gelb · 35 % Blau · 15 % Rot · 10 % Grün vor; Martin stimmte der Verteilung zu. Die Sitzung endet jedoch offen bei einer Rückfrage Matildes, ob sie zusätzlich systematisch prüfen soll, ob das Insights-Discovery-Profil bei allen bestehenden Company-KIs vollständig in deren Systemprompt-Abschnitt „Communication" übersetzt ist – eine Frage, die sie nach eigener Aussage „gerade nicht systematisch geprüft" hat. CH-011 selbst zeigt zum Zeitpunkt dieses Laufs weiterhin kein Insights-Discovery-Profil, und CH-000 führt Alain unverändert als 🟡 Entwicklung – die Aktivierung ist offenbar noch nicht abgeschlossen.
+
+Einordnung: Da Alain formal noch nicht aktiviert ist, liegt dies laut meinem eigenen Character Book noch nicht in meiner Zuständigkeit, sondern bei Matilde (Onboarding). Ich vermerke es rein informativ, auch weil Alain in laufenden Sitzungen ("Tasche für 07.08.", siehe Befund 61) bereits durchgehend produktiv arbeitet, obwohl die Aktivierung formal aussteht – derselbe bereits mehrfach dokumentierte Status-Vorlauf wie in Befund 14/15/35.
+
+Martins Entscheidung: –
+
+---
+
+**66 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 29 (Konstantin, nachträgliche Neuformatierung der drei ältesten Rechercheergebnisse) weiterhin ohne Rückmeldung. Befund 30/Achter Prüflauf (Arthur, nachträgliche Neuformatierung der beiden ältesten Dateien) weiterhin ohne Rückmeldung. Befund 39 (Alva/CH-009, fehlender ADR-010-Verweis in der Wissensanbindung) weiterhin offen – CH-009 zeigt unverändert keinen Verweis auf DES-001-Farbwelt/DES-002-Typografie, obwohl sich die praktische Auswirkung weiterhin nicht zeigt (Sprechertexte bleiben datei-verifiziert korrekt gestaltet). Befund 53 (Alain, rückwirkende Korrektur von Zeile 54 „smakfullt! Folge 07" auf die neue Konvention) weiterhin offen, unverändert. Nur zur Erinnerung vermerkt, kein neuer Handlungsbedarf meinerseits.
+
+Martins Entscheidung: –
+
+---
+
+**67 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt keine offenen Änderungen an Vault-Notizen mehr (die zuvor in Befund 45/57 vermerkten Markdown-Dateien sind inzwischen committet) – lediglich vier neue Grafikdateien (u. a. „CH-004-Friedrich-002-Jurybegründung.pdf", drei misterQ/Lissi-Referenzbilder) sind unversioniert. Das betrifft keine Character Books oder Prüfnotizen und ist daher nur informativ vermerkt.
+
+Mit diesem Lauf ändere ich zusätzlich „Prüfprotokoll Ingrid.md" (dieser Eintrag) und „Alva-Stilnotizen.md" wurde bereits während der Sitzung „Text für 07.08." direkt geändert (siehe Befund 62) – beides bitte nach GitHub pushen.
+
+Martins Entscheidung: –
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen
