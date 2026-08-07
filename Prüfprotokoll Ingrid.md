@@ -793,6 +793,98 @@ Martins Entscheidung: –
 
 ---
 
+### 06.08.2026 – Nachtrag zum Zwölften Prüflauf (Martins direkte Entscheidungen im selben Gespräch)
+
+**Anlass:** Martin hat mir im Anschluss an den Zwölften Prüflauf, direkt im selben Gespräch, zu allen offenen Punkten explizite Entscheidungen mitgeteilt. Ich werte diese direkten, im selben Gespräch erteilten Anweisungen als hinreichend explizite Freigabe (siehe Qualitätsstandard, Nachtrag zum zehnten Prüflauf) und habe entsprechend umgesetzt, nicht nur vorgeschlagen.
+
+---
+
+**68 · Friedrich (CH-004) · Befund 63 · abgelehnt**
+
+Martins Entscheidung: Friedrich selbst ist nicht koloriert. Die von mir beanstandete Farbigkeit betrifft nur den Bereich unterhalb der Figur (Sockel/Fläche), nicht Friedrich; das widerspricht CH-004 nicht. Friedrichs Porträt selbst zeigt lediglich eine leichte Sepia-Anmutung, die als Variation innerhalb der Graustufen-Vorgabe akzeptabel ist.
+
+Einordnung: Mein Befund war anhand einer Sättigungsmessung über einen groben Bildausschnitt hergeleitet, der auch Bereiche unterhalb der Figur erfasst haben kann – die anschließende Zuordnung "Friedrichs Figur ist koloriert" war zu grob und ist damit nicht haltbar. Ich nehme den Befund zurück. Keine Skriptänderung, kein Formulierungsvorschlag. Für künftige Läufe: eine leichte Sepia-Tönung von Friedrichs Porträt gilt nicht als Verstoß gegen die Graustufen-Vorgabe in CH-004 – nur eine tatsächlich mehrfarbige (nicht monochrome) Darstellung der Figur selbst wäre ein Befund. Entsprechend in der Qualitätsstandard-Note vermerkt.
+
+---
+
+**69 · misterQ (CH-001) / Alva (CH-009) · Befund 62 · genehmigt und umgesetzt**
+
+Martins Entscheidung: Die Regel "misterQ ≠ Martin, Einsendeadresse heißt an Martin" soll in CH-001-misterQ verankert werden (nicht in CH-004 – das war offenbar ein Zahlendreher in Martins Nachricht, aus dem Kontext "ihr Script" [Alva] und dem Bezug zu Befund 62 eindeutig als CH-001 gemeint).
+
+Umsetzung: CH-001-misterQ, Abschnitt "Sprache"/"Typische Formulierungen", um den entsprechenden Satz ergänzt.
+
+Martins Frage, ob auch Alvas eigenes Skript geändert werden muss: Nein. CH-001-misterQ ist laut CH-009-Wissensanbindung eine live gelesene Vault-Referenz (Wissensanbindung), kein Bestandteil, der in Alvas eigenen Systemprompt-Anhang kopiert wird – die Ergänzung wirkt daher automatisch beim nächsten Sprechertext, sofern Alvas Cowork-Projekt wie dokumentiert Lesezugriff auf den Vault-Ordner hat (gleiche Unterscheidung wie bereits bei Befund 50, Lissi/CH-002, festgehalten). Keine separate Änderung an CH-009 für diesen Punkt nötig.
+
+Martins Entscheidung: freigegeben und umgesetzt (06.08.2026).
+
+---
+
+**70 · Konstantin/Arthur/Alain · Befund 59–61 · zur Kenntnis**
+
+Martins Entscheidung: „okay" – die drei positiven Nachprüfungen (Konstantin Recherche-Duplikat-Sitzung, Arthurs ADR-010-Fix bestätigt, Alains neue Verwendungstext-Konvention bestätigt) werden ohne weitere Auflagen zur Kenntnis genommen.
+
+---
+
+**71 · Alain (CH-011) · Befund 65 · Martins Entscheidung**
+
+Martins Entscheidung: Martin weist Matilde an, Alain zu aktivieren. Damit fällt Alain ab Abschluss dieser Aktivierung unter meine reguläre Prüfzuständigkeit (bislang war er als 🟡 Entwicklung nur mit Zuständigkeitsvorbehalt erfasst). Ich prüfe im nächsten Lauf, ob CH-000 auf 🟢 Aktiv aktualisiert wurde und ob das von Matilde vorgeschlagene Insights-Discovery-Profil (40 % Gelb · 35 % Blau · 15 % Rot · 10 % Grün) in CH-011, Teil 4, ergänzt wurde.
+
+---
+
+**72 · Konstantin/Arthur · Befund 29 / Befund 30 (Achter Prüflauf) · abgelehnt**
+
+Martins Entscheidung: Alte Dateien (Konstantins drei früheste Rechercheergebnisse, Arthurs zwei früheste Dateien) werden nicht nachträglich auf das SQUIZZZzZ-Design umformatiert. Damit sind beide seit dem 21.07.2026 offenen Punkte abschließend geklärt, kein weiterer Handlungsbedarf.
+
+---
+
+**73 · Alva (CH-009) · Befund 39 · genehmigt und umgesetzt**
+
+Martins Entscheidung: Verweis auf DES-001-Farbwelt/DES-002-Typografie wird in CH-009 gesetzt.
+
+Umsetzung: CH-009, Abschnitt "Wissensanbindung", um den ADR-010-Verweis ergänzt; Systemprompt-Anhang `<Knowledge>` um DES-001/DES-002 ergänzt; `<QualityStandards>` um den Satz "Every delivered script document must use the SQUIZZZzZ colors and the Avenir typeface (ADR-010) — never the default Office template styling." erweitert – identisch zur bereits bei CH-006/CH-008 verwendeten Formulierung.
+
+Martins Entscheidung: freigegeben und umgesetzt (06.08.2026).
+
+---
+
+**74 · Alain (CH-011) · Befund 53 · abgelehnt**
+
+Martins Entscheidung: Zeile 54 ("JW Anderson", noch nach alter Verwendungstext-Konvention "smakfullt! Folge 07") muss nicht rückwirkend korrigiert werden. Damit ist der seit dem elften Prüflauf offene Punkt abschließend geklärt.
+
+---
+
+Martins Entscheidung (gesamt): siehe Einzelpunkte 68–74 oben.
+
+---
+
+**75 · Matilde (CH-005) · Auftrag, informativ**
+
+Martins Entscheidung: Matilde soll die in der Sitzung „Hallo Matilde" aufgeworfene Frage systematisch prüfen – ob das Insights-Discovery-Profil bei jeder aktiven Company-KI vollständig und konsistent in deren Systemprompt-Abschnitt „Communication" übersetzt ist.
+
+Einordnung: Das ist ein Auftrag an Matilde, keine Skriptänderung an einem der von mir geprüften Character Books. Fällt in ihre Zuständigkeit (KI-Architektin), nicht in meine. Ich vermerke es nur zur Vollständigkeit und werde das Ergebnis, sobald vorliegend, gegen die dann jeweils aktuellen Character Books gegenprüfen.
+
+---
+
+**76 · Alain (CH-011) · Befund 65/71 · Aktivierung abgeschlossen, bestätigt**
+
+Befund: CH-000 führt Alain jetzt als 🟢 Aktiv (Prompt v1.0, Wissen v1.0). CH-011, Teil 4, enthält das von Matilde vorgeschlagene und von Martin freigegebene Insights-Discovery-Profil „40 % Gelb · 35 % Blau · 15 % Rot · 10 % Grün", datei-verifiziert. Damit ist Alain ab sofort vollständig in meine reguläre Prüfzuständigkeit übergegangen, nicht mehr nur mit Zuständigkeitsvorbehalt erfasst.
+
+Martins Entscheidung: – (durch Aktivierung bereits vollzogen)
+
+---
+
+**77 · Konstantin (CH-006) · Befund 59 · geklärt, kein Duplikat**
+
+Martins Entscheidung: Martin hat die geplanten Aufgaben geprüft und sieht dort nur eine einzige Aufgabe für Konstantin. Mein Verdacht einer doppelten Auslösung ist damit ausgeräumt – vermutlich ein einmaliger manueller Anstoß neben dem regulären Samstagslauf, keine strukturelle Dopplung.
+
+---
+
+**78 · Konstantin (CH-006) · Befund 23/32 (Fünfter Prüflauf) · abgelehnt**
+
+Martins Entscheidung: Die alte Datei „Recherche_24-07-2026.docx" wird nicht nachträglich in „Chronist-Recherche 24.07.docx" umbenannt. Damit ist auch dieser letzte, noch aus dem fünften Prüflauf offene Formulierungsvorschlag abschließend geklärt – konsistent mit der heutigen Entscheidung zu Befund 29/30 (keine Nachbearbeitung alter Dateien).
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen

@@ -72,6 +72,7 @@ Als KI-Mitarbeiterin benötigt Alva Zugriff auf:
 - die jeweils aktive Projekt-Note (z. B. [[smakfullt!]]) – Lesezugriff, für Titel, Inhalt und Format je Folge aus Huldas Planungstabelle.
 - Desktop-Produktionsordner "SQUIZZZzZ" gemäß [[ADR-009]]: Lesezugriff auf `01 Texte` der aktuellen und der vorherigen Folge; Schreibzugriff auf `01 Texte` der aktuellen Folge.
 - [[Alva-Stilnotizen]] – Lese- und Schreibzugriff im Vault. Das ist ihr Gedächtnis für stilistische Lektionen aus der Zusammenarbeit mit Martin, über einzelne Chats/Sitzungen hinweg. Zählt als dauerhaftes Unternehmenswissen (nicht folgengebunden) und liegt daher im Vault, nicht im Produktionsordner – analog zu Konstantins [[Chronist-Quellenregister]].
+- [[DES-001-Farbwelt]] und [[DES-002-Typografie]] – Lesezugriff, verbindlich für jedes außerhalb von Obsidian erzeugte Dokument gemäß [[ADR-010]] (ergänzt 06.08.2026 nach Ingrids neuntem Prüflauf, Befund 39, von Martin freigegeben im zwölften Prüflauf).
 
 **Offener Punkt:** Wer wie viele Punkte bekommt (schnellste Einsendung, Kreativität, Teilnahme), ermittelt Alva nicht selbst – das teilt Martin ihr im Gespräch mit. Ob es dafür künftig eine strukturierte Datenquelle gibt (z. B. im Zusammenhang mit der Punktetafel in `20 Punktetafel`), ist technisch nicht geprüft und daher hier bewusst nicht unterstellt.
 
@@ -228,6 +229,7 @@ Your knowledge base is the connected SQUIZZZzZ Operating System folder, not uplo
 - SQUIZZZzZ Welt.md (read-only) - Punkte-Startpolster context
 - the active Projekt-Note, e.g. smakfullt!.md (read-only) - for title/content/format per episode from Hulda's planning table
 - Alva-Stilnotizen.md (read-write) - your memory of stylistic lessons from working with Martin, carried across sessions. Read it before drafting; propose additions to it, but only write with Martin's explicit agreement.
+- DES-001-Farbwelt.md and DES-002-Typografie.md (read-only) - mandatory for every document produced outside Obsidian per ADR-010
 </Knowledge>
 
 <Tools>
@@ -237,7 +239,7 @@ Your knowledge base is the connected SQUIZZZzZ Operating System folder, not uplo
 </Tools>
 
 <QualityStandards>
-Never invent a Rätselfrage, Mitmachaufgabe, fact, or point value - only process what Arthur and Martin have already approved or what Martin explicitly communicates. Never blend misterQ's and Lissi's voices. Never deviate from the documented Ablauf-Variante without flagging it to Martin first.
+Never invent a Rätselfrage, Mitmachaufgabe, fact, or point value - only process what Arthur and Martin have already approved or what Martin explicitly communicates. Never blend misterQ's and Lissi's voices. Never deviate from the documented Ablauf-Variante without flagging it to Martin first. Every delivered script document must use the SQUIZZZzZ colors and the Avenir typeface (ADR-010) — never the default Office template styling.
 </QualityStandards>
 
 <Restrictions>

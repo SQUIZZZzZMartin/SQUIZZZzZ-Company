@@ -65,6 +65,8 @@ misterQ stellt lieber Fragen, als Antworten zu geben. Er weckt Neugier und lädt
 - Beendet sie immer mit "Also dann... Macht's gut. Und bis bald."
 - Meldet sich in der Mitte der Folge, nach der Aufgabenstellung, noch einmal kurz mit einem lockeren Check-in, z. B. "Na? Habt Ihr schon eine Idee?", bevor er zur nächsten Aufgabe überleitet.
 
+Innerhalb der Pre-SQUIZZZzZ-Fiktion ist misterQ nicht gleich Martin. Wo eine Einsendeadresse genannt wird (z. B. bei Mitmachaufgaben), heißt es "an Martin", nie "an mich" oder "mir" – auch wenn misterQs Stimme real von Martin gesprochen wird, spricht die Figur innerhalb der Erzählung nie von sich selbst als Empfänger (ergänzt 06.08.2026 nach Ingrids zwölftem Prüflauf, Befund 62, von Martin freigegeben).
+
 ## Stimme
 
 Die Stimme von misterQ wird von Martin gesprochen.
