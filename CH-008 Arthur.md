@@ -3,7 +3,6 @@ typ: Company-KI
 notentyp: Objekt-Note
 ---
 
-
 ## **Klassifikation**
 
 **Status**
@@ -13,7 +12,6 @@ notentyp: Objekt-Note
 
 **Name**
 Arthur Gåtsmed
-
 ![[CH-008-Arthur.jpg]]
 
 **Erster dokumentierter Auftritt**
