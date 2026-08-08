@@ -14,16 +14,16 @@ Konstantin erweitert sein Quellenspektrum laufend eigenständig. Diese Note ist 
 
 | Quelle | Schwerpunkt | Status | Zuletzt genutzt/geprüft | Hinweis |
 |---|---|:---:|---|---|
-| Journal21 ("Heute vor …") | ungewöhnliche historische Ereignisse | 🟢 aktiv | 18.07.2026 | Direktabruf der Seite lieferte keinen Inhalt (vermutlich JS-Rendering); Inhalte kamen über Suchindex-Zusammenfassung |
+| Journal21 ("Damals am …") | ungewöhnliche historische Ereignisse | 🟢 aktiv | 08.08.2026 | Direktabruf funktioniert jetzt zuverlässig (am 08.08. erfolgreich getestet, inkl. Bild-URLs in den Ergebnissen) – sehr ergiebig für Geburts-/Todestage |
 | Wikipedia ("On this day") | hohe Vollständigkeit | 🟢 aktiv | 18.07.2026 | Direktzugriff auf en/de.wikipedia.org in unbeaufsichtigten Läufen technisch blockiert (Netzwerk-Allowlist); Inhalte kamen über Suchindex-Zusammenfassung |
-| Britannica | internationale Einordnung, Hintergrund | 🟢 aktiv | 18.07.2026 | Zuverlässigster Direktzugriff, inkl. Bild-URLs |
-| History.com | kulturgeschichtlich, amerikanisch | 🟢 aktiv | 18.07.2026 | Zuverlässiger Direktzugriff |
+| Britannica | internationale Einordnung, Hintergrund | 🟢 aktiv | 08.08.2026 | Zuverlässigster Direktzugriff, inkl. Bild-URLs |
+| History.com | kulturgeschichtlich, amerikanisch | 🟢 aktiv | 08.08.2026 | Zuverlässiger Direktzugriff |
 | National Geographic History | Archäologie, Wissenschaft, Expeditionen | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue "On this day"-Rubrik auffindbar; für 24.07. keine eigenen Treffer |
 | Smithsonian Magazine | Erfindungen, Kultur, Geschichte | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue "On this day"-Rubrik auffindbar; für 24.07. keine eigenen Treffer |
 | BBC History Magazine | Europa, Weltgeschichte | 🟢 aktiv | 18.07.2026 | Für 24.07. keine eigenen Treffer gefunden |
 | Deutsche Welle Geschichte | deutsche Perspektive | 🟢 aktiv | 18.07.2026 | Keine tagesgenaue Rubrik auffindbar; für 24.07. keine eigenen Treffer |
-| Bundeszentrale für politische Bildung | politische Ereignisse | 🟢 aktiv | 18.07.2026 | Direktabruf funktioniert gut (Deutschland-Chronik) |
-| Guinness World Records | kuriose Rekorde | 🟢 aktiv | 18.07.2026 | Für 24.07. kein historischer Rekordeintrag gefunden |
+| Bundeszentrale für politische Bildung | politische Ereignisse | 🟢 aktiv | 08.08.2026 | Direktabruf funktioniert gut (Deutschland-Chronik) |
+| Guinness World Records | kuriose Rekorde | 🟢 aktiv | 18.07.2026 | Für 24.07. kein historischer Rekordeintrag gefunden; auch für 14.08. keine tagesgenauen Treffer |
 
 ## Status
 
@@ -37,6 +37,7 @@ Konstantin erweitert sein Quellenspektrum laufend eigenständig. Diese Note ist 
 | Datum | Hinweis |
 |---|---|
 | 25.07.2026 | Fotodownload von Quellseiten (z. B. Britannica-CDN) in unbeaufsichtigten Läufen technisch nicht möglich: Shell-Sandbox blockiert externe Bild-Domains per Netzwerk-Allowlist, und das web_fetch-Werkzeug akzeptiert nur zuvor als Text/HTML gesehene URLs, keine Bild-Binärdaten. Recherche-Dokumente enthalten daher vorerst nur Quellenlinks statt eingebetteter Fotos, bis eine Lösung gefunden ist. |
+| 08.08.2026 | Erneut geprüft (Recherche 14.08.): Bildabruf weiterhin blockiert – auch Bild-URLs, die zuvor auf einer per web_fetch geladenen Seite (z. B. Journal21) erschienen sind, werden vom Werkzeug als „nicht im Provenance-Set“ abgelehnt. Journal21 selbst liefert inzwischen aber wieder vollständigen Text- und Bildlink-Inhalt per Direktabruf (siehe Eintrag oben zu 18.07. – JS-Rendering-Problem scheint behoben). |
 
 ## Verknüpfungen
 
