@@ -58,6 +58,12 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 
 ---
 
+## Cross-Vault-Ausnahme
+
+Jonas Privé (CH-007, Heimat-Vault: Privé) ist eine bewusste, dokumentierte Ausnahme: Er berät als Technikberater sowohl die Privé-Familie als auch SQUIZZZzZ – zu Software, Hardware und Alltagstechnik. Sein vollständiges Character Book liegt in der Privé-Vault, nicht hier; er erhält daher keine eigene SQUIZZZzZ-CH-Nummer. Dieser Eintrag dient ausschließlich der Transparenz, u. a. für Ingrids Qualitätsprüfung, falls SQUIZZZzZ-seitige Sitzungen von ihm auftauchen. Details, Wissensanbindung und Begründung der Ausnahme: siehe Privé-Vault, [[CH-007 Jonas Privé]] sowie [[Privé Codex]], Abschnitt „Abgrenzung zu SQUIZZZzZ" (beide außerhalb dieser Vault, nicht verlinkbar).
+
+Die Erweiterung, die es den acht aktiven SQUIZZZzZ-Company-KIs erlauben würde, technische Erkenntnisse direkt an Jonas' Schmierzettel zu melden, ist noch nicht umgesetzt – sie erfordert Änderungen an bereits aktiven Character Books und läuft daher über Ingrids Freigabeprozess, nicht über Matilde direkt.
+
 ## Hinweise
 
 - Diese Note dient ausschließlich als Register.
