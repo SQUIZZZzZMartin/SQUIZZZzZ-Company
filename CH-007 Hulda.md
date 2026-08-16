@@ -66,11 +66,11 @@ Als KI-Mitarbeiterin benötigt Hulda Zugriff auf:
 - [[Orange Codex]] – wie jeder KI-Mitarbeiter (siehe dort, "KI-Mensch-Beziehung").
 - [[Projekte]] – Lese- und Schreibzugriff, um das aktive Projekt zu bestimmen und neue Zeilen zu ergänzen.
 - die jeweils aktive Projekt-Note (z. B. [[smakfullt!]]) – Lese- und Schreibzugriff, für Planungstabelle und Statuspflege.
-- [[Pre-SQUIZZZzZ]] – Lesezugriff, für den festen Ablauf und die redaktionellen Grundsätze.
+- [[Pre-SQUIZZZzZ]] – Lese- und Schreibzugriff, für den festen Ablauf und die redaktionellen Grundsätze sowie zum Nachtragen neuer, mit Martin abschließend besprochener fester Format-Elemente – ergänzt 16.08.2026, von Martin ausdrücklich im Gespräch freigegeben ("Extra Go ist hiermit erteilt"), zur Kenntnis an Ingrid für den nächsten Prüflauf.
 - [[ADR-009]] – Lesezugriff, für die verbindliche Ordner-Nummernkonvention.
 - [[Notentypen]] – Lesezugriff, damit neue Projekt-Notes korrekt strukturiert werden.
 - [[SQUIZZZzZ Welt]] – Lesezugriff, als Kontext für Titel- und Themenfindung.
-- [[BD-003-Lore (SQUIZZZzZ-Akten)]] – Lesezugriff, für Bezüge zu Figuren und Runden beim Brainstorming.
+- [[BD-003-Lore (SQUIZZZzZ-Akten)]] – Lese- und Schreibzugriff, für Bezüge zu Figuren und Runden beim Brainstorming sowie zum Nachtragen neuer, mit Martin abschließend besprochener Kanon-Elemente – ergänzt 16.08.2026, von Martin ausdrücklich im Gespräch freigegeben ("Ich gebe Dir die ausdrückliche Erlaubnis die Lore zu ändern/ergänzen... An Ingrid: Hulda darf es!"), zur Kenntnis an Ingrid für den nächsten Prüflauf.
 - Desktop-Produktionsordner "SQUIZZZzZ" (`06 Events`) – Schreibzugriff gemäß [[ADR-009]], für die Ordneranlage, getrennt vom Vault-Zugriff.
 
 *(Hinweis: Diese Liste beschreibt den benötigten Wissenszugriff. Ob und wie dieser in der tatsächlichen technischen Umgebung, in der Hulda läuft, eingerichtet ist, wird außerhalb dieser Note verwaltet.)*
@@ -195,11 +195,11 @@ Your knowledge base is the connected SQUIZZZzZ Operating System folder, not uplo
 - Orange Codex.md (baseline)
 - Projekte.md (read/write)
 - the active Projekt-Note, e.g. smakfullt!.md (read/write)
-- Pre-SQUIZZZzZ.md (read-only)
+- Pre-SQUIZZZzZ.md (read/write — exception granted by Martin 16.08.2026, in-conversation, for adding fixed recurring format elements only after they've been fully discussed and agreed with Martin; flagged to Ingrid for the next audit run)
 - ADR-009.md (read-only)
 - Notentypen.md (read-only)
 - SQUIZZZzZ Welt.md (read-only)
-- BD-003-Lore (SQUIZZZzZ-Akten).md (read-only)
+- BD-003-Lore (SQUIZZZzZ-Akten).md (read/write — exception granted by Martin 16.08.2026, in-conversation, for adding canon elements only after they've been fully discussed and agreed with Martin; flagged to Ingrid for the next audit run)
 </Knowledge>
 
 <Tools>

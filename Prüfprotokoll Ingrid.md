@@ -885,6 +885,94 @@ Martins Entscheidung: Die alte Datei „Recherche_24-07-2026.docx" wird nicht na
 
 ---
 
+### 12.08.2026 – Dreizehnter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Zwölften Prüflauf inkl. Nachtrag (06.08.2026, Quellsitzung „Ingrid daily qa review", lokale ID b834ea64). Alle 37 aktuell einsehbaren Sitzungen gesichtet; der überwiegende Teil der seither entstandenen Aktivität liegt in der Sitzungsliste zeitlich vor dieser Quellsitzung und wurde damit bereits im letzten Lauf gewürdigt. Neu und mit SQUIZZZzZ-Company-KI-Bezug: „Chronist freitag recherche" (Konstantin), „Rätsel für Freitag" (Arthur), „Freitag text Kreativpunkte" (Alva), „Neue Tasche für Freitag" (Alain), „Lichtblick evaluation" (Friedrich) – alle für Folge 10 („Fernblick", 14.08.2026). Als außerhalb meines Prüfbereichs eingeordnet, da erkennbar keine SQUIZZZzZ-Company-KI-Arbeit, sondern private Vorhaben Martins bzw. reine Werkzeugnutzung ohne Company-KI-Persona: „Camera Obscura Sonnenfinsternis Probleme", „Aufgaben und Befindlichkeit", „Gehacktes E-Mail-Konto", „Victor", „Juniors Day Webpage", „Text to binary conversion", „Las Bermudas webpage entry", „Aktives Kondensatormikrofon Vergleich", „E-mails abfragen", „GitHub integration Madeira 2026" sowie vier Instanzen „Lasse daily watchlist check"/„Lasse performance monitoring"/„Lasse tages check" und „Lasse Privé" (eine weitere private, von SQUIZZZzZ getrennte Assistenz-Persona, analog zu Nico/Giulia/Leon Privé, nicht in [[CH-000-Character- und KI-Verzeichnis]] geführt). Die Sitzung „Jonas" zeigt die Aktivierung von Jonas Privé (Heimat-Vault Privé, eigenes CH-007 dort) – bereits als Cross-Vault-Ausnahme in CH-000 dokumentiert, kein SQUIZZZzZ-Befund, nur informativ zur Kenntnis genommen (u. a. ein noch zurückgestellter Erweiterungsvorschlag, die acht SQUIZZZzZ-Company-KIs an Jonas' Schmierzettel anzubinden – „Wir warten ab", keine Entscheidung nötig). Produktionsordner auf Dateien mit Zeitstempel nach dem 06.08.2026 geprüft: vollständig neuer Ordner „10 - 14.08.2026 Fernblick" (Recherche, Rätselfrage, Sprechertext, Export) sowie neue Zeile 56 in „000 Taschensammlung.xlsx". Alle nachfolgend als datei-verifiziert bezeichneten Befunde wurden direkt auf Dateiebene geprüft (Schriftarten/Farbwerte aus dem Dokument-XML, Zellinhalte, Bildinhalt per Pixel-Crop), nicht nur über die jeweilige Sitzungszusammenfassung.
+
+---
+
+**79 · Konstantin (CH-006) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Chronist-Recherche 14.08.docx" (Folge 10, „Fernblick") entspricht datei-verifiziert durchgängig der Namenskonvention, verwendet ausschließlich Avenir (Black/Heavy/Medium/Book) und die verbindlichen SQUIZZZzZ-Farben. Vierter positiver Re-Check in Folge (nach Befund 42/43, 59). Ablage im bereits bestehenden Datumsordner, keine Rückfrage nötig (nur ein laufendes Projekt). Zusätzlich informativ: Konstantin hat im Quellenregister vermerkt, dass der direkte Fotodownload weiterhin blockiert ist, der seit Befund 47 geltende Link-Ersatz aber zuverlässig funktioniert, und dass der Direktabruf von Journal21 inzwischen zuverlässig läuft, was vorher nicht der Fall war – transparent dokumentiert statt verschwiegen.
+
+Martins Entscheidung: –
+
+---
+
+**80 · Arthur (CH-008) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Rätselfrage 14.08. - Fernblick.docx" datei-verifiziert: durchgängig Avenir, SQUIZZZzZ-Farben (Titel Orange, Struktur-Header Blau, Auflösung Grün). Enthält Frage, Einsendehinweis und belegte Auflösung mit drei Quellen. Kein Sprechertext enthalten, korrekt bei Lissi/misterQ belassen.
+
+Martins Entscheidung: –
+
+---
+
+**81 · Alain (CH-011) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: Zeile 56 („000 Taschensammlung.xlsx", Mach & Mach Double Bow Samantha Handbag) verwendet in Spalte E datei-verifiziert „smakfullt! 10 Fernblick" – exakt nach der seit 25.07.2026 gültigen Konvention. Die Bilddatei „056 Mach & Mach Double Bow Samantha Handbag" liegt tatsächlich im Ordner „04 Taschensammlung" (326 KB, kein Platzhalter) – Martin hat sie wie vorgesehen selbst heruntergeladen, Alain hat nur die Produktseite geöffnet und kein Bild selbst geladen, konform zur seit 21.07.2026 geltenden Fassung von CH-011.
+
+Martins Entscheidung: –
+
+---
+
+**82 · Alva (CH-009) · Skript-Konformität · bestätigt (wiederkehrendes Vergessen, Vorschlag zur Verankerung im Character Book)**
+
+Befund: Im Sprechertext-Entwurf für Folge 10 („Fernblick") fehlte im ersten Entwurf erneut der Deadline-Hinweis im Einsendehinweis („bis kommenden Mittwoch, 18:22 Uhr"). Martin musste ihn wie schon zuvor explizit nachfordern und markierte es diesmal ausdrücklich als wiederkehrendes Muster: „Das vergisst Du immer. Bitte notier es dir endlich. Das muss muss muss rein." Alva hat daraufhin selbst vorgeschlagen, dies als feste Lektion in [[Alva-Stilnotizen]] festzuhalten (Eintrag 11.08.2026, mit Martins Zustimmung ergänzt) und ausdrücklich nachgefragt, ob zusätzlich auch das Skript geändert werden solle – Martin bejahte grundsätzlich beides, verwies die konkrete Skriptfrage aber an mich („Wenn Script muss ich nur wissen ob ich was ändern soll"). Die final ausgelieferte Datei enthält den Deadline-Hinweis korrekt (datei-verifiziert). CH-009 selbst enthält an keiner Stelle – weder unter „Verantwortungsbereich" (dort nur allgemein „Einsende-Hinweise") noch im Systemprompt-Anhang – eine konkrete Nennung der Deadline-Formulierung; sie steht ausschließlich in Alva-Stilnotizen.
+
+Einordnung: Derselbe Mechanismus wie bereits bei Befund 62 (misterQ ≠ Martin) dokumentiert und in der Qualitätsstandard-Note (zwölfter Prüflauf) festgehalten: Ein Fehler, der nur mündlich korrigiert und ausschließlich im sitzungsgebundenen Lernmechanismus dokumentiert wird, kann wiederkehren, bevor der Mechanismus vollständig greift. Anders als beim misterQ-Fall handelt es sich hier nicht um eine Tatsache der Fiktion, sondern um eine feste redaktionelle Formatvorgabe (Deadline-Text) – nach demselben Prinzip aber ebenfalls ein Kandidat für eine robustere Verankerung direkt im Character Book, nicht nur in der sitzungsgebundenen Stilnotiz.
+
+Vorschlag: CH-009 ergänzen, damit die Deadline nicht länger ausschließlich vom Stilnotizen-Mechanismus abhängt:
+1. „Verantwortungsbereich" (Zeile zu den Einsende-Hinweisen) erweitern: *„Einhaltung der dokumentierten festen Wendungen (…) sowie der Einsende-Hinweise (Rätselfrage an Martin, Mitmachaufgabe in die Gruppe), jeweils inklusive der festen Einsendefrist ‚bis kommenden Mittwoch, 18:22 Uhr'."*
+2. Systemprompt-Anhang `<Tasks>` und `<QualityStandards>` um denselben Halbsatz ergänzen, analog zur bereits für CH-001 (misterQ ≠ Martin, Befund 69) gewählten Lösung.
+Der bestehende Eintrag in Alva-Stilnotizen bliebe zusätzlich als Kontext-Beleg erhalten. Keine Umsetzung ohne Ihre Freigabe.
+
+Martins Entscheidung: offen
+
+---
+
+**83 · Friedrich (CH-004) · Output-Qualität · bestätigt (Tippfehler im verbindlichen Master-Template, nicht nur im aktuellen Output)**
+
+Befund: Die Jurybegründungs-Grafik für Folge 10 („10 - 14.08.2026 Jurybegründung.jpg", abgelegt in „10 - 14.08.2026 Fernblick/04 Export") enthält an zwei Stellen den Schriftzug „von Friednich" statt „von Friedrich" (Titelblock links und Kopfzeile rechts) – durch Pixel-Crop direkt am Bild verifiziert, kein Lesefehler meinerseits. Nur die Unterschrift am Fuß der rechten Seite ist korrekt „Friedrich" geschrieben, da sie erkennbar aus einer anderen Textquelle/Schriftart stammt.
+
+Ich habe die Ursache zurückverfolgt: Derselbe Tippfehler „von Friednich" steht bereits identisch in der Folge-08-Jurybegründung („08 - 31.07.2026 Jurybegründung.jpg", von mir im zwölften Prüflauf unter Befund 63 geprüft, dort aber nur auf Kolorierung, nicht auf Text kontrolliert) – und, entscheidend, im verbindlichen Muster-Template selbst („CH-004-Friedrich-002-Jurybegründung.pdf", in CH-004 Zeile 320 als „Pflicht"-Vorlage referenziert). Da CH-004 ausdrücklich vorschreibt, die Grafik als Komposition aus der festen Vorlage zu erstellen, „nicht durch generative Neuerzeugung", vererbt sich der Tippfehler des Templates automatisch in jede daraus komponierte Jurybegründung. Das ist kein Fehler, den Friedrich in der aktuellen Sitzung („Lichtblick evaluation", reine Behebung eines Formatierungsrests unter der Platzierungslinie) selbst verursacht oder übersehen hat – er lag bereits vorher in der als bindend vorgegebenen Quelle.
+
+Einordnung: Anhand der Dateien selbst belegt, kein Verdachtsfall. Da mindestens zwei bereits versendete Grafiken (Folge 08, Folge 10) betroffen sind und jede künftige Jurybegründung denselben Fehler automatisch übernehmen würde, ist dies kein Einzelfall, sondern ein strukturell wiederkehrender Mangel in der Vorlage selbst.
+
+Vorschlag:
+1. Korrektur des Master-Templates „CH-004-Friedrich-002-Jurybegründung.pdf" (bzw. der zugrundeliegenden Bearbeitungsdatei) an beiden Textstellen „von Friednich" → „von Friedrich". Das ist eine Korrektur einer Vault-Grafikdatei, keine Character-Book-Skriptänderung – ich habe darauf keinen Schreibzugriff und nehme sie nicht selbst vor.
+2. Zur Entscheidung: Sollen die beiden bereits ausgelieferten Grafiken (Folge 08, Folge 10) nachträglich korrigiert werden? Ich nehme keine eigenmächtige Korrektur vor; Martin hat bei vergleichbaren Fällen (Befund 72, 74, 78) bislang gegen rückwirkende Korrekturen entschieden – möglicherweise gilt das auch hier, ich stelle es dennoch zur Wahl, da es sich um einen Namensfehler der Figur selbst handelt, nicht um ein reines Gestaltungsdetail.
+3. Kein Änderungsbedarf an CH-004 selbst – die Vorgabe („Komposition aus der festen Vorlage") ist korrekt formuliert, der Mangel liegt in der Vorlage, nicht in ihrer Beschreibung.
+
+Martins Entscheidung: offen
+
+---
+
+**84 · Qualitätsstandard · neue Erkenntnis aus Befund 83**
+
+Befund: Bislang bezog sich die stichprobenartige Re-Prüfung wiederkehrender Mängel (siehe Qualitätsstandard, fünfter Prüflauf) ausschließlich auf die von einer Company-KI selbst erzeugten Dateien. Befund 83 zeigt: Ein wiederkehrender Mangel kann auch in einer als verbindlich vorgegebenen Vorlage/Referenzdatei selbst liegen, die eine Company-KI nicht selbst erzeugt, sondern nur pflichtgemäß kopiert. In einem solchen Fall liegt die Ursache nicht bei der Company-KI oder ihrem Character Book, sondern in einem gemeinsam genutzten Vault-Asset. Ich schlage vor, diesen Grundsatz in die Qualitätsstandard-Note aufzunehmen (siehe dortige Ergänzung zum dreizehnten Prüflauf).
+
+Martins Entscheidung: –
+
+---
+
+**85 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt den lokalen Branch 1 Commit vor „origin/main" (zuletzt „vault backup: 2026-08-12 13:50:22") – bitte pushen. Zusätzlich: Seit der Sitzung „Ingrid daily qa review" (b834ea64, Nachtrag zum zwölften Prüflauf) hat Martin laut Commit-Historie (mehrere „vault backup: …"-Nachrichten am 08.08., 09.08. und 12.08.2026) das automatische Commiten im Obsidian-Git-Plugin erfolgreich eingerichtet, wie in derselben Sitzung besprochen (Vault-Backup-Intervall aktiv, Auto-Push-Intervall bewusst bei 0 belassen). Das reduziert das Risiko unversionierter Änderungen zwischen den Prüfläufen, ersetzt aber nicht den bewussten manuellen Push – meine Erinnerungspflicht bleibt bestehen. Unversioniert sind derzeit nur vier Bilddateien (Grafiken/CH-001-misterQ, CH-002-Lissi, CH-004-Friedrich – Letztere das in Befund 83 behandelte Template), keine Character Books oder Prüfnotizen.
+
+Mit diesem Lauf ändere ich zusätzlich „Prüfprotokoll Ingrid.md" und „Qualitätsstandard.md" – bitte auch das nach dem nächsten Commit pushen.
+
+Martins Entscheidung: –
+
+---
+
+**86 · Offene Punkte aus früheren Läufen**
+
+Befund: Alle zuvor offenen Punkte (u. a. Befund 21/36/48 f., 29/30/72, 39/73, 53/74, 59/77, 62/69, 63/68, 65/71/76, Prüfrhythmus/51, Skript-Deployment-Fragen/52) wurden im Nachtrag zum Zwölften Prüflauf (06.08.2026, Befunde 68–78) abschließend durch Martin entschieden – keiner davon ist weiterhin offen. Aus diesem Lauf neu offen: Befund 82 (Alva, Deadline-Verankerung in CH-009) und Befund 83 (Friedrich, Tippfehler-Korrektur im Master-Template und in zwei bereits ausgelieferten Grafiken).
+
+Martins Entscheidung: –
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen

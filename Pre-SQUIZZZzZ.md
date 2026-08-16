@@ -38,6 +38,14 @@ Rätselfragen und Mitmachaufgaben wechseln sich ab (Frage → Mitmachen → Frag
 
 Die Einsende-Adresse unterscheidet sich je nach Aufgabentyp: Lösungen zu Rätselfragen gehen immer direkt an Martin, damit die Lösung nicht vorzeitig verraten wird. Beiträge zu Mitmachaufgaben gehen dagegen in die Gruppe, damit Gruppendynamik und Teambuilding entstehen.
 
+## Schlussphase vor Live-SQUIZZZzZ
+
+Zusätzlich zum wöchentlichen Wechsel aus Rätselfrage und Mitmachaufgabe gehören zwei wiederkehrende Elemente in die letzten Wochen vor jeder Live-SQUIZZZzZ:
+
+**Team-Bildungs-Bogen**: In den Wochen vor dem Live-Abend bilden sich die Teams, mit denen die Gemeinschaft gegeneinander antritt. Ablauf: Aufruf zur Teambildung (Mitspielende nennen drei Kriterien, nach denen gerechnet werden soll) → [[CH-003-Jovis Kyckling|Jovis Kyckling]] berechnet und verkündet die Teams, verbunden mit dem Aufruf, sich einen Teamnamen zu geben → Verkündung der Teamnamen, idealerweise verbunden mit der letzten Pre-SQUIZZZzZ-Folge vor Live. Wie viele Folgen dieser Bogen konkret belegt und ob einzelne Schritte zusammengelegt werden, hängt von der verfügbaren Zahl der Pre-SQUIZZZzZ-Wochen im jeweiligen Projekt ab (siehe [[smakfullt!]] als Beispiel) und wird projektspezifisch mit Martin geplant.
+
+**App-Download-Reminder**: Vier Tage vor der Live-SQUIZZZzZ erscheint zusätzlich zur regulären Folge dieser Woche ein eigener Standardfilm mit der Bitte, sich die Spiele-App (Speedquizzing) herunterzuladen, damit alle am Spieltag startklar sind. Dieser Film fällt nicht zwingend auf einen Freitag und ersetzt keine reguläre Pre-SQUIZZZzZ-Folge – er bekommt eine eigene Filmnummer nach [[ADR-009]].
+
 ## Ziel
 
 Die Filme sollen wie kleine Fernsehepisoden wirken – nicht nur Quizfragen stellen, sondern Vorfreude erzeugen, Persönlichkeit zeigen, die Gruppe näher zusammenbringen und jede Woche Lust auf den nächsten Freitag machen.

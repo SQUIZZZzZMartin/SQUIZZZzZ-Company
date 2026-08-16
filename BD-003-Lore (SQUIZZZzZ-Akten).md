@@ -73,7 +73,7 @@ Erst später stellte er sich als **Jovis Kyckling** vor.
 
 Seit jenem Tag gehört der Übergang zwischen der virtuellen und der realen Welt zu den festen Bestandteilen jeder SQUIZZZzZ-Inszenierung.
 
-Darüber hinaus übernimmt Jovis eine weitere Aufgabe. Mithilfe komplexer Berechnungen stellt er vor jeder Veranstaltung die Teams zusammen. Seine Berechnungen gelten als außergewöhnlich präzise. Wie genau sie funktionieren, ist bis heute nicht bekannt.
+Darüber hinaus übernimmt Jovis eine weitere Aufgabe: Er stellt die Teams zusammen, mit denen die Gemeinschaft in den Live-Abend zieht. Dieser Prozess beginnt nicht erst am Abend selbst, sondern schon mitten in den Pre-SQUIZZZzZ-Wochen. Zunächst ruft Jovis die Mitspielenden dazu auf, ihm drei Kriterien zu nennen, nach denen er rechnen soll. Aus diesen Kriterien errechnet er in aller Stille die Teams und verkündet sie – niemand weiß genau, nach welcher Formel, nur dass sie stimmt. Kaum sind die Teams bekannt, ruft er dazu auf, sich einen eigenen Namen zu geben, und wenig später werden auch diese Namen verkündet, sodass jedes Team mit einem eigenen Namen in den Live-Abend zieht. Seine Berechnungen gelten als außergewöhnlich präzise. Wie genau sie funktionieren, ist bis heute nicht bekannt.
 
 ## Der erste Live-Abend
 Am **18. Juni 2022** öffneten sich die Tore zur SQUIZZZzZ-Welt zum ersten Mal. Zum ersten Mal begegneten sich virtuelle und reale Welt.
