@@ -15,7 +15,7 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 |:---|:---|:---|:---:|:---:|:---:|:---|
 | CH-001 | Darsteller | misterQ | 🟢 Aktiv | v1.0 | v1.0 | Gastgeber der virtuellen SQUIZZZzZ-Welt |
 | CH-002 | Darsteller | Lissi | 🟢 Aktiv | v1.0 | v1.0 | Assistentin und Co-Moderatorin |
-| CH-003 | Darsteller | Jovis Kyckling | 🟢 Aktiv | v1.0 | v1.0 | Wissenschaftler und Experte für ungewöhnliche Fakten |
+| CH-003 | Darsteller | Jovis Kyckling | 🟢 Aktiv | v1.1 | v1.1 | Wissenschaftler und Experte für ungewöhnliche Fakten; berechnet als Company-KI-Erweiterung die Teamzusammensetzung vor jedem Live-SQUIZZZzZ |
 | CH-004 | Darsteller | Friedrich | 🟢 Aktiv | v1.1 | v1.1 | Hüter der Kreativität; bewertet als Company-KI-Erweiterung Mitmachaufgaben-Einsendungen |
 | CH-005 | Company-KI | Matilde | 🟢 Aktiv | v1.0 | v1.0 | KI-Architektin und Leiterin der Personalabteilung für KI-Mitarbeiter |
 | CH-006 | Company-KI | Konstantin | 🟢 Aktiv | v1.0 | v1.0 | Chronist – recherchiert historische Ereignisse für die Pre-SQUIZZZzZ-Produktion |
