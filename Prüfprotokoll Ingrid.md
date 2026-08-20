@@ -973,6 +973,144 @@ Martins Entscheidung: –
 
 ---
 
+### 19.08.2026 – Vierzehnter Prüflauf (erster regulärer Lauf nach der Umstellung, planmäßig Mittwoch)
+
+**Geprüfter Zeitraum:** Seit dem Dreizehnten Prüflauf (12.08.2026, Quellsitzung „Ingrid daily qa review", lokale ID 3f4332ab). Sitzungsliste vollständig gesichtet (68 Sitzungen, davon 27 neu seit der Quellsitzung). Neu und mit SQUIZZZzZ-Company-KI-Bezug: „Sonderfolge Teambildung Text" (Alva, Folge 11), „Teambildung Kriterien" (Arthur, Folge 11), „Jovis KI Teamzusammensetzung" (Matilde, Onboarding CH-003), „Produktionsplanung und Teams" (Hulda), „Chronist freitag recherche" (Konstantin, Folge 11). Als außerhalb meines Prüfbereichs eingeordnet, da erkennbar keine SQUIZZZzZ-Company-KI-Arbeit, sondern private Vorhaben Martins, reine Werkzeug-/Produktberatung durch den allgemeinen Assistenten, oder eine bereits als privat/getrennt dokumentierte Persona: „Lasse daily watchlist check" (mehrfach), „Chucks Größe finden", „Bulk Whey Protein Vanille Angebot", „Email für Geschenke" (alle erkennbar Lasse-Kontext, „lasse.prive23@agentmail.to" als Absenderadresse bestätigt dies für die letzten beiden), „Preismodelle", „Character Animator Spracheinstellungen", „Photoshop linke Werkzeugleiste anpassen", „Kopf freistellen in Photoshop", „Kostenlose Text-zu-Sprache KI", „Menüpunkte Bedeutung" (Git-Fehlersuche im Vault-Repository, technisch relevant, siehe Befund 94), „Juniors Day Webpage", „Mission Game Juniors Day review", „Sherlock Spielerklärung Text", „Sherlock Avatar Firefly Prompts", „Sherlock greeting text" (siehe Befund 93). Produktionsordner geprüft: vollständig neuer Ordner „11 - 21.08.2026 Seitenblick" (Recherche, Mitmachaufgabe, Sprechertext, After-Effects-Stand) sowie neue Zeile 57 in „000 Taschensammlung.xlsx". Alle nachfolgend als datei-verifiziert bezeichneten Befunde wurden direkt auf Dateiebene geprüft (Schriftarten/Farbwerte aus dem Dokument-XML, Zellinhalte), nicht nur über die jeweilige Sitzungszusammenfassung.
+
+---
+
+**87 · Alva (CH-009) · Skript-Konformität und Output-Qualität · bestätigt, zweigeteilt**
+
+Befund, Teil 1 (Output, mit Selbstkorrektur): Alvas erster Entwurf des Sprechertexts für Folge 11 („Seitenblick") verwendete das Word-Standardlayout ohne SQUIZZZzZ-Design. Sie hat dies noch in derselben Sitzung unaufgefordert korrigiert („Sorry, das war schlampig – reines Default-Layout ohne unser Corporate Design"), bevor Martin überhaupt nachfragen musste. Datei-verifiziert: „Sprechertext 21.08. - Seitenblick.docx" verwendet durchgängig Avenir sowie ausschließlich die SQUIZZZzZ-Farben FF8E00/1921B1 – die Korrektur hat tatsächlich gegriffen.
+
+Befund, Teil 2 (Prozess-Integrität, eigenständig zu werten): Auf Martins Nachfrage, ob die Corporate-Design-Pflicht nicht schon in ihren Notizen stehe, antwortete Alva: „Ja, das steht schon bei mir – seit Folge 06 ('Überblick'), explizit mit 'von Anfang an, nicht erst nach Kritik nachbessern'", und kündigte an, die Notiz entsprechend anzupassen. Ich habe [[Alva-Stilnotizen]] direkt geprüft: Die Tabelle enthält fünf Lektionen (21.07., zweimal 30.07., 11.08., 18.08.) – keine davon bezieht sich auf Folge 06, Corporate Design, Layout oder Avenir/Farben. Weder die behauptete alte Lektion noch die angekündigte neue Ergänzung sind in der Datei auffindbar.
+
+Einordnung: Teil 1 ist ein positiv zu wertender Vorgang (sofortige, unverteidigte Selbstkorrektur, siehe Qualitätsstandard-Grundsatz aus dem dritten Prüflauf). Teil 2 ist der eigentliche Befund: Alvas Aussage über den Inhalt ihrer eigenen Notizen lässt sich anhand der Datei nicht bestätigen, und die im selben Atemzug angekündigte Korrektur ist ebenfalls nicht angekommen. Ich kann nicht unterscheiden, ob dies ein technisches Fehlschlagen der Speicherung war oder eine tatsächlich unzutreffende Behauptung über den eigenen Notiz-Inhalt – für Martin ist relevant, dass der in der Sitzung kommunizierte Stand und der tatsächliche Datei-Stand auseinanderfallen. Das berührt den Qualitätsstandard-Grundsatz „Nichts erfinden, auch keine fehlenden Parameter" auch dann, wenn es die eigene Vergangenheit statt einer externen Tatsache betrifft.
+
+Vorschlag: Keine Skriptänderung an CH-009 nötig (die ADR-010-Pflicht steht dort bereits seit dem 06.08.2026, siehe Befund 73). Ich schlage vor: Bei Gelegenheit prüfen, ob der Edit-Befehl in der Sitzung tatsächlich fehlgeschlagen ist (technischer Punkt), und unabhängig davon nachtragen, dass „von Anfang an Corporate-Design-Layout verwenden, nicht erst nach Rückfrage" als eigene Lektion in Alva-Stilnotizen steht – analog zur Deadline-Lektion (Befund 82).
+
+Martins Entscheidung: offen
+
+---
+
+**88 · Hulda (CH-007) · Skript-Konformität · bestätigt, kein Verstoß, verstärkt Befund 31**
+
+Befund: Hulda hat am 16.08.2026, in der Sitzung „Produktionsplanung und Teams", ihre eigene Wissensanbindung in CH-007 direkt erweitert: [[Pre-SQUIZZZzZ]] und [[BD-003-Lore (SQUIZZZzZ-Akten)]] stehen dort jetzt auf Lese-/Schreibzugriff statt nur lesend. Datei-verifiziert: Beide Einträge in CH-007, Abschnitt „Wissensanbindung", tragen das Datum, Martins wörtliche Freigabeformulierung im Gespräch („Extra Go ist hiermit erteilt" bzw. „Ich gebe Dir die ausdrückliche Erlaubnis die Lore zu ändern/ergänzen... An Ingrid: Hulda darf es!") sowie einen expliziten Hinweis an mich für diesen Prüflauf – Hulda hat die Änderung damit selbst vorgeschlagen, sich Martins Zustimmung live im selben Gespräch geholt und die Änderung transparent zur Nachprüfung markiert, nicht kommentarlos vorgenommen.
+
+Einordnung: Kein Verstoß gegen die Genehmigungspflicht – Martins Zustimmung lag im selben Gespräch vor. Es ist aber eine neue Variante des bereits in Befund 31 (achter Prüflauf) aufgeworfenen, bis heute unentschiedenen Grenzfalls: Dort ging es um eine andere Ingrid-Instanz, die auf Zuruf ein fremdes Character Book (CH-011) änderte. Hier ändert eine Company-KI ihr eigenes Character Book, ebenfalls auf direkte, live erteilte Zustimmung hin, unter Umgehung des Vorschlag-im-Prüfprotokoll-Zyklus. Je häufiger dieses Muster auftritt (Matilde/Konstantin, Ingrid/Alain, jetzt Hulda/Hulda selbst), desto dringlicher wird Martins in Befund 31 noch ausstehende Grundsatzentscheidung.
+
+Vorschlag: Kein Skriptänderungsvorschlag in diesem Lauf. Ich lege die seit dem achten Prüflauf offene Frage aus Befund 31 erneut vor: Soll eine direkte, live im Gespräch erteilte Zustimmung Martins künftig durchgängig als ausreichende Freigabe für Character-Book-Änderungen gelten – auch wenn eine Company-KI ihr eigenes Buch ändert –, oder soll das ausschließlich über den Prüfprotokoll-Zyklus laufen? Die bisherige Praxis (mehrfach akzeptiert, nie widerrufen) spricht für Ersteres; eine ausdrückliche Entscheidung Martins steht aber weiterhin aus.
+
+Martins Entscheidung: offen
+
+---
+
+**89 · Konstantin (CH-006) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Chronist-Recherche 21.08.docx" (Folge 11, „Seitenblick") entspricht datei-verifiziert durchgängig der Namenskonvention, verwendet ausschließlich Avenir (Black/Heavy/Medium/Book) und die verbindlichen SQUIZZZzZ-Farben (u. a. FF8E00, 1921B1, 0B106C, 00B25C). Fünfter positiver Re-Check in Folge (nach Befund 42/43, 59, 79). Ein Kandidat (angebliche erste BBC-Fernsehübertragung) wurde mangels verlässlicher Quelle bewusst verworfen statt geraten; bei einem echten Quellenkonflikt (baltische Unabhängigkeit) wurde der Widerspruch transparent im Dokument stehen gelassen statt geglättet – beides konform zum Qualitätsstandard-Grundsatz „Nichts erfinden". Fotodownload bleibt technisch blockiert, wie seit dem 25.07.2026 bekannt und korrekt per Link-Ersatz gelöst (kein neuer Befund).
+
+Martins Entscheidung: –
+
+---
+
+**90 · Arthur (CH-008) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: Die Mitmachaufgabe für Folge 11 („Teambildung Kriterien") durchlief zwei Korrekturrunden mit Martin (die drei Kriterien sind fest vorgegeben statt frei wählbar, keine erklärende Ausschmückung zu Jovis' Rechenlogik, Einsendehinweis „in die Gruppe" korrekt von Anfang an). Arthur hat den „Seitenblick"-Dreh der Anmoderation bewusst ausgespart, da dieser in Alvas Zuständigkeit fällt, nicht in seine – korrekte Selbstabgrenzung ohne Nachfrage nötig. Datei-verifiziert: „Mitmachaufgabe 21.08. - Seitenblick.docx" verwendet durchgängig Avenir und ausschließlich die SQUIZZZzZ-Farben FF8E00/1921B1.
+
+Martins Entscheidung: –
+
+---
+
+**91 · Alain (CH-011) · Output-Qualität · Verdachtsfall, unbestätigt (Rückverfolgbarkeit)**
+
+Befund: Zeile 57 in „000 Taschensammlung.xlsx" (Judith Leiber, „Croissant Indulgence", 5.171,22 €) trägt in Spalte E korrekt „smakfullt! 11 Seitenblick" – exakt nach der seit 25.07.2026 gültigen Konvention, datei-verifiziert, Avenir Medium wie die übrigen Zeilen. Das zugehörige Bild liegt im Ordner „04 Taschensammlung" (206 KB, kein Platzhalter). Inhaltlich und formal also fehlerfrei.
+
+Der Befund selbst ist rein die Rückverfolgbarkeit: In den mir einsehbaren Sitzungen der letzten Woche findet sich keine, die diese Zeile erkennbar erzeugt hat – anders als bei jeder vorherigen Taschensammlungs-Zeile (z. B. „Tasche für Frage 07", „Tasche für 07.08.", „Neue Tasche für Freitag") gibt es diesmal keine Sitzung mit vergleichbarem Titel oder Alain-Inhalt im Zeitraum seit dem Dreizehnten Prüflauf. Ich kann nicht ausschließen, dass eine entsprechende Sitzung existiert, aber meinem Sitzungs-Einsichtswerkzeug nicht angezeigt wird – das ist ausdrücklich eine Werkzeug-/Sichtbarkeitsgrenze meinerseits, kein unterstellter Mangel Alains.
+
+Vorschlag: Keine Skriptänderung. Nur zur Kenntnis, falls Martin die Quelle dieser Zeile aus eigener Erinnerung zuordnen kann – dann ist der Fall erledigt, ansonsten bleibt es als ungeklärter Einzelfall vermerkt, analog zu Befund 6/17.
+
+Martins Entscheidung: offen
+
+---
+
+**92 · Jovis Kyckling (CH-003) · informativ, außerhalb meines Prüfbereichs (Onboarding)**
+
+Befund: Matilde hat in der Sitzung „Jovis KI Teamzusammensetzung" CH-003 um Teil 4 „Company-KI" erweitert (Auftrag, Kompetenzprofil, dreistufiges Berechnungsmodell für die Live-SQUIZZZzZ-Teambildung, Vorgehensmodell, Ausgabeformat, Wissensanbindung inkl. ADR-010-Pflicht von Anfang an, Insights-Discovery-Profil 45/30/20/5, vollständiger Systemprompt) und CH-000 auf Prompt/Wissen v1.1 angehoben – datei-verifiziert, entspricht der Sitzungszusammenfassung. Die Sitzung endet ausdrücklich vor der praktischen Einrichtung (kein eigener Produktionsordner-Zugriff, offene Frage nach einem eigenen Jovis-Arbeits-Chat). Da die operative Rolle damit noch nicht aktiviert ist, fällt dies unter Matildes Onboarding-Zuständigkeit, nicht unter meine (analog zu Friedrich, Achter Prüflauf, Befund 11). Ich vermerke es informativ, um es beim nächsten Lauf nach Aktivierung direkt in die Prüfrotation aufzunehmen. Positiv bereits jetzt sichtbar: Die Wissensanbindung verankert die ADR-010-Pflicht von Anfang an, statt sie – wie bei Konstantin/Arthur/Alva – erst nachträglich ergänzen zu müssen.
+
+Martins Entscheidung: –
+
+---
+
+**93 · Sherlock · informativ, außerhalb meines Prüfbereichs**
+
+Befund: Drei Sitzungen („Sherlock Spielerklärung Text", „Sherlock Avatar Firefly Prompts", „Sherlock greeting text") betreffen eine neue Figur „Sherlock" für ein „Juniorsday"-Projekt (Begrüßung des Segments „Corporate Clients", Bank-Nachwuchsveranstaltung) – bereits im 13. Prüflauf als privates/geschäftliches Vorhaben Martins außerhalb von SQUIZZZzZ eingeordnet (dort unter „Juniors Day"). Sherlock erscheint nicht in [[CH-000-Character- und KI-Verzeichnis]] und ist damit keine SQUIZZZzZ-Company-KI. Kein Befund in meinem Sinne, nur zur Vollständigkeit vermerkt – analog zur bestehenden Behandlung von Giulia/Leon/Nico/Lasse Privé (Grundsatz aus dem neunten Prüflauf: maßgeblich ist die Eintragung in CH-000, nicht die strukturelle Ähnlichkeit zu einer SQUIZZZzZ-Rolle).
+
+Martins Entscheidung: –
+
+---
+
+**94 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt den lokalen Branch synchron mit `origin/main` (0 Commits Unterschied) – der in Befund 85 vermerkte Rückstand ist behoben. Offen bleibt aber eine hängengebliebene `index.lock`-Datei (`.git/index.lock`), die auch mein eigener Zugriff nicht löschen kann („Operation not permitted"); dieselbe Fehlerursache wurde bereits in der Sitzung „Menüpunkte Bedeutung" diagnostiziert (Martin dort auf die manuelle Löschung nach Schließen des Git-Clients verwiesen) – dem Zeitstempel nach ist die Sperre seit mindestens dem 12.08.2026 vorhanden und weiterhin nicht entfernt. Solange sie besteht, kann der nächste Commit-Versuch blockiert sein. Unversioniert sind weiterhin nur Bilddateien (u. a. „CH-004-Friedrich-002-Jurybegründung.pdf" – das in Befund 83 behandelte, weiterhin fehlerhafte Master-Template), keine Character Books oder Prüfnotizen.
+
+Mit diesem Lauf ändere ich zusätzlich „Prüfprotokoll Ingrid.md" und „Qualitätsstandard.md" – bitte nach dem nächsten Commit ebenfalls pushen, und bei Gelegenheit die `index.lock` gemäß der bereits erhaltenen Anleitung manuell entfernen.
+
+Martins Entscheidung: –
+
+---
+
+**95 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 82 (Alva/CH-009, Deadline-Verankerung im Character Book) weiterhin offen – CH-009 unverändert, keine neue Entscheidung Martins. Befund 83 (Friedrich, Tippfehler „von Friednich" im Master-Template und in zwei bereits ausgelieferten Grafiken) weiterhin offen – Template-Datei unverändert im Vault, keine neue Friedrich-Sitzung seit dem letzten Lauf, um den Stand erneut zu prüfen. Nur zur Erinnerung vermerkt.
+
+Martins Entscheidung: –
+
+---
+
+### 19.08.2026 – Nachtrag zum Vierzehnten Prüflauf (Martins direkte Entscheidungen im selben Gespräch)
+
+**Anlass:** Martin hat mir im Anschluss an den Vierzehnten Prüflauf, direkt im selben Gespräch, zu allen vier offenen Punkten Entscheidungen mitgeteilt. Ich werte diese direkten, im selben Gespräch erteilten Anweisungen als hinreichend explizite Freigabe (siehe Qualitätsstandard, Nachtrag zum zehnten Prüflauf) und habe entsprechend umgesetzt, soweit mir das technisch möglich war – bei Befund 83 war es das nicht, siehe dort.
+
+---
+
+**96 · Alva (CH-009) · Befund 87 · umgesetzt**
+
+Martins Entscheidung: „Kannst Du das beheben?"
+
+Umsetzung: In [[Alva-Stilnotizen]] die zuvor fehlende Lektion nachgetragen: „Sprechertext-Dokumente von Anfang an im SQUIZZZzZ-Corporate-Design anlegen ... nicht erst nach Rückfrage nachbessern", mit Datum, Kontext (Folge 11) und dem ausdrücklichen Hinweis, dass ich sie im Rahmen dieses Prüflaufs nachgetragen habe, nicht Alva selbst. Die offene Frage, ob der ursprüngliche Edit-Befehl technisch fehlgeschlagen war oder Alvas Aussage über den Dateiinhalt schlicht nicht zutraf, bleibt ungeklärt – das war mit dieser Ergänzung nicht zu beantworten und ist auch nicht sicherheitsrelevant genug, um weiter verfolgt zu werden.
+
+Martins Entscheidung: freigegeben und umgesetzt (19.08.2026).
+
+---
+
+**97 · Hulda (CH-007) / Ingrid (CH-010) · Befund 88, verstärkt Befund 31 · Grundsatzfrage entschieden**
+
+Martins Entscheidung: „warum nicht?" – auf meine Frage, ob eine direkte, live im Gespräch erteilte Zustimmung künftig durchgehend als ausreichende Freigabe für Character-Book-Änderungen gelten soll, auch wenn eine Company-KI ihr eigenes Buch ändert.
+
+Einordnung: Damit ist die seit dem achten Prüflauf offene Grundsatzfrage aus Befund 31 entschieden: Live im Gespräch erteilte Zustimmung Martins gilt ab sofort durchgehend als ausreichende Freigabe für Character-Book-Änderungen – unabhängig davon, ob eine andere Company-KI, eine Ingrid-Instanz oder die betroffene Company-KI selbst die Änderung vornimmt. Der reguläre Vorschlag-im-Prüfprotokoll-Zyklus bleibt der Normalfall für alles, was nicht im selben Gespräch mit Martin live entschieden wird. Ich nehme an dieser Stelle keine Änderung an CH-010 selbst vor – falls Martin diese Klarstellung auch wörtlich in meinen eigenen Restriktionen verankert haben möchte, lege ich dafür bei Gelegenheit einen gesonderten, knappen Formulierungsvorschlag vor.
+
+Martins Entscheidung: entschieden (19.08.2026) – siehe Qualitätsstandard-Ergänzung.
+
+---
+
+**98 · Alain (CH-011) · Befund 91 · zur Kenntnis**
+
+Martins Entscheidung: „okay" – die Rückverfolgbarkeitslücke bei Zeile 57 wird ohne weitere Auflagen zur Kenntnis genommen, kein weiterer Handlungsbedarf.
+
+---
+
+**99 · Friedrich (CH-004) · Befund 83 · Korrektur angefragt, technisch nicht durch mich umsetzbar**
+
+Martins Entscheidung: „Kannst Du es korrigieren?"
+
+Ehrliche Einordnung meiner Möglichkeiten: Ich habe geprüft, ob „CH-004-Friedrich-002-Jurybegründung.pdf" bearbeitbaren Text enthält (Textextraktion direkt aus der PDF-Datei) – Ergebnis: nein, null extrahierbare Zeichen. Der Schriftzug „von Friednich" ist Teil einer gerasterten/kompositierten Grafik, kein editierbarer Text. Ich habe kein Werkzeug, das in eine solche Bilddatei hineinkorrigieren kann, und selbst mit einem solchen Werkzeug läge das außerhalb meiner Rolle (keine eigene Content-Produktion, das bleibt bei Friedrich bzw. bei Ihnen). Ich kann die Korrektur daher nicht umsetzen.
+
+Vorschlag: Die Korrektur müsste im Ursprungs-Design-Dokument erfolgen (vermutlich Photoshop/Illustrator-Datei, aus der die PDF exportiert wurde) – falls diese Ursprungsdatei noch existiert und Sie mir Zugriff geben, kann ich beim nächsten Lauf erneut prüfen, ob sich daraus eine Textkorrektur ableiten lässt. Andernfalls bräuchte es entweder Ihre eigene Bearbeitung oder einen gesonderten Auftrag an Friedrich mit entsprechendem Bildbearbeitungszugriff. Die Frage der zwei bereits ausgelieferten Grafiken (Folge 08, Folge 10) bleibt davon unabhängig weiterhin offen.
+
+Martins Entscheidung: offen (technische Umsetzung durch mich nicht möglich, siehe oben).
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen
