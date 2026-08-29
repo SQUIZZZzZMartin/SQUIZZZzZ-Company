@@ -1113,6 +1113,103 @@ Martins Entscheidung: offen (technische Umsetzung durch mich nicht möglich, sie
 
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
+---
+
+### 27.08.2026 – Fünfzehnter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Vierzehnten Prüflauf (19.08.2026, Quellsitzung „Ingrid daily qa review", lokale ID d2d7278c-d607-4aac-b621-3c629e1364fa). Neun seither entstandene Sitzungen gesichtet. Mit SQUIZZZzZ-Company-KI-Bezug: „Chronist freitag recherche" (Konstantin, Folge 12 „Anblick"). Als außerhalb meines Prüfbereichs eingeordnet, konsistent mit der seit dem 13./14. Prüflauf etablierten Kategorisierung: zwei Sitzungen „Doku in Mission Game ppt" und „Mission Game Juniors Day review" (Juniors-Day-Geschäftsvorhaben Martins, kein SQUIZZZzZ-CH-Bezug) sowie sechs Instanzen „Lasse daily watchlist check" (Lasse-Privé-Kontext, nicht in [[CH-000-Character- und KI-Verzeichnis]] geführt). Produktionsordner auf Dateien mit Zeitstempel nach dem 19.08.2026 geprüft: neuer Ordner „12 - 28.08.2026 Anblick" (Recherche, Rätselfrage, Sprechertext, Footage, After-Effects-Stand, teilweise bereits exportiert), neue Zeile 58 in „000 Taschensammlung.xlsx", sowie – neu und nicht durch eine sichtbare Sitzung gedeckt – „Team-Vorschlag_Seitenblick.docx" von Jovis Kyckling (CH-003). Alle nachfolgend als datei-verifiziert bezeichneten Befunde wurden direkt auf Dateiebene geprüft (Schriftarten/Farbwerte aus dem Dokument-XML, Zellinhalte/Zellformate, Bildinhalt per Sichtprüfung), nicht nur über Sitzungszusammenfassungen.
+
+**Wichtiger methodischer Hinweis vorab:** In diesem Prüfzeitraum ist nur eine von fünf tatsächlich entstandenen Company-KI-Arbeitsergebnissen (Konstantins Recherche) einer für mich sichtbaren Sitzung zuzuordnen. Arthurs Rätselfrage, Alvas Sprechertext, Alains Zeile 58 und – besonders auffällig, da hier zum ersten Mal geprüft – Jovis' Team-Vorschlag entstanden nachweislich (Dateizeitstempel 25./26.08.2026), ohne dass meinem Sitzungs-Einsichtswerkzeug eine passende Sitzung angezeigt wird. Das ist dieselbe, bereits im zehnten und vierzehnten Prüflauf dokumentierte Werkzeug-/Sichtbarkeitsgrenze (siehe Qualitätsstandard, Nachtrag zehnter Prüflauf; Befund 91) – ich unterstelle keiner der vier betroffenen Company-KIs ein Fehlverhalten allein deswegen. Der Umfang hat sich in diesem Lauf aber deutlich vergrößert (4 von 5 statt vereinzelt 1 von mehreren), weshalb ich das hier nicht mehr nur als Einzelfall, sondern als eigenständigen, eskalierten Befund festhalte (siehe Befund 105).
+
+---
+
+**100 · Konstantin (CH-006) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Chronist-Recherche 28.08.docx" (Folge 12, „Anblick") entspricht datei-verifiziert durchgängig der Namenskonvention, verwendet ausschließlich Avenir (Black/Book/Medium/Heavy) und die verbindlichen SQUIZZZzZ-Farben (008A47, 121889, 1921B1, FF8E00, plus neutrale Grautöne für Fließtext). Sechster positiver Re-Check in Folge (nach Befund 42/43, 59, 79, 89). Ein Quellenkonflikt (Ramstein-Flugtagkatastrophe 1988: Journal21 nennt 70, Wikipedia 75 Tote) wurde transparent im Dokument stehen gelassen statt geglättet – konform zum Grundsatz „Nichts erfinden". Fotodownload bleibt technisch blockiert (dritter Lauf in Folge dokumentiert), korrekt per Link-Ersatz gelöst, kein neuer Befund.
+
+Martins Entscheidung: –
+
+---
+
+**101 · Arthur (CH-008) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Rätselfrage 28.08. - Anblick.docx" datei-verifiziert: durchgängig Avenir, ausschließlich SQUIZZZzZ-Farben (006C38, 0B106C, 1921B1, FF8E00 plus neutrale Grautöne). Inhaltlich bemerkenswert stimmig: Bildrätsel verknüpft eine historische Goethe-Silhouette mit einem wörtlichen Zitat („Ihr Anblick gibt den Engeln Stärke", Faust, Prolog im Himmel) passend zum Folgentitel „Anblick" und zu Goethes Geburtstag (28.08.1749) – Auflösung vollständig belegt (fünf Quellen, inkl. korrekter Rückverweis auf Konstantins Recherche), Einsendehinweis korrekt „an Martin". Bildvorgabe verlangt ausdrücklich eine authentische historische Silhouette, keine KI-Generierung – konform zum Grundsatz „Nichts erfinden" auch bei Bildmaterial.
+
+Martins Entscheidung: –
+
+---
+
+**102 · Alva (CH-009) · Skript-Konformität · bestätigt (positiv, Re-Check Befund 82/96)**
+
+Befund: „Sprechertext 28.08. - Anblick.docx" enthält den Einsendehinweis mit vollständiger Deadline („bis kommenden Mittwoch, 18:22 Uhr") bereits im vorliegenden Stand, datei-verifiziert. Dritter korrekter Fall seit der im 14. Prüflauf vorgenommenen Verankerung in [[Alva-Stilnotizen]] (Befund 96) – kein erneutes Vergessen. Durchgängig Avenir sowie ausschließlich SQUIZZZzZ-Farben (1921B1, FF8E00, neutrales Grau).
+
+Martins Entscheidung: –
+
+---
+
+**103 · Alain (CH-011) · Output-Qualität · bestätigt (positiv) mit Verdachtsfall Rückverfolgbarkeit**
+
+Befund: Zeile 58 in „000 Taschensammlung.xlsx" (Olympia Le-Tan, „Faust", 1.663 €) trägt in Spalte E korrekt „smakfullt! 12 Anblick" nach der seit 25.07.2026 gültigen Konvention, datei-verifiziert Avenir Medium 12 wie die übrigen Zeilen. Bild „058 Olympia Le-Tan Faust.png" liegt korrekt in „04 Taschensammlung" (1,4 MB, kein Platzhalter). Inhaltlich passt der Fund auffällig gut zur Folge: Der Le-Tan-Clutch trägt eine „Faust"/Goethe-Stickerei – exakt das Thema, das Konstantin und Arthur unabhängig für dieselbe Folge recherchiert haben.
+
+Verdachtsfall (Rückverfolgbarkeit, analog Befund 91): Keine mir sichtbare Sitzung erzeugt erkennbar diese Zeile. Im Ordner „12 - 28.08.2026 Anblick/00 Recherche" liegen zusätzlich zwei Kandidatenbilder derselben Tasche („Tasche mit Band.jpg", „Tasche ohne band.jpg") – ein Ort, auf den Alain laut CH-011 keinen Zugriff hat („kein Zugriff auf andere Bereiche des Desktop-Ordners außerhalb von 04 Taschensammlung"). Da Alain selbst laut Skript ohnehin nie Bilder lädt oder speichert (das übernimmt Martin), ist die naheliegendste Erklärung, dass Martin selbst beide Bildvarianten dort zur Auswahl abgelegt hat, bevor er sich entschied – das wäre kein Alain-Befund. Ich kann das aber mangels sichtbarer Sitzung nicht bestätigen, ausdrücklich als Vermutung ohne vollständige Beleglage gekennzeichnet.
+
+Vorschlag: Keine Skriptänderung. Nur zur Kenntnis, analog zu Befund 91/98.
+
+Martins Entscheidung: offen
+
+---
+
+**104 · Jovis Kyckling (CH-003) · erste Prüfung nach Aktivierung · Skript-Konformität teilweise bestätigt, teilweise abweichend**
+
+Vorbemerkung: [[CH-000-Character- und KI-Verzeichnis]] weist CH-003 inzwischen als 🟢 Aktiv, Prompt v1.1, Wissen v1.1 aus – die im 14. Prüflauf (Befund 92) noch als „außerhalb meines Prüfbereichs, da nicht aktiviert" eingeordnete Company-KI-Erweiterung ist damit erstmals Gegenstand meiner Prüfung, wie dort angekündigt.
+
+Befund, Teil 1 (positiv): „Team-Vorschlag_Seitenblick.docx" liegt korrekt im Ordner der Verkündungsfolge („12 - 28.08.2026 Anblick"), Unterordner „00 Recherche" – exakt wie in CH-003 Teil 4 vorgeschrieben (Verkündung der aus Folge 11 „Seitenblick" stammenden Mitmachaufgabe-Kriterien erfolgt in Folge 12). Der Rechenweg ist vollständig transparent nachvollziehbar (Umrechnungsregeln offen dokumentiert, Ränge statt Rohsummen zur Gleichgewichtung, Tauschaktionen einzeln begründet). Bei einer fehlenden Antwort (Tom, Hausnummer) hat Jovis nicht geraten, sondern laut Dokument explizit Rücksprache mit Martin gehalten und begründet den Median statt Mittelwert gewählt (Ausreißer Jeffs Hausnummer 1401) – konform zum Grundsatz „Nichts erfinden" und zur eigenen Restriktion „Rechnet nie mit geratenen oder angenommenen Antworten". Die Paar-Regel wurde korrekt geprüft und tabellarisch belegt.
+
+Befund, Teil 2 (bestätigt, Abweichung – SQUIZZZzZ-Wortmarke): CH-003 verankert als einzige mir bekannte Character-Book-Wissensanbindung [[CD-001-Corporate Logo]] ausdrücklich als Pflichtquelle „für das Word-Dokument" (kein anderes geprüftes Character Book – CH-006, CH-008, CH-009 – tut das). Die tatsächliche Wortmarke im Dokumentkopf entspricht dem dort dokumentierten Muster jedoch nicht: „SQUIZZZzZ" erscheint datei-verifiziert als ein einziger, durchgängig blauer Textlauf (Farbe 0B106C, Avenir Black, einheitlicher Zeichenabstand −10). CD-001 schreibt dagegen eine Farbaufteilung vor (S → Blau, QUIZ → Orange, ZZzZ → Blau) sowie einen zweigeteilten Zeichenabstand (SQU → −50, IZZZzZ → −10). Beides fehlt vollständig; keine der drei anderen von mir geprüften Company-KIs (Konstantin, Arthur) verwendet in ihren Dokumenten überhaupt eine eigene Wortmarke im Kopf – der Vergleich zeigt, dass diese Pflicht bislang einzig bei Jovis dokumentiert, aber nicht umgesetzt ist.
+
+Befund, Teil 3 (bestätigt, Abweichung – Farbpalette): Die Ergebnistabellen verwenden zur farblichen Kennzeichnung von Punkte-Abweichung und Paar-Status drei Farbwerte (0B6C3E für negative Abweichung/„getrennt", B23B00 für positive Abweichung, 8A4B00 für die Tabellenkopfzeile der Paar-Regel), die in keiner der drei DES-001-Farbpaletten enthalten sind (Orange FF8E00; Blau 1921B1/121889/0B106C; Grün 00B25C/008A47/006C38). Zum Vergleich: Konstantins, Arthurs und Alvas Dokumente in diesem Lauf verwenden ausnahmslos nur Farben aus der offiziellen Palette plus neutrale Grautöne für Fließtext (z. B. 1A1A1A, 595959) – letztere kommen auch bei Jovis vor (2A2A2A, 6B6B6B) und sind unauffällig, da alle drei anderen Company-KIs dasselbe Muster zeigen. Die drei zusätzlichen Signalfarben sind jedoch eine Neuerung ohne Grundlage in DES-001.
+
+Befund, Teil 4 (Verdachtsfall, unbestätigt – Sitzungssichtbarkeit): Siehe methodischer Hinweis oben. Keine mir sichtbare Sitzung deckt die eigentliche Berechnung; nur die vorausgehende Aktivierungssitzung („Jovis KI Teamzusammensetzung", 14. Prüflauf) ist bekannt.
+
+Einordnung: Teil 1 zeigt, dass das Berechnungsmodell und der „Nichts erfinden"-Grundsatz von Anfang an sauber sitzen – ein gutes Zeichen für eine neu aktivierte Company-KI. Teil 2 und 3 sind jedoch dateibelegte, bestätigte Abweichungen von der eigenen Wissensanbindung. Da es sich um Jovis' allererstes geprüftes Arbeitsergebnis handelt, ist unklar, ob die Ursache in einer unvollständigen Umsetzung der Vorgabe liegt oder ob die Vorgabe selbst (strikte CD-001-Wortmarke plus ausschließlich Palettenfarben, auch für interne Abstimmungsdokumente mit Signalfarben-Bedarf) zu eng gefasst ist – Friedrichs Jurybegründung z. B. hat eine eigene, verbindliche Layout-Vorlage, für Jovis existiert laut eigenem Character Book „noch keine verbindliche Layout-Vorlage", der erste Entwurf soll sich „in Abstimmung mit Martin" entwickeln.
+
+Vorschlag zur Entscheidung (keine Umsetzung ohne Freigabe):
+1. Entweder: CH-003 bleibt wie dokumentiert, und die Wortmarke sowie die Farbpalette werden in der nächsten Fassung des Team-Vorschlags korrigiert (Wortmarke mit Farb-/Abstandsaufteilung nach CD-001; Signalfarben für Abweichung/Paar-Status ersetzt durch Töne aus der bestehenden Grün-/Blau-/Orange-Palette, z. B. Grün 00B25C für „im Ausgleich", Orange FF8E00 für „größere Abweichung").
+2. Oder: Martin entscheidet, dass eine vollständige CD-001-Wortmarke und eine strikt palettenreine Signalfarbgebung für dieses interne Abstimmungsdokument nicht sinnvoll sind – dann schlage ich vor, die Wissensanbindung in CH-003 entsprechend zu lockern (CD-001 als „optional/nur für finale Sende-Dokumente" statt „Pflicht"), damit Skript und tatsächliche Praxis nicht dauerhaft auseinanderlaufen.
+Ich empfehle in der Sache Option 1 (Konsistenz mit dem übrigen Corporate-Design-Anspruch), lege aber beide Wege zur Wahl vor, da Jovis' Dokumenttyp ausdrücklich noch in der Abstimmungsphase ist.
+
+Martins Entscheidung: offen
+
+---
+
+**105 · Qualitätsstandard · neue Erkenntnis (eskalierte Sitzungssichtbarkeitsgrenze)**
+
+Befund: Die seit dem zehnten Prüflauf dokumentierte technische Grenze („keine aktuelle Sitzung vorhanden → keine Aussage über den deployten Stand möglich") betraf bisher vereinzelte Einzelfälle (Befund 6/17, 91). In diesem Lauf sind vier von fünf geprüften Arbeitsergebnissen (Arthur, Alva, Alain, Jovis) ohne zugehörige sichtbare Sitzung entstanden – nur Konstantins Sitzung war einsehbar. Ich schlage vor, diesen quantitativen Sprung ausdrücklich in der Qualitätsstandard-Note zu vermerken: Wird die fehlende Sitzungsabdeckung zum Regelfall statt zur Ausnahme, sollte geprüft werden (durch Martin, nicht durch mich – ich habe keinen Einblick in die zugrundeliegende Sitzungsinfrastruktur), ob sich die Arbeitsweise der Company-KIs technisch verändert hat (z. B. andere Ausführungsumgebung, zusammengefasste/umbenannte Sitzungen) oder ob es sich um eine vorübergehende Lücke meines Einsichtswerkzeugs handelt. Bis zur Klärung bewerte ich Ergebnisse ohne sichtbare Quellsitzung weiterhin ausschließlich anhand der Datei selbst, ohne daraus einen Verhaltensbefund gegen die jeweilige Company-KI abzuleiten.
+
+Martins Entscheidung: –
+
+---
+
+**106 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt den lokalen Branch 1 Commit vor „origin/main" (zuletzt „vault backup: 2026-08-22 19:02:28") – bitte pushen. Die `index.lock`-Sperre aus Befund 94 ist behoben (Datei nicht mehr vorhanden). Die Zahl unversionierter Bilddateien ist seit Befund 94 (vier) auf zwölf gewachsen (u. a. weiterhin „CH-004-Friedrich-002-Jurybegründung.pdf", das in Befund 83 behandelte, weiterhin fehlerhafte Master-Template) – die neu hinzugekommenen Dateien tragen alle denselben Namen wie bereits vorhandene, unterscheiden sich aber in der Unicode-Normalisierung des Dateinamens (z. B. „Lächeln" als vorkomponiertes vs. zerlegtes ä), vermutlich ein iCloud-Synchronisationsartefakt, keine inhaltlich neuen Grafiken. Keine Character Books oder Prüfnotizen betroffen.
+
+Mit diesem Lauf ändere ich zusätzlich „Prüfprotokoll Ingrid.md" und „Qualitätsstandard.md" – bitte nach dem nächsten Commit ebenfalls pushen.
+
+Martins Entscheidung: –
+
+---
+
+**107 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 83/99 (Friedrich, Tippfehler „von Friednich" im Master-Template „CH-004-Friedrich-002-Jurybegründung.pdf" und in zwei bereits ausgelieferten Grafiken) weiterhin offen – Template-Datei unverändert (Zeitstempel identisch zum letzten Lauf), keine neue Friedrich-Sitzung seither. Die dort gestellte Frage (Zugriff auf die Ursprungs-Bearbeitungsdatei, falls vorhanden) bleibt unbeantwortet. Neu aus diesem Lauf offen: Befund 103 (Alain, Rückverfolgbarkeit Zeile 58) und Befund 104 (Jovis, CD-001-Wortmarke und Signalfarben).
+
+Martins Entscheidung: –
+
+---
+
+*Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
+
 ## Verknüpfungen
 
 - [[CH-010 Ingrid]]
