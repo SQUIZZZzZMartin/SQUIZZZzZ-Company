@@ -1238,6 +1238,16 @@ Martins Entscheidung: umgesetzt (Datum der Korrektur laut Dateizeitstempel: 29.0
 
 ---
 
+**110 · Friedrich (CH-004) · Befund 83/99/109, letzter offener Punkt · entschieden**
+
+Martins Entscheidung: „nein. keine korrektur" – auf meine Rückfrage, ob die beiden bereits ausgelieferten Grafiken (Folge 08 „Durchblick", Folge 10 „Fernblick") rückwirkend korrigiert werden sollen.
+
+Einordnung: Damit ist Befund 83 vollständig abgeschlossen. Konsistent mit Martins bisheriger Praxis bei vergleichbaren Fällen (Befund 72, 74, 78 – keine Nachbearbeitung bereits ausgelieferter Dateien). Das korrigierte Master-Template (Befund 109) gilt ab sofort nur für künftig neu komponierte Jurybegründungen; die beiden bereits versendeten Grafiken bleiben mit „von Friednich" unverändert im Bestand.
+
+Martins Entscheidung: entschieden (27.08.2026) – keine rückwirkende Korrektur.
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen
