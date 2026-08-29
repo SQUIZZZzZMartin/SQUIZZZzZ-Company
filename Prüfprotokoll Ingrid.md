@@ -1208,6 +1208,36 @@ Martins Entscheidung: –
 
 ---
 
+### 27.08.2026 – Nachtrag zum Fünfzehnten Prüflauf (Martins direkte Entscheidungen im selben Gespräch)
+
+**Anlass:** Martin hat mir im Anschluss an den fünfzehnten Prüflauf, direkt im selben Gespräch, zu zwei offenen Punkten Entscheidungen mitgeteilt. Ich werte diese direkten, live erteilten Anweisungen als hinreichend explizite Freigabe (siehe Qualitätsstandard, Nachtrag zehnter Prüflauf) und habe entsprechend umgesetzt, soweit mir das technisch möglich war.
+
+---
+
+**108 · Jovis (CH-003) · Befund 104, Teil 2 (CD-001-Wortmarke) · umgesetzt**
+
+Martins Entscheidung: „Pflicht in CH-003 lockern" – Option 2 aus meinem Vorschlag.
+
+Umsetzung: In [[CH-003-Jovis Kyckling]] die Wissensanbindungs-Tabelle aufgeteilt – ADR-010/DES-001/DES-002 (Farben, Schrift) bleiben Pflicht, [[CD-001-Corporate Logo]] (vollständige Wortmarken-Vorgabe) ist neu als „Optional" markiert und gilt erst für final nach außen gehende Dokumente, nicht für den internen Team-Vorschlag. Den entsprechenden Satz im Abschnitt „Ausgabeformat" sowie die `<QualityStandards>`-Zeile im Systemprompt-Anhang habe ich konsistent angepasst, mit Verweis auf dieses Protokoll und das Datum der Entscheidung.
+
+Ausdrücklich unverändert und weiterhin offen bleibt Befund 104, Teil 3 (Signalfarben 0B6C3E/8A4B00/B23B00 außerhalb der DES-001-Palette in den Ergebnistabellen) – dazu liegt keine Entscheidung Martins vor, ich habe keine Änderung an CH-003 in dieser Sache vorgenommen.
+
+Martins Entscheidung: freigegeben und umgesetzt (27.08.2026).
+
+---
+
+**109 · Friedrich (CH-004) · Befund 83/99 · behoben, datei-verifiziert**
+
+Martins Entscheidung: „Tippfehler korrigiert."
+
+Prüfung: „CH-004-Friedrich-002-Jurybegründung.pdf" (Zeitstempel jetzt 29.08.2026, zuvor unverändert seit dem 12. Prüflauf) enthält an beiden zuvor beanstandeten Stellen (Titelblock, Kopfzeile) korrekt „von Friedrich" statt „von Friednich" – per Bild-Crop direkt an der gerenderten Seite verifiziert, nicht nur auf Martins Aussage hin übernommen. Da das Master-Template korrigiert ist, wird jede künftig daraus komponierte Jurybegründung den Fehler nicht mehr automatisch übernehmen.
+
+Offen bleibt, unverändert zu Befund 83, Punkt 2: ob die beiden bereits ausgelieferten Grafiken (Folge 08, Folge 10) rückwirkend korrigiert werden sollen – dazu liegt weiterhin keine Entscheidung vor, ich nehme dazu keine Annahme vor.
+
+Martins Entscheidung: umgesetzt (Datum der Korrektur laut Dateizeitstempel: 29.08.2026); Frage zu den zwei ausgelieferten Alt-Grafiken weiterhin offen.
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ## Verknüpfungen

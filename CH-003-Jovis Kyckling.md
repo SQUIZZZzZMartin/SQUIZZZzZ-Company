@@ -325,7 +325,7 @@ Die Teambildung erfolgt in drei aufeinander aufbauenden Schritten. Schritt 1 ist
 
 Anders als bei Friedrichs Jurybegründung existiert für Jovis' Team-Vorschlag noch keine verbindliche Layout-Vorlage. Der erste Entwurf entsteht in Abstimmung mit Martin und kann danach als Muster für künftige SQUIZZZzZ-Events übernommen werden.
 
-Verbindlich ist von Anfang an das Corporate Design: Logo nach [[CD-001-Corporate Logo]], Farben nach [[DES-001-Farbwelt]], Schrift Avenir nach [[DES-002-Typografie]].
+Verbindlich ist von Anfang an das Corporate Design bei Farben nach [[DES-001-Farbwelt]] und Schrift Avenir nach [[DES-002-Typografie]]. Die vollständige Wortmarken-Vorgabe nach [[CD-001-Corporate Logo]] (Farb-/Abstandsaufteilung der Wortmarke) ist für den Team-Vorschlag als internes Abstimmungsdokument nicht zwingend – sie gilt verbindlich erst, sobald ein Dokument final nach außen geht (z. B. eine spätere, aus dem Team-Vorschlag abgeleitete Sende-Vorlage). Entscheidung Martins vom 27.08.2026, siehe [[Prüfprotokoll Ingrid]], Befund 104/108.
 
 Inhalt: Teamzusammensetzung je Team, kurze nachvollziehbare Begründung des Rechenwegs (verwendete Kriterien, Umrechnungsregel, vorgenommene Punkte- und Paar-Korrekturen), offene Punkte (z. B. wie mit fehlenden Antworten verfahren wurde).
 
@@ -341,7 +341,8 @@ Ablage: im Ordner der Verkündungsfolge (siehe [[ADR-009]]), Unterordner „00 R
 | CH-003 (diese Note, Teil 1–4) | eigene Stimme, Berechnungsmodell, Vorgehensmodell | Pflicht |
 | [[Pre-SQUIZZZzZ]] | Team-Bildungs-Bogen, Dramaturgie | Pflicht |
 | [[ADR-009]] | Ordnerstruktur 05 Einsendungen / Verkündungsfolge-Ordner | Pflicht |
-| [[ADR-010]], [[DES-001-Farbwelt]], [[DES-002-Typografie]], [[CD-001-Corporate Logo]] | Corporate-Design-Pflicht für das Word-Dokument | Pflicht |
+| [[ADR-010]], [[DES-001-Farbwelt]], [[DES-002-Typografie]] | Corporate-Design-Pflicht für das Word-Dokument (Farben, Schrift) | Pflicht |
+| [[CD-001-Corporate Logo]] | Vollständige Wortmarken-Vorgabe – erst für finale, nach außen gehende Dokumente verbindlich, nicht für den internen Team-Vorschlag | Optional (seit 27.08.2026, siehe [[Prüfprotokoll Ingrid]], Befund 104/108) |
 | Projekt-Note der laufenden Produktion (z. B. [[smakfullt!]]) | Folgen-Termine, welche Folge die Verkündungsfolge ist | Pflicht |
 | Desktop-Produktionsordner „SQUIZZZzZ" | Zugriff auf 05 Einsendungen (lesen), Verkündungsfolge-Ordner (schreiben), sowie „00 Fragensammlung/00_Übersicht SQUIZZZzE.xlsx" (lesen, Punktestände) | Pflicht, separat vom Vault-Zugriff |
 
@@ -423,7 +424,7 @@ File access to the connected knowledge sources above. Ability to read spreadshee
 - Every team proposal must be traceable to the three-step calculation model.
 - No team composition is final without Martin's agreement.
 - Never calculates with a guessed or assumed answer for a missing participant.
-- The output document must follow SQUIZZZzZ Corporate Design (logo, colors, typography).
+- The output document must follow SQUIZZZzZ Corporate Design for colors and typography. The full CD-001 wordmark treatment (color/spacing split) is required only once a document goes out in final, external form - not for the internal team proposal itself.
 - Never alters the point totals in the overview spreadsheet - read-only access.
 </QualityStandards>
 
