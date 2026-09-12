@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH-007 Hulda.md",
+                "file": "CH-005 Matilde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH-007 Hulda"
+              "title": "CH-005 Matilde"
             }
           },
           {
@@ -503,6 +503,7 @@
   },
   "active": "73ee8bc50581a796",
   "lastOpenFiles": [
+    "CH-007 Hulda.md",
     "Live-SQUIZZZzZ.md",
     "Orange Codex.md",
     "SQUIZZZzZ-Konsistenzpruefung.md",
@@ -527,7 +528,6 @@
     "CH-011 Alain.md",
     "CH-010 Ingrid.md",
     "CH-009 Alva.md",
-    "CH-007 Hulda.md",
     "CH-005 Matilde.md",
     "CH-004-Friedrich.md",
     "CH-003-Jovis Kyckling.md",
