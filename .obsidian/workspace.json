@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orange Codex.md",
+                "file": "Live-SQUIZZZzZ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orange Codex"
+              "title": "Live-SQUIZZZzZ"
             }
           },
           {
@@ -503,6 +503,7 @@
   },
   "active": "73ee8bc50581a796",
   "lastOpenFiles": [
+    "Orange Codex.md",
     "SQUIZZZzZ-Konsistenzpruefung.md",
     "SQUIZZZzZ Welt.md",
     "SQUIZZZzZ Knowledge.md",
@@ -538,7 +539,6 @@
     "ADR-002.md",
     "ADR-001.md",
     "ADR-000.md",
-    "ADR-010.md",
     "Zugriffsbedarfsanalyse.pdf",
     "Grafiken/CH-004-Friedrich/CH-004-Friedrich-002-Jurybegründung.pdf",
     "Grafiken/CH-004-Friedrich/Friedrichs Jurybegründung.pdf",
