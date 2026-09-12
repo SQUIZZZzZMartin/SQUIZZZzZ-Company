@@ -19,8 +19,8 @@ Es dient als zentrale Übersicht über alle Darsteller und Company-KIs. Detailli
 | CH-004 | Darsteller | Friedrich | 🟢 Aktiv | v1.1 | v1.1 | Hüter der Kreativität; bewertet als Company-KI-Erweiterung Mitmachaufgaben-Einsendungen |
 | CH-005 | Company-KI | Matilde | 🟢 Aktiv | v1.0 | v1.0 | KI-Architektin und Leiterin der Personalabteilung für KI-Mitarbeiter |
 | CH-006 | Company-KI | Konstantin | 🟢 Aktiv | v1.0 | v1.0 | Chronist – recherchiert historische Ereignisse für die Pre-SQUIZZZzZ-Produktion |
-| CH-007 | Company-KI | Hulda | 🟢 Aktiv | v1.0 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events |
-| CH-008 | Company-KI | Arthur | 🟢 Aktiv | v1.1 | v1.0 | Ideen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen und Mitmachaufgaben für Pre-SQUIZZZzZ-Folgen |
+| CH-007 | Company-KI | Hulda | 🟢 Aktiv | v1.1 | v1.0 | Produktionsplanerin – zeitliche/strukturelle Planung und Sparringspartnerin für SQUIZZZzZ-Events, legt seit 12.09.2026 auch den projekteigenen Live-SQUIZZZzZ-Ordner standardmäßig an |
+| CH-008 | Company-KI | Arthur | 🟢 Aktiv | v2.0 | v1.1 | Ideen-Schmied – entwickelt gemeinsam mit Martin Rätselfragen/Mitmachaufgaben für Pre-SQUIZZZzZ sowie seit 12.09.2026 Spielrunden-Ideen und die Abend-Detailplanung für Live-SQUIZZZzZ; pflegt zudem die Fragensammlung-Übersicht |
 | CH-009 | Company-KI | Alva | 🟢 Aktiv | v1.1 | v1.0 | Texterin – verfasst vollständige Pre-SQUIZZZzZ-Sprechertexte im Stil von misterQ/Lissi, auf Basis von Arthurs Fragen/Mitmachaufgaben |
 | CH-010 | Company-KI | Ingrid | 🟢 Aktiv | v1.0 | v1.0 | Qualitäts-Coach – prüft täglich automatisiert Skript-Konformität und Output-Qualität aller aktiven Company-KIs, schlägt Verbesserungen inkl. Skriptänderungen zur Freigabe vor |
 | CH-011 | Company-KI | Alain | 🟢 Aktiv | v1.0 | v1.0 | Taschenscout – recherchiert echte Designer-Handtaschen für Lissi, sichert Produktbild und pflegt die Taschensammlung |
