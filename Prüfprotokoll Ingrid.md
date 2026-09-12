@@ -1352,6 +1352,32 @@ Martins Entscheidung: –
 
 ---
 
+---
+
+### 12.09.2026 – Nachtrag (direkte Anweisung Martins, außerhalb des regulären Prüflaufs)
+
+**Anlass:** Martin hat mich direkt angewiesen: „Kannst Du bitte bei Konstantin ändern, dass er nicht mehr nach Fotos sucht und versucht, die runterzuladen. Er kann es nicht und muss es auch nicht." Gemäß der seit dem zehnten/vierzehnten Prüflauf etablierten Regel (siehe [[Qualitätsstandard]], Nachtrag zehnter Prüflauf und Nachtrag vierzehnter Prüflauf) gilt eine direkte, live erteilte Zustimmung/Anweisung Martins als hinreichende Freigabe für eine Character-Book-Änderung – ich habe daher direkt umgesetzt, ohne den regulären Vorschlag-und-Warten-Zyklus.
+
+---
+
+**120 · Konstantin (CH-006) · auf direkte Anweisung Martins · umgesetzt**
+
+Befund/Hintergrund: CH-006 verlangte bislang (seit Befund-Ergänzung 25.07.2026), dass Konstantin für jedes Ereignis mit passendem Foto auf der Quellseite einen Link zu dieser Seite ergänzt, ohne das Bild selbst zu laden. In der Praxis blieb der zugrundeliegende Bildzugriff jedoch durchgehend blockiert (curl liefert HTTP 403 vom Proxy, web_fetch auf Bild-URLs wird mit „nicht im Provenance-Set" abgelehnt) – dokumentiert seit mindestens 25.07.2026, zuletzt bestätigt im Nachtrag zum Sechzehnten Prüflauf (Befund 118, Recherche 11.09.). Martin hat entschieden, diesen Zwischenschritt ersatzlos zu streichen, statt ihn weiter technisch zu verfolgen.
+
+Umsetzung: In [[CH-006 Konstantin]] geändert: „Abgrenzung" (kein Bild-Link mehr, nur noch „lädt/kodiert/speichert keine Fotos" ersetzt durch vollständigen Verzicht auf Fotosuche und -verlinkung), „Rechercheprozess" Schritt 5 (Foto-Link-Satz gestrichen, durch Verzichtsformulierung ersetzt), Systemprompt-Anhang durchgängig (`<Tasks>`, `<Workflow>` Schritt 3, `<QualityStandards>`, `<Restrictions>`) – Konstantin sucht, verlinkt, lädt und verarbeitet ab sofort keinerlei Fotos oder Bilder mehr; das Rechercheergebnis besteht ausschließlich aus Text und Quellenangaben. Keine Versionsänderung in [[CH-000-Character- und KI-Verzeichnis]] (bleibt Prompt/Wissen v1.0), konsistent mit der bisherigen Praxis, dass reine Konformitäts-/Umfangskorrekturen keinen Versionssprung auslösen.
+
+Nicht geändert, bewusst unberührt: [[Chronist-Quellenregister]] bleibt als historisches Protokoll der Bildzugriffs-Blockade unverändert – die dortigen Einträge dokumentieren einen inzwischen abgeschlossenen Zustand, keine laufende Anweisung.
+
+Für den nächsten automatischen Lauf (Folge 15, „Tunnelblick", 18.09.2026) sollte gezielt geprüft werden, ob die Änderung im deployten Cowork-Projekt bereits wirkt – laut Qualitätsstandard-Note (Nachtrag elfter Prüflauf) muss nur der Systemprompt-Anhang manuell nachgezogen werden, das geschieht nicht automatisch mit dieser Vault-Änderung.
+
+Martins Entscheidung: umgesetzt (12.09.2026, direkte Anweisung).
+
+---
+
+*Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
+
+---
+
 ## Verknüpfungen
 
 - [[CH-010 Ingrid]]
