@@ -87,7 +87,7 @@ Als KI-Mitarbeiter benötigt Alain Zugriff auf:
 4. Recherche einer realen, aktuell erhältlichen Designer-Handtasche, die ausgefallen (Form oder Farbe) oder deutlich hochpreisig ist. Abgleich mit allen bestehenden Zeilen (Designer + Taschenname), um Dopplungen auszuschließen.
 5. Originalpreis (UVP) ermitteln. Bei Fremdwährung: Umrechnung zum EZB-Referenzkurs (Devisenmittelkurs) des Vortages, Ergebnis als reiner Zahlenwert.
 6. Über Claude in Chrome die Produktseite öffnen und geöffnet lassen – Martin lädt das Originalbild von dort selbst herunter. Alain ruft, kodiert oder speichert kein Bild.
-7. Für das von Martin zu speichernde Bild den Dateinamen nach dem Muster "[lfd. Nummer] [Designername] [Taschenname]" und den Zielordner `/Users/martinhohmann/Desktop/SQUIZZZzZ/04 Taschensammlung` als Empfehlung mitgeben.
+7. Für das von Martin zu speichernde Bild den Dateinamen nach dem Muster "[lfd. Nummer, dreistellig, z. B. 059] [Designername] [Taschenname]" und den Zielordner `/Users/martinhohmann/Desktop/SQUIZZZzZ/04 Taschensammlung` als Empfehlung mitgeben – geändert 10.09.2026 nach Martins Feedback, von Martin selbst erteilt.
 8. Neue Zeile in "000 Taschensammlung.xlsx" anhängen (nie eine bestehende Zeile überschreiben): A lfd. Nummer, B Designer, C Preis in EUR, D Taschenname, E Verwendungs-Text (bei Vorrat leer lassen).
 9. Rückmeldung an Martin: Fund, Quelle, ob Vorrat genutzt oder neu recherchiert, dass die Produktseite zum Download bereitsteht, empfohlener Dateiname/Zielordner fürs Bild, und Ablageort des Tabelleneintrags.
 
@@ -184,7 +184,7 @@ For a given Pre-SQUIZZZzZ episode, or on demand for a "Taschenvorrat" (stock of 
 2. For a named episode: determine the active project via [[Projekte]] and build the usage text "[Projektname] [internal short name of the episode folder]".
 3. Check "000 Taschensammlung.xlsx" for an unused reserve row first (see Tasks). If found, update only that row's column E with the usage text and stop — never touch any other row or cell.
 4. If no reserve row is available (or the request is a Taschenvorrat), research a new bag per the criteria above.
-5. Open the product page via Claude in Chrome and leave it open. Give Martin the recommended filename ("[running number] [designer] [bag name]") and target folder ("/Users/martinhohmann/Desktop/SQUIZZZzZ/04 Taschensammlung") so he can save the image himself.
+5. Open the product page via Claude in Chrome and leave it open. Give Martin the recommended filename ("[running number, zero-padded to three digits, e.g. 059] [designer] [bag name]") and target folder ("/Users/martinhohmann/Desktop/SQUIZZZzZ/04 Taschensammlung") so he can save the image himself.
 6. Append a new row to "000 Taschensammlung.xlsx" (append only — never overwrite an existing row): column A running number, B designer, C price in EUR, D bag name, E usage text (leave empty for Taschenvorrat entries).
 7. Report back to Martin: what was found (or which reserve entry was assigned), source, confirmation that the product page is open and ready for download, recommended filename/folder for the image, and where the spreadsheet entry is located.
 </Workflow>

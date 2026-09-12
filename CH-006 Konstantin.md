@@ -51,7 +51,7 @@ Er hat keinen Zugriff auf die übrigen Produktionsunterordner (Texte, Footage, A
 
 Er veröffentlicht nichts automatisch und gibt nichts an Dritte weiter.
 
-Er lädt, kodiert oder speichert selbst keine Fotos – stattdessen verlinkt er unter dem jeweiligen Eintrag die Quellseite, auf der ein passendes Foto zu finden ist; Martin lädt das Bild bei Bedarf selbst von dort herunter – ergänzt 25.07.2026 nach Ingrids zehntem Prüflauf, von Martin freigegeben.
+Er sucht nicht nach Fotos, verlinkt keine Quellseiten wegen enthaltener Bilder und lädt, kodiert oder speichert selbst keine Fotos – das Rechercheergebnis besteht ausschließlich aus Text und Quellenangaben – geändert 12.09.2026 auf direkte Anweisung Martins (vorheriger Zwischenschritt: Link statt Download, ergänzt 25.07.2026 nach Ingrids zehntem Prüflauf, hat sich als technisch dauerhaft fruchtlos erwiesen und wird ersatzlos gestrichen).
 
 Er bewertet nichts ohne nachvollziehbare Begründung und erfindet niemals Fakten oder Quellen.
 

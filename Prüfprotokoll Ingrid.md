@@ -1250,6 +1250,108 @@ Martins Entscheidung: entschieden (27.08.2026) – keine rückwirkende Korrektur
 
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
+---
+
+### 09.09.2026 – Sechzehnter Prüflauf
+
+**Geprüfter Zeitraum:** Seit dem Fünfzehnten Prüflauf (27.08.2026, Quellsitzung „Ingrid daily qa review", lokale ID 966329f1-10f3-4b77-b8b1-5bc0cbf5943c). Zwischen diesem und dem vorherigen Lauf liegen 13 Tage – deutlich mehr als der bisher übliche Rhythmus; ich vermerke das rein als Fakt zur Einordnung des Prüfzeitraums, ohne daraus einen Befund gegen eine Company-KI abzuleiten. Sitzungsliste gesichtet (80 Sitzungen insgesamt, die 50 zuletzt aktiven im Detail geprüft). Produktionsordner auf Dateien mit Zeitstempel nach dem 27.08.2026, 19:00 Uhr geprüft (vollständiger Abgleich, nicht nur Stichprobe).
+
+Mit SQUIZZZzZ-Company-KI-Bezug und neu seit dem letzten Lauf: „Chronist freitag recherche" (Konstantin, zweimal – Folge 13 „Urlaubsblick", abgeschlossen; Folge 14 „Rundblick", zum Zeitpunkt dieses Laufs noch aktiv laufend). Alle anderen seither aktiven Sitzungen mit auf den ersten Blick neuem Titel („Las Bermudas webpage entry", „Mission Game I", „Aufgaben und Befindlichkeit", „Gehacktes E-Mail-Konto", „Jonas", mehrere weitere „Lasse daily watchlist check") habe ich einzeln geprüft und als außerhalb meines Prüfbereichs eingeordnet (siehe Befund 113/114). Die übrigen in der Sitzungsliste hoch einsortierten Titel („Sonderfolge Teambildung Text", „Produktionsplanung und Teams", „Teambildung Kriterien", „Jovis KI Teamzusammensetzung", „Menüpunkte Bedeutung" u. a.) sind bei genauer Prüfung keine neue Aktivität, sondern bereits im Vierzehnten Prüflauf unter Befund 87/88 gewürdigte Alt-Sitzungen, die in der nach Aktivität sortierten Liste lediglich weit oben erscheinen, ohne seither verändert worden zu sein – ich habe das anhand der Sitzungsinhalte selbst (nicht nur der Listenposition) verifiziert, um keinen Doppel-Befund zu erzeugen.
+
+---
+
+**111 · Konstantin (CH-006) · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Chronist-Recherche 04.09.docx" (Folge 13, „Urlaubsblick") entspricht datei-verifiziert durchgängig der Namenskonvention, verwendet ausschließlich Avenir (Black/Book/Medium/Heavy) und die verbindlichen SQUIZZZzZ-Farben (FF8E00, 1921B1, 0B106C, 008A47, plus neutrale Grautöne 222222/444444 für Fließtext). Reiht sich in die Serie bereits bestätigter positiver Re-Checks ein (u. a. Befund 59, 79, 89, 100). Bei einem Quellenkonflikt zum Geburtsdatum von Antonius Mathijsen (Journal21: 4. September 1805; mehrere niederländische Quellen: 4. November 1805) wurde der Kandidat mangels Mehrheitsbeleg konsequent nicht übernommen statt geraten – konform zum Grundsatz „Nichts erfinden". [[Chronist-Quellenregister]] wurde mit Datum 29.08.2026 aktualisiert, inklusive einer neu aufgenommenen und begründeten Quelle (Aargauer Zeitung/NZZ zum Swissair-Absturz Dürrenäsch). Die im Sitzungsbericht erwähnte „Urlaubsblick"-Sonderfolge ohne reguläre Rätselfrage/Mitmachaufgabe ist laut [[smakfullt!]]-Projektnote geplant und keine Lücke in Arthurs oder Alvas Arbeit.
+
+Martins Entscheidung: –
+
+---
+
+**112 · Konstantin (CH-006) · technisch, informativ**
+
+Befund: Laut Sitzungsbericht und Quellenregister-Eintrag war der Netzwerkzugriff diesmal stärker eingeschränkt als in den Vorläufen: Nicht nur Bild-, sondern erstmals auch Text-Domains (u. a. en.wikipedia.org, britannica.com direkt) wurden von der Netzwerk-Allowlist blockiert; Konstantin ist entsprechend vollständig auf WebSearch-Zusammenfassungen statt Direktabruf ausgewichen. Das wurde transparent im Quellenregister dokumentiert, nicht verschwiegen oder notdürftig umgangen – konform zum in Befund 24/64 festgehaltenen Grundsatz, dass Sandbox-/Netzwerkgrenzen eine bekannte, wiederkehrende Kategorie sind und transparente Benennung als vorbildlich gilt. Ich vermerke die Verschärfung rein informativ, da nur Martin Einblick in die zugrundeliegende Netzwerk-/Sandbox-Konfiguration hat; sollte sich der Trend fortsetzen, wird WebSearch faktisch zur einzigen verbleibenden Quelle für den Chronisten.
+
+Martins Entscheidung: –
+
+---
+
+**113 · Kein Company-KI / außerhalb meines Prüfbereichs · kein neuer Befund**
+
+Befund: Folgende seit dem letzten Lauf aktive Sitzungen sind keine SQUIZZZzZ-Company-KI-Arbeit und fallen konsistent mit der seit dem neunten Prüflauf dokumentierten Abgrenzung nicht in meinen Prüfbereich: „Las Bermudas webpage entry" (private Reisebuchung), „Mission Game I" (Juniors-Day-Geschäftsvorhaben Martins, bereits mehrfach als privat/getrennt eingeordnet), „Aufgaben und Befindlichkeit" (Privé-Vault-Inhalt, dortiger Push-Hinweis betrifft das Privé-Repository, nicht dieses), „Gehacktes E-Mail-Konto" (allgemeine Sicherheitsberatung ohne SQUIZZZzZ-Bezug) sowie mehrere weitere Instanzen „Lasse daily watchlist check" (Lasse-Privé-Kontext, nicht in [[CH-000-Character- und KI-Verzeichnis]] geführt). Kein Befund in meinem Sinne, nur zur Vollständigkeit vermerkt.
+
+Martins Entscheidung: –
+
+---
+
+**114 · Jonas Privé · informativ, außerhalb meines Prüfbereichs (Onboarding, Cross-Vault)**
+
+Befund: In der Sitzung „Jonas" hat Matilde Jonas Privé (Cross-Vault-Ausnahme laut [[CH-000-Character- und KI-Verzeichnis]], eigenes Character Book in der Privé-Vault) aktiviert. Onboarding ist ausdrücklich Matildes Zuständigkeit, nicht meine, und die Aktivierung fand auf der Privé-Seite statt. Ich vermerke dies rein informativ, wie im Register vorgesehen, für den Fall, dass künftig SQUIZZZzZ-seitige Sitzungen von ihm auftauchen – bislang ist das nicht der Fall.
+
+Martins Entscheidung: –
+
+---
+
+**115 · Konstantin (CH-006) · Folge 14 „Rundblick" · noch laufend, in diesem Lauf nicht bewertet**
+
+Befund: Die automatische Sitzung „Chronist freitag recherche" für Folge 14 (11.09.2026, „Rundblick" – laut [[smakfullt!]]-Projektnote die Teamverkündung durch Jovis) war zum Zeitpunkt dieses Laufs noch aktiv (46 Assistant-Turns, zuletzt ein `web_fetch`-Aufruf). Der zugehörige Episodenordner „14 - 11.09.2026 Rundblick" enthält entsprechend noch keine Recherchedatei. Ich bewerte eine laufende, unabgeschlossene Sitzung grundsätzlich nicht vorab (siehe Befund 26) und prüfe das Ergebnis beim nächsten Lauf.
+
+Martins Entscheidung: –
+
+---
+
+**116 · Offene Punkte aus früheren Läufen, unverändert**
+
+Befund: Befund 103 (Alain, Rückverfolgbarkeit Zeile 58 „000 Taschensammlung.xlsx") weiterhin offen – keine neue Alain-Sitzung, keine neue Zeile seit dem letzten Lauf, Datei-Stand unverändert. Befund 104, Teil 3 (Jovis, drei paletten-fremde Signalfarben in den Ergebnistabellen des Team-Vorschlags) weiterhin offen – keine neue Jovis-Sitzung, keine Entscheidung Martins seit der Teil-2-Freigabe (Befund 108). Nur zur Erinnerung vermerkt, kein neuer Handlungsbedarf meinerseits.
+
+Martins Entscheidung: –
+
+---
+
+**117 · Vault-Repository · technisch, informativ**
+
+Befund: `git status` zeigt den lokalen Branch synchron mit „origin/main" bei den Commits (zuletzt „Update Prüfprotokoll Ingrid.md"). Unabhängig davon liegt „smakfullt!.md" mit einer unversionierten Änderung vor (mehrere Episoden-Statuszeilen von 🔴 Offen bzw. 🟡 In Produktion auf 🟢 Versandt aktualisiert, Folgen 12 und 13) – inhaltlich unauffällig, reine Status-Pflege, aber noch nicht committet. Die Zahl unversionierter Bilddateien ist unverändert bei zwölf (dieselben wie in Befund 106, weiterhin vermutlich iCloud-Unicode-Normalisierungsartefakte, u. a. weiterhin das in Befund 109 bereits korrigierte Friedrich-Master-Template als PDF).
+
+Mit diesem Lauf ändere ich zusätzlich „Prüfprotokoll Ingrid.md" – bitte nach dem nächsten Commit auch „smakfullt!.md" und diese Änderung pushen.
+
+Martins Entscheidung: –
+
+---
+
+*Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
+
+---
+
+### 09.09.2026 – Nachtrag zum Sechzehnten Prüflauf (Folge 14 „Rundblick" abgeschlossen)
+
+**Anlass:** Der Sechzehnte Prüflauf (s. o.) vermerkte unter Befund 115, dass Konstantins automatischer Lauf für Folge 14 „Rundblick" (11.09.2026) zum Prüfzeitpunkt noch aktiv war und beim nächsten Lauf bewertet wird. Die Sitzung ist inzwischen abgeschlossen (lokale ID 53e9c4fe-4038-4455-835e-37eecb9c4e0c); ich habe sie sowie die erzeugte Datei direkt geprüft, statt den offenen Punkt unbewertet ins nächste Datum zu schieben. Seit Abschluss des Sechzehnten Prüflaufs sind keine weiteren, bislang ungeprüften Company-KI-Arbeitsergebnisse entstanden – die einzige weitere neue Sitzung im Beobachtungszeitraum („Lasse daily watchlist check") fällt konsistent mit der seit dem neunten Prüflauf dokumentierten Abgrenzung nicht in meinen Prüfbereich (Privé-Kontext, nicht in [[CH-000-Character- und KI-Verzeichnis]] geführt).
+
+---
+
+**118 · Konstantin (CH-006) · Befund 115 · Skript-Konformität und Output-Qualität · bestätigt (positiv)**
+
+Befund: „Chronist-Recherche 11.09.docx" (Folge 14, „Rundblick") liegt korrekt unter `06 Events/Smakfullt!/14 - 11.09.2026 Rundblick/00 Recherche/`. Datei-verifiziert (Dokument-XML direkt geprüft, nicht nur Sitzungsbericht): Dateiname entspricht durchgängig der Namenskonvention „Chronist-Recherche TT.MM.docx", verwendet ausschließlich Avenir (Black/Book/Heavy/Medium) und die verbindlichen SQUIZZZzZ-Farben (FF8E00, 1921B1, 0B106C, 008A47, plus neutrale Grautöne 222222/444444 für Fließtext) – keine Fremdfarben oder Fremdschriften. Reiht sich in die Serie bereits bestätigter positiver Re-Checks ein (u. a. Befund 89, 100, 111). [[Chronist-Quellenregister]] wurde mit Datum 11.09.2026 aktualisiert, inklusive einer neu aufgenommenen und begründeten Quelle (Computer History Museum, Charles-Geschke-Eintrag) und einem transparenten technischen Hinweis: Text-/HTML-Direktabruf funktionierte diesmal wieder uneingeschränkt, der Bildabruf bleibt weiterhin isoliert blockiert (identisches Muster wie seit dem 25.07.2026) – korrekt weiterhin nur als Quellenlink statt eingebettetem Foto gelöst.
+
+Bemerkenswert und positiv zu werten: Konstantin hat die dem 11. September historisch stark zugeordneten Gewaltereignisse (9/11 2001, Mountain-Meadows-Massaker 1857, Darmstädter Brandnacht 1944, Chile-Putsch 1973, Benghazi-Anschlag 2012) bewusst nicht in die Auswahl aufgenommen und dies im Dokument sowie im Sitzungsbericht offen begründet („passt inhaltlich nicht zum unterhaltsamen SQUIZZZzZ-Format"), mit ausdrücklicher Einladung an Martin, das anders zu bewerten. CH-006 schreibt keine Themenausschlüsse vor, sondern nur die fünf Bewertungskriterien (u. a. „Bildwirkung"); die Entscheidung liegt damit innerhalb des dokumentierten Ermessensspielraums und wurde – wie von der Qualitätsstandard-Note bereits für andere Grenzfälle gefordert – transparent statt stillschweigend getroffen.
+
+Einordnung: Befund 115 ist damit abgeschlossen, kein Korrekturbedarf.
+
+Martins Entscheidung: –
+
+---
+
+**119 · Vault-Repository · technisch, informativ**
+
+Befund: Seit dem Sechzehnten Prüflauf keine Änderung am Repository-Status: weiterhin synchron mit `origin/main` bei den Commits, „Chronist-Quellenregister.md" und „smakfullt!.md" weiterhin unstaged (Letzteres inzwischen mit einer zusätzlichen Statusänderung: Folgen 12 und 13 stehen jetzt ebenfalls auf 🟢 Versandt), zwölf altbekannte Bilddateien weiterhin unversioniert (vermutlich iCloud-Unicode-Normalisierungsartefakte, siehe Befund 106/117). Mit diesem Nachtrag ändere ich zusätzlich „Prüfprotokoll Ingrid.md" – bitte nach dem nächsten Commit auch dies sowie die bereits aus dem Sechzehnten Prüflauf offene Änderung an „smakfullt!.md" pushen.
+
+Martins Entscheidung: –
+
+---
+
+*Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
+
+---
+
 ## Verknüpfungen
 
 - [[CH-010 Ingrid]]
