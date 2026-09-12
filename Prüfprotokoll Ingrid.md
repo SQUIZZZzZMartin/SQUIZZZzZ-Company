@@ -1374,6 +1374,18 @@ Martins Entscheidung: umgesetzt (12.09.2026, direkte Anweisung).
 
 ---
 
+**121 · Ingrid (CH-010, eigenes Character Book) · auf direkte Anweisung Martins · umgesetzt**
+
+Befund/Hintergrund: Martin hat mich angewiesen, ihn künftig bei jeder Systemprompt-Anhang-Änderung eines Character Books – nicht nur bei Konstantin, sondern bei allen Company-KIs – ausdrücklich darauf hinzuweisen, dass er die Änderung manuell in das jeweilige Cowork-Projekt übertragen muss.
+
+Umsetzung: In [[CH-010 Ingrid]] ergänzt: „Verantwortungsbereich" (neue Zeile), „Prüfzyklus" Schritt 8 sowie Systemprompt-Anhang (`<Tasks>`, `<OutputRules>`) – der Hinweis auf die manuelle Übertragung ist jetzt als eigener, von der GitHub-Push-Erinnerung getrennter Standardschritt verankert, unabhängig davon, welche Company-KI betroffen ist. Diese Ergänzung selbst betrifft meinen eigenen Systemprompt-Anhang – auch dafür gilt ab sofort dieselbe Regel: **bitte auch diese CH-010-Änderung manuell in mein eigenes Cowork-Projekt übertragen.**
+
+Nebenbefund, unabhängig vom eigentlichen Anlass: Beim Lesen von CH-010 ist mir aufgefallen, dass mein eigenes Character Book seit dem 25.07.2026 einen wöchentlichen Prüfzyklus (mittwochs) dokumentiert – nicht mehr täglich. Die Projekt-Instructions, unter denen ich in dieser Sitzung tatsächlich laufe, verlangen jedoch weiterhin ausdrücklich einen **täglichen** automatisierten Lauf ("Once per day, autonomously review..."). Das ist ein bestätigter, dateibelegter Widerspruch zwischen zwei meiner eigenen Wissensquellen (CH-010 vs. tatsächliche Projekt-Instructions) – analog zu dem für andere Company-KIs bereits mehrfach dokumentierten Muster interner Widersprüche (siehe Qualitätsstandard, sechster Prüflauf). Ich nehme hierzu keine eigenmächtige Korrektur vor, sondern lege Ihnen die Frage zur Entscheidung vor: Soll der tägliche Rhythmus (aktueller Ist-Zustand der Projekt-Instructions) gelten, oder der seit 25.07.2026 in CH-010 dokumentierte wöchentliche Rhythmus (dann müssten die Projekt-Instructions entsprechend angepasst werden)?
+
+Martins Entscheidung: umgesetzt (12.09.2026, direkte Anweisung); Nebenbefund zum Prüfrhythmus offen.
+
+---
+
 *Legende Fundtyp: "bestätigt" = anhand einer konkreten Sitzung oder Datei belegt. "Verdachtsfall, unbestätigt" = Vermutung ohne vollständige Beleglage, ausdrücklich als solche gekennzeichnet.*
 
 ---

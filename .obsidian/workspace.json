@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH-006 Konstantin.md",
+                "file": "Orange Codex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH-006 Konstantin"
+              "title": "Orange Codex"
             }
           },
           {
@@ -371,7 +371,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.80078125
   },
   "right": {
     "id": "b378ef0d66ca9f43",
@@ -503,8 +503,13 @@
   },
   "active": "73ee8bc50581a796",
   "lastOpenFiles": [
-    "CH-008 Arthur.md",
     "SQUIZZZzZ-Konsistenzpruefung.md",
+    "SQUIZZZzZ Welt.md",
+    "SQUIZZZzZ Knowledge.md",
+    "Pre-SQUIZZZzZ.md",
+    "Live-SQUIZZZzZ.md",
+    "CH-006 Konstantin.md",
+    "CH-008 Arthur.md",
     "Report SQUIZZZzZ Trefligt att Träffas.md",
     "Trevligt att träffas.md",
     "Pasted image 20260910134901.png",
@@ -522,7 +527,6 @@
     "CH-010 Ingrid.md",
     "CH-009 Alva.md",
     "CH-007 Hulda.md",
-    "CH-006 Konstantin.md",
     "CH-005 Matilde.md",
     "CH-004-Friedrich.md",
     "CH-003-Jovis Kyckling.md",
@@ -530,15 +534,11 @@
     "CH-001-misterQ.md",
     "CD-000-Corporate Design.md",
     "smakfullt!.md",
-    "Pre-SQUIZZZzZ.md",
     "CH-000-Character- und KI-Verzeichnis.md",
     "ADR-002.md",
     "ADR-001.md",
     "ADR-000.md",
     "ADR-010.md",
-    "ADR-006.md",
-    "ADR-005.md",
-    "ADR-003.md",
     "Zugriffsbedarfsanalyse.pdf",
     "Grafiken/CH-004-Friedrich/CH-004-Friedrich-002-Jurybegründung.pdf",
     "Grafiken/CH-004-Friedrich/Friedrichs Jurybegründung.pdf",
