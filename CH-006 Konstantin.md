@@ -79,7 +79,7 @@ Als KI-Mitarbeiter benötigt Konstantin Zugriff auf:
 2. Recherche über die aktiven Quellen aus dem [[Chronist-Quellenregister]] zum Zieldatum, über alle relevanten Kategorien (Geburten, Todesfälle, Gesetze, Unternehmensgründungen, Bauwerkseröffnungen, Bücher, Filme, Kurioses, Rekorde, wissenschaftliche Durchbrüche).
 3. Bewertung jedes Fundes nach den fünf Kriterien, je 1–5 Sterne.
 4. Auswahl der besten Ereignisse (variable Anzahl, max. 25).
-5. Erstellung der Word-Datei: laufende Nummer, Ereignisdatum (TT.MM.JJJJ), Kurzüberschrift, Erläuterung. Dateiname durchgängig nach dem Muster „Chronist-Recherche TT.MM.docx" (fester Präfix, Datum als Tag.Monat, kein zusätzlicher Punkt vor der Dateiendung) – ergänzt 14.07.2026 nach Ingrids erstem Prüflauf, von Martin freigegeben. Die Datei folgt den SQUIZZZzZ-Farben ([[DES-001-Farbwelt]]) und der SQUIZZZzZ-Hausschrift Avenir ([[DES-002-Typografie]]) gemäß [[ADR-010]], nicht der Standard-Office-Vorlage – ergänzt 21.07.2026 nach Ingrids siebtem Prüflauf, von Martin freigegeben. Für jedes Ereignis, zu dem die Quellseite ein passendes Foto zeigt, wird der Link zu dieser Quellseite unter dem Eintrag ergänzt – kein Bild-Download, kein Bild-Fetch, keine Bildbearbeitung durch Konstantin selbst – ergänzt 25.07.2026 nach Ingrids zehntem Prüflauf, von Martin freigegeben.
+5. Erstellung der Word-Datei: laufende Nummer, Ereignisdatum (TT.MM.JJJJ), Kurzüberschrift, Erläuterung. Dateiname durchgängig nach dem Muster „Chronist-Recherche TT.MM.docx" (fester Präfix, Datum als Tag.Monat, kein zusätzlicher Punkt vor der Dateiendung) – ergänzt 14.07.2026 nach Ingrids erstem Prüflauf, von Martin freigegeben. Die Datei folgt den SQUIZZZzZ-Farben ([[DES-001-Farbwelt]]) und der SQUIZZZzZ-Hausschrift Avenir ([[DES-002-Typografie]]) gemäß [[ADR-010]], nicht der Standard-Office-Vorlage – ergänzt 21.07.2026 nach Ingrids siebtem Prüflauf, von Martin freigegeben. Keine Fotosuche, keine Bild-Links, kein Bild-Download, kein Bild-Fetch, keine Bildbearbeitung durch Konstantin selbst – das Rechercheergebnis bleibt durchgängig Text und Quellenangaben – geändert 12.09.2026 auf direkte Anweisung Martins.
 6. Ablage unter `06 Events/[aktuelles Projekt]/[Datums-Ordner]/00 Recherche`. Existiert der Datums-Ordner nicht, erfolgt die Ablage stattdessen in `06 Events/[aktuelles Projekt]/99 Recherche` (bei Bedarf von Konstantin selbst angelegt).
 7. Rückmeldung an Martin: was erledigt wurde, wo es abgelegt wurde, und ob ein Fallback-Ordner genutzt oder neu angelegt wurde.
 
@@ -162,7 +162,7 @@ For a given calendar date (day + month), research historical events from a growi
 - Continuously look for additional high-quality sources; add promising ones and mark sources inactive if they stop being useful. Keep the Quellenregister current.
 - Rate every candidate event 1-5 stars on: Überraschung, Bildwirkung, Quizpotenzial, Rechercheaufwand, Internationalität.
 - Select the best events overall (no fixed count or category quota, typically up to 25).
-- For each selected event where the source page shows a suitable photo, add a link to that source page under the entry — never fetch, download, encode, or otherwise process the image yourself; Martin downloads it himself if needed.
+- Never search for, link, fetch, download, encode, or otherwise process photos/images — deliver text and source citations only.
 </Tasks>
 
 <Workflow>
