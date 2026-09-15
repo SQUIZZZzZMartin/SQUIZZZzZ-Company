@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH-005 Matilde.md",
+                "file": "DES-002-Typografie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH-005 Matilde"
+              "title": "DES-002-Typografie"
             }
           },
           {
@@ -503,6 +503,10 @@
   },
   "active": "73ee8bc50581a796",
   "lastOpenFiles": [
+    "DES-000-Design System.md",
+    "DES-001-Farbwelt.md",
+    "DES-002-Typografie.md",
+    "CH-005 Matilde.md",
     "CH-007 Hulda.md",
     "Live-SQUIZZZzZ.md",
     "Orange Codex.md",
@@ -528,7 +532,6 @@
     "CH-011 Alain.md",
     "CH-010 Ingrid.md",
     "CH-009 Alva.md",
-    "CH-005 Matilde.md",
     "CH-004-Friedrich.md",
     "CH-003-Jovis Kyckling.md",
     "CH-002-Lissi.md",
@@ -536,9 +539,6 @@
     "CD-000-Corporate Design.md",
     "smakfullt!.md",
     "CH-000-Character- und KI-Verzeichnis.md",
-    "ADR-002.md",
-    "ADR-001.md",
-    "ADR-000.md",
     "Zugriffsbedarfsanalyse.pdf",
     "Grafiken/CH-004-Friedrich/CH-004-Friedrich-002-Jurybegründung.pdf",
     "Grafiken/CH-004-Friedrich/Friedrichs Jurybegründung.pdf",
